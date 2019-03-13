@@ -1,0 +1,580 @@
+<DB>
+
+  <Text>
+    <Files>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all</SysName>
+        <ModDate>997301036</ModDate>
+        <Offset>0</Offset>
+      </File>
+    </Files>
+  </Text>
+
+  <Indices>
+
+    <Index>
+      <Name></Name>
+      <FastFind>
+        <FastFindCompression>
+          <File>
+            <SysName>/lv6/workspace/railton/reviews/mtreviews-all.ffi</SysName>
+            <ModDate>997301085</ModDate>
+            <Offset>0</Offset>
+          </File>
+        </FastFindCompression>
+        <FastFindIndex>
+          <File>
+            <SysName>/lv6/workspace/railton/reviews/mtreviews-all.ffc</SysName>
+            <ModDate>997301085</ModDate>
+            <Offset>0</Offset>
+          </File>
+        </FastFindIndex>
+        <FastFindWordList>
+          <File>
+            <SysName>/lv6/workspace/railton/reviews/mtreviews-all.ffw</SysName>
+            <ModDate>997301081</ModDate>
+            <Offset>0</Offset>
+          </File>
+        </FastFindWordList>
+      </FastFind>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.idx</SysName>
+        <ModDate>997301070</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <IndexPoints>
+        <IndexPt> &ISO_printable.</IndexPt>
+        <IndexPt>&gt.&ISO_printable.</IndexPt>
+        <IndexPt>&ISO_printable.&lt.</IndexPt>
+      </IndexPoints>
+      <Mappings>
+        <Map><From></From><To></To></Map>
+        <Map><From>&backspace.</From><To> </To></Map>
+        <Map><From>&tab.</From><To> </To></Map>
+        <Map><From>&newline.</From><To> </To></Map>
+        <Map><From>&return.</From><To> </To></Map>
+        <Map><From>!</From><To> </To></Map>
+        <Map><From>"</From><To> </To></Map>
+        <Map><From>#</From><To> </To></Map>
+        <Map><From>$</From><To> </To></Map>
+        <Map><From>%</From><To> </To></Map>
+        <Map><From>&amp.</From><To> </To></Map>
+        <Map><From>'</From><To> </To></Map>
+        <Map><From>(</From><To> </To></Map>
+        <Map><From>)</From><To> </To></Map>
+        <Map><From>*</From><To> </To></Map>
+        <Map><From>+</From><To> </To></Map>
+        <Map><From>,</From><To> </To></Map>
+        <Map><From>-</From><To> </To></Map>
+        <Map><From>.</From><To> </To></Map>
+        <Map><From>:</From><To> </To></Map>
+        <Map><From>;</From><To> </To></Map>
+        <Map><From>=</From><To> </To></Map>
+        <Map><From>&gt.</From><To> </To></Map>
+        <Map><From>?</From><To> </To></Map>
+        <Map><From>@</From><To> </To></Map>
+        <Map><From>A</From><To>a</To></Map>
+        <Map><From>B</From><To>b</To></Map>
+        <Map><From>C</From><To>c</To></Map>
+        <Map><From>D</From><To>d</To></Map>
+        <Map><From>E</From><To>e</To></Map>
+        <Map><From>F</From><To>f</To></Map>
+        <Map><From>G</From><To>g</To></Map>
+        <Map><From>H</From><To>h</To></Map>
+        <Map><From>I</From><To>i</To></Map>
+        <Map><From>J</From><To>j</To></Map>
+        <Map><From>K</From><To>k</To></Map>
+        <Map><From>L</From><To>l</To></Map>
+        <Map><From>M</From><To>m</To></Map>
+        <Map><From>N</From><To>n</To></Map>
+        <Map><From>O</From><To>o</To></Map>
+        <Map><From>P</From><To>p</To></Map>
+        <Map><From>Q</From><To>q</To></Map>
+        <Map><From>R</From><To>r</To></Map>
+        <Map><From>S</From><To>s</To></Map>
+        <Map><From>T</From><To>t</To></Map>
+        <Map><From>U</From><To>u</To></Map>
+        <Map><From>V</From><To>v</To></Map>
+        <Map><From>W</From><To>w</To></Map>
+        <Map><From>X</From><To>x</To></Map>
+        <Map><From>Y</From><To>y</To></Map>
+        <Map><From>Z</From><To>z</To></Map>
+        <Map><From>[</From><To> </To></Map>
+        <Map><From>\</From><To> </To></Map>
+        <Map><From>]</From><To> </To></Map>
+        <Map><From>^</From><To> </To></Map>
+        <Map><From>_</From><To> </To></Map>
+        <Map><From>`</From><To> </To></Map>
+        <Map><From>{</From><To> </To></Map>
+        <Map><From>|</From><To> </To></Map>
+        <Map><From>}</From><To> </To></Map>
+        <Map><From>~</From><To> </To></Map>
+        <Map><From>\240</From><To>n</To></Map>
+        <Map><From>\241</From><To>i</To></Map>
+        <Map><From>\242</From><To>c</To></Map>
+        <Map><From>\243</From><To>p</To></Map>
+        <Map><From>\244</From><To>c</To></Map>
+        <Map><From>\245</From><To>y</To></Map>
+        <Map><From>\246</From><To>b</To></Map>
+        <Map><From>\247</From><To>s</To></Map>
+        <Map><From>\250</From><To>u</To></Map>
+        <Map><From>\251</From><To>c</To></Map>
+        <Map><From>\252</From><To>o</To></Map>
+        <Map><From>\253</From><To>l</To></Map>
+        <Map><From>\254</From><To>n</To></Map>
+        <Map><From>\255</From><To>s</To></Map>
+        <Map><From>\256</From><To>r</To></Map>
+        <Map><From>\257</From><To>m</To></Map>
+        <Map><From>\260</From><To>d</To></Map>
+        <Map><From>\261</From><To>p</To></Map>
+        <Map><From>\262</From><To>s</To></Map>
+        <Map><From>\263</From><To>s</To></Map>
+        <Map><From>\264</From><To>a</To></Map>
+        <Map><From>\265</From><To>m</To></Map>
+        <Map><From>\266</From><To>p</To></Map>
+        <Map><From>\267</From><To>m</To></Map>
+        <Map><From>\270</From><To>c</To></Map>
+        <Map><From>\271</From><To>s</To></Map>
+        <Map><From>\272</From><To>o</To></Map>
+        <Map><From>\273</From><To>r</To></Map>
+        <Map><From>\274</From><To>f</To></Map>
+        <Map><From>\275</From><To>f</To></Map>
+        <Map><From>\276</From><To>f</To></Map>
+        <Map><From>\277</From><To>i</To></Map>
+        <Map><From>\300</From><To>A</To></Map>
+        <Map><From>\301</From><To>A</To></Map>
+        <Map><From>\302</From><To>A</To></Map>
+        <Map><From>\303</From><To>A</To></Map>
+        <Map><From>\304</From><To>A</To></Map>
+        <Map><From>\305</From><To>A</To></Map>
+        <Map><From>\306</From><To>A</To></Map>
+        <Map><From>\307</From><To>C</To></Map>
+        <Map><From>\310</From><To>E</To></Map>
+        <Map><From>\311</From><To>E</To></Map>
+        <Map><From>\312</From><To>E</To></Map>
+        <Map><From>\313</From><To>E</To></Map>
+        <Map><From>\314</From><To>I</To></Map>
+        <Map><From>\315</From><To>I</To></Map>
+        <Map><From>\316</From><To>I</To></Map>
+        <Map><From>\317</From><To>I</To></Map>
+        <Map><From>\320</From><To>E</To></Map>
+        <Map><From>\321</From><To>N</To></Map>
+        <Map><From>\322</From><To>O</To></Map>
+        <Map><From>\323</From><To>O</To></Map>
+        <Map><From>\324</From><To>O</To></Map>
+        <Map><From>\325</From><To>O</To></Map>
+        <Map><From>\326</From><To>O</To></Map>
+        <Map><From>\327</From><To>t</To></Map>
+        <Map><From>\330</From><To>O</To></Map>
+        <Map><From>\331</From><To>U</To></Map>
+        <Map><From>\332</From><To>U</To></Map>
+        <Map><From>\333</From><To>U</To></Map>
+        <Map><From>\334</From><To>U</To></Map>
+        <Map><From>\335</From><To>Y</To></Map>
+        <Map><From>\336</From><To>T</To></Map>
+        <Map><From>\337</From><To>s</To></Map>
+        <Map><From>\340</From><To>a</To></Map>
+        <Map><From>\341</From><To>a</To></Map>
+        <Map><From>\342</From><To>a</To></Map>
+        <Map><From>\343</From><To>a</To></Map>
+        <Map><From>\344</From><To>a</To></Map>
+        <Map><From>\345</From><To>a</To></Map>
+        <Map><From>\346</From><To>a</To></Map>
+        <Map><From>\347</From><To>c</To></Map>
+        <Map><From>\350</From><To>e</To></Map>
+        <Map><From>\351</From><To>e</To></Map>
+        <Map><From>\352</From><To>e</To></Map>
+        <Map><From>\353</From><To>e</To></Map>
+        <Map><From>\354</From><To>i</To></Map>
+        <Map><From>\355</From><To>i</To></Map>
+        <Map><From>\356</From><To>i</To></Map>
+        <Map><From>\357</From><To>i</To></Map>
+        <Map><From>\360</From><To>e</To></Map>
+        <Map><From>\361</From><To>n</To></Map>
+        <Map><From>\362</From><To>o</To></Map>
+        <Map><From>\363</From><To>o</To></Map>
+        <Map><From>\364</From><To>o</To></Map>
+        <Map><From>\365</From><To>o</To></Map>
+        <Map><From>\366</From><To>o</To></Map>
+        <Map><From>\367</From><To>d</To></Map>
+        <Map><From>\370</From><To>o</To></Map>
+        <Map><From>\371</From><To>u</To></Map>
+        <Map><From>\372</From><To>u</To></Map>
+        <Map><From>\373</From><To>u</To></Map>
+        <Map><From>\374</From><To>u</To></Map>
+        <Map><From>\375</From><To>y</To></Map>
+        <Map><From>\376</From><To>t</To></Map>
+        <Map><From>\377</From><To>y</To></Map>
+        <StopWords></StopWords>
+      </Mappings>
+      <LongestMatch>
+        <Length>0</Length>
+        <Resolution>0</Resolution>
+      </LongestMatch>
+      <IntegrityCheck>892103774</IntegrityCheck>
+    </Index>
+  </Indices>
+
+  <Regions>
+
+    <Region>
+      <Name>ID</Name>
+      <Desc>Structure delimited by 'ID' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>4040</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>keyword</Name>
+      <Desc>Structure delimited by 'keyword' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>4040</Offset>
+      </File>
+      <Count>338</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>title</Name>
+      <Desc>Structure delimited by 'title' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>5392</Offset>
+      </File>
+      <Count>336</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>html</Name>
+      <Desc>Structure delimited by 'html' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>6736</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>head</Name>
+      <Desc>Structure delimited by 'head' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>6736</Offset>
+      </File>
+      <Count>336</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>h1</Name>
+      <Desc>Structure delimited by 'h1' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>8080</Offset>
+      </File>
+      <Count>66</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>h2</Name>
+      <Desc>Structure delimited by 'h2' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>8344</Offset>
+      </File>
+      <Count>292</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>h3</Name>
+      <Desc>Structure delimited by 'h3' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>9512</Offset>
+      </File>
+      <Count>12</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>h4</Name>
+      <Desc>Structure delimited by 'h4' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>9560</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>date</Name>
+      <Desc>Structure delimited by 'date' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>9560</Offset>
+      </File>
+      <Count>404</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>US</Name>
+      <Desc>Structure delimited by 'date' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/US.P</SysName>
+        <ModDate>934563903</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>292</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>UK</Name>
+      <Desc>Structure delimited by 'date' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/UK.P</SysName>
+        <ModDate>934563903</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>44</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>country</Name>
+      <Desc>Structure delimited by 'country' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>11176</Offset>
+      </File>
+      <Count>338</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>regions</Name>
+      <Desc>Structure delimited by 'regions' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>12528</Offset>
+      </File>
+      <Count>334</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>opinion</Name>
+      <Desc>Structure delimited by 'opinion' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>13864</Offset>
+      </File>
+      <Count>338</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>category</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>2696</Offset>
+      </File>
+      <Count>336</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>huck</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/huck.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>20</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>innocents</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/innocents.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>18</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>savages</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/savages.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>28</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>vandal</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/vandal.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>16</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>yankee</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/yankee.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>20</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>pudwilson</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/pudwilson.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>30</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>roughit</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/roughit.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>28</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>tomsawyer</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/tomsawyer.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>24</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>tour7172</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/tour7172.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>66</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>twaincable</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/twaincable.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>60</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>worldtour</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/worldtour.P</SysName>
+        <ModDate>997274281</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>26</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>region</Name>
+      <Desc>Structure delimited by 'region' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>12528</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>TEI2</Name>
+      <Desc>Structure delimited by 'TEI2' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>336</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>idno</Name>
+      <Desc>Structure delimited by 'idno' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/reviews/mtreviews-all.rgn</SysName>
+        <ModDate>997301062</ModDate>
+        <Offset>1344</Offset>
+      </File>
+      <Count>338</Count>
+      <Type>pairs</Type>
+    </Region>
+  </Regions>
+</DB>

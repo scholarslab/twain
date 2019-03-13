@@ -1,0 +1,226 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;
+]>
+<TEI.2 id="TwaQuin">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Arousing More Interest
+</title>
+<title type="gmd">[electronic resource]
+</title>
+<author>Twain, Mark, 1835-1910
+</author>
+<editor>
+</editor>
+<respStmt>
+<resp>
+</resp>
+<name>
+</name>
+<resp>Creation of machine-readable version: 
+</resp>
+<name>Steve Railton
+</name>
+<resp>Conversion to TEI.2-conformant markup: 
+</resp>
+<name>J. Nathaniel Goldsmith, University of Virginia Library Electronic Text Center.
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. xxx kilobytes
+</extent>
+<publicationStmt>
+<publisher>University of Virginia Library
+</publisher>
+<pubPlace>Charlottesville, Virginia
+</pubPlace>
+<idno type="ETC">Modern English, TwaQuin
+</idno>
+<availability>
+<p>University of Virginia users only
+</p>
+<p n="uva">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html
+</p>
+<p>copyright 2001, by the Rector and Visitors of the University of Virginia
+</p>
+</availability>
+<date>2001
+</date>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>Illustrations have been included from the original source.
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>Arousing More Interest
+</title>
+<title type="parallel">
+</title>
+<title level="m">
+</title>
+<author>Mark Twain, pseud. Samuel Langhorne Clemens
+</author>
+<editor>
+</editor>
+<respStmt>
+<resp>
+</resp>
+<name>
+</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>
+</p>
+</editionStmt>
+<extent>
+</extent>
+<publicationStmt>
+<publisher>Quincy Herald
+</publisher>
+<pubPlace>Quincy
+</pubPlace>
+<date>
+</date>
+<idno type="callNo">Source copy consulted: 
+</idno>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing part of a word has been joined to the preceding line.
+</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme  to aid in establishing analytical groupings.
+</p>
+</editorialDecl>
+<refsDecl>
+<p>
+</p>
+</refsDecl>
+<classDecl>
+<taxonomy id="LCSH">
+<bibl>
+<title>Library of Congress Subject Headings
+</title>
+</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date>
+</date>
+</creation>
+<langUsage>
+<language id="eng">english
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>non-fiction
+</term>
+<term>prose
+</term>
+<term>masculine
+</term>
+<term>Mark Twain
+</term>
+</keywords>
+<keywords scheme="LCSH">
+<term type="Field650">LCSH
+</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>July, 2001
+</date>
+<respStmt>
+<resp>corrector
+</resp>
+<name>
+</name>
+</respStmt>
+<item>
+</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="TwaQuinT">
+<front>
+<head>
+<title>MT's Quincy Promotion</title>
+</head>
+</front>
+
+<body>
+<div1 type="letter">
+<head>Arousing More Interest</head>
+
+<p>JOHN SMITH, ESQ. --
+Dear Sire: It gratifies me, more than tongue can express, to receive this kind attention at your
+hand, and I hasten to reply to your flattering note.  I am filled with astonishment to find you here,
+John Smith.  I am astonished, because I thought you were in San Francisco.  I am almost certain I
+left you there.  I am almost certain it was you, and I know if it was not you, it was a man whose
+name is similar.</p>
+
+<p>I am surprised to find you here, John Smith.  And yet I ought not to be, either, because I
+found you in New York, most unexpectedly; and I stumbled on you in Boston; and was amazed to
+discover you in New Orleans; and thunderstruck to run across you in St. Louis.  You must
+certainly be a sort of roving disposition, John Smith.  You certainly are, John, and you know that
+a rolling stone gathers no moss.  And a rolling Smith never gathers any moss.  There is no real use
+in anybody's gathering moss, John, because it isn't worth any more in the market than sawdust is,
+and hardly as much -- but then, if we want to get along pleasantly with the world, we must respect
+the world's little whims and caprices; and you know that the world has a foolish prejudice in favor
+of a man's gathering moss.  So you had better locate, John, and go to gathering some.  It is no 
+credit to you, John Smith, that you are always sure to turn up wherever a man goes.  It may be --
+no, it cannot be possible -- that there are two John Smiths.  The idea is absurd.</p>
+
+<p>However, I always liked you, Smith, and I am right glad to come across you again, moss or
+no moss.  I am proud to be asked to lecture for you and shall always treasure the recollection of
+that compliment with peculiar fondness; but you see I have already agreed to lecture for the
+Encore Club, and so of course I have to decline your kind offer.  But do not let this provoke a
+coolness, John; on the contrary, let it bind us together more tenderly than ever in the common
+bonds of our rolling and mossless good fellowship.</p>
+
+<p>Come to National Hall Tuesday night, 9th inst., John, and bring some of your relations.  I
+would say bring all of them, John, and say it with all my heart, too, but the hall only covers one
+acre of ground, and your Smith family is a large one, John.</p>
+
+<closer>Yors tenderly,
+<signed>MARK TWAIN</signed>
+</closer>
+
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,70 @@
+To list a directory:
+
+
+	ls (short list)
+
+	ls -l (long list)
+
+	One screen at a time (to go forward, hit the space bar)
+
+	ls | more
+
+	ls -l | more 
+
+To change permissions:
+
+
+For a file to be "viewable" on the web it must be readable by all :
+
+Every file and directory has three levels of permission:  
+
+	owner / group / everyone
+
+and three possibilities:
+
+	read / write / execute
+
+FILE
+
+So, for a file to be usable on the web it must be readable (but not a
+good idea to make it executable OR writeable by the rest of the world).
+
+
+	-rw-r--r--   1 sfr      twain       1801 Apr 10 1997  znhhp.html
+
+	- rw-  r--  r--   1 sfr      twain       1801 Apr 10 1997  znhhp.html
+
+This is owned by sfr and is rw (read/write) by him
+
+This is in the twain group, and the group can read but not write to it
+
+The rest of the world can read but not write to it
+
+
+DIRECTORY
+
+A directory needs to be both readable and executable by the world (but
+not writeable).
+
+	drwxrwxr-x   2 sfr    twain       1024 Oct 31 10:40 uncletom
+
+TO CHANGE PERMISSIONS
+
+	To add executable permission to a directory:
+
+	chmod a+x NAME OF DIRECTORY
+
+
+	To add read permission to a file:
+
+	chmod a+r NAME OF FILE
+
+
+	To do this globally, 
+
+	chmod a+r *
+
+
+	To do this globally, only on jpegs
+
+	chmod a+r *.jpg

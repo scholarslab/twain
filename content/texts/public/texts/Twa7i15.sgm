@@ -1,0 +1,241 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
+<!NOTATION jpg SYSTEM "JPEG"> 
+<!ENTITY Tw770915 SYSTEM "Tw770915.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
+]> 
+<TEI.2 id="Twa7i15"> 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+<title>Letter, Mark Twain, Hartford, CT, to (George) Bentley, 1877 Sep 15 [a machine-readable transcription] 
+</title>  
+<author>Twain, Mark, 1835-1910 
+</author>  
+<respStmt> 
+<resp>Creation of machine-readable version:  
+</resp>  
+<name>Stephen Railton 
+</name>  
+<resp>Creation of digital images:  
+</resp>  
+<name>Special Collections, University of Virginia Library 
+</name>  
+<resp>Conversion to TEI.2-conformant markup:  
+</resp>  
+<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro 
+for the University of Virginia Library Electronic Text Center.
+</name>  
+</respStmt>  
+</titleStmt>  
+<extent>ca. 10 kilobytes  
+</extent>  
+<publicationStmt> 
+<publisher>University of Virginia Library. 
+</publisher>  
+<pubPlace>Charlottesville, Va. 
+</pubPlace>  
+<idno type="ETC">Modern English, Twa7i15</idno>  
+<availability> 
+<p>Publicly accessible 
+</p>  
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html 
+</p>  
+<p n="public">URL: http://twain.lib.virginia.edu/index2.html 
+</p>  
+<p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
+</availability>  
+<date>1997 
+</date>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>Images of the manuscript pages have been included. 
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>Mark Twain, Hartford, CT, to (George) Bentley, 1877 Sep 15  
+</title>  
+<title> 
+</title>  
+<author>Mark Twain, pseud. Samuel Langhorne Clemens 
+</author>  
+<respStmt> 
+<resp> 
+</resp>  
+<name> 
+</name>  
+</respStmt>  
+</titleStmt>  
+<editionStmt> 
+<p> 
+</p>  
+</editionStmt>  
+<extent> 
+</extent>  
+<publicationStmt> 
+<publisher> 
+</publisher>  
+<pubPlace> 
+</pubPlace>  
+<date> 
+</date>  
+<idno>Print copy consulted: Original manuscript in Special Collections, University of Virginia Library: Papers of Mark Twain 1862-1946, bulk 1872-1910; 6314; AL [1877] Sep 15 
+</idno>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>This letter is included in the Papers of Mark Twain Collection of the Clifton W. Barrett Library of American Literature. 
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+</biblFull>  
+</sourceDesc>  
+</fileDesc>  
+<encodingDesc> 
+<projectDesc> 
+<p>Prepared for the University of Virginia Library Electronic Text Center. 
+</p>  
+</projectDesc>  
+<editorialDecl> 
+<p>All quotation marks retained as data. 
+</p>  
+<p>The lineation of the manuscript has been preserved. 
+</p>  
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
+</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
+</p>  
+</editorialDecl>  
+<refsDecl> 
+<p> 
+</p>  
+</refsDecl>  
+<classDecl> 
+<taxonomy> 
+<bibl> 
+<title>Library of Congress Subject Headings 
+</title>  
+</bibl>  
+</taxonomy>  
+</classDecl>  
+</encodingDesc>  
+<profileDesc> 
+<creation> 
+<date>1877 
+</date>  
+</creation>  
+<langUsage> 
+<language id="en">English 
+</language>  
+</langUsage>  
+<textClass> 
+<keywords> 
+<term>prose; non-fiction 
+</term>  
+</keywords>  
+<keywords> 
+<term>LCSH 
+</term>  
+</keywords>  
+<keywords> 
+<term> 
+</term>  
+<term> 
+</term>  
+<term type="format">24 bit color; 300 dpi 
+</term>  
+</keywords>  
+</textClass>  
+</profileDesc>  
+<revisionDesc> 
+<change> 
+<date>June 1997 
+</date>  
+<respStmt> 
+<resp>corrector 
+</resp>  
+<name>Lisa Spiro, Electronic Text Center 
+</name>  
+</respStmt>  
+<item>Added TEI tags and header, converted files from HTML to TEI, and re-introduced original lineation. 
+</item>  
+</change>  
+</revisionDesc>  
+</teiHeader>  
+ 
+ 
+<text id="Twa7i15T"> 
+<body> 
+ <pb n="1" id="Tw7709151">  
+<div1 type="letter"> 
+<opener> 
+<seg> 
+<figure entity="Tw770915"> 
+<figDesc>Papers of Mark Twain, AL [1877] Sep 15,  
+Mark Twain, Hartford, CT, to [George] Bentley, image of pages one and two. 
+</figDesc> 
+</figure> 
+</seg> 
+<dateline><name type="place"> 
+<abbr expan="Connecticut">Conn.</abbr>, <abbr expan="United States">U.S.</abbr></name>  
+<date n="1877-09-15"><abbr expan="September">Sep.</abbr> 15.</date> 
+</dateline> 
+  
+<salute>My Dear Sir:</salute> 
+</opener>  
+<p>I sent you <abbr expan="Number">No.</abbr> 1 of <lb> 
+a series of 4 articles which <lb> 
+I have been writing for <lb> 
+the Atlantic Monthly, &amp; <lb> 
+with this I enclose <abbr expan="Number">No.</abbr> 2. <lb> 
+I saw Mr. Chatto in New <lb> 
+York lately, &amp; told him <lb> 
+he could have these <orig reg="advance">ad- <lb> 
+vance</orig> sheets for one <lb> 
+of his magazines in case <lb> 
+you did not wish to use <lb> 
+them. I have just <orig reg="written">writ- <lb> 
+ten</orig> Mr. Chatto that I have <lb> 
+not heard from you &amp; <lb> 
+ 
+   <pb n="2" id="Tw7709152">  
+ 
+therefore cannot inform <lb> 
+him whether you want <lb> 
+the advance sheets or <lb> 
+not.  I have suggested <lb> 
+that he inquire of you. </p>  
+ 
+<closer> 
+<salute>Truly Yours</salute>  
+<signed><abbr expan="Samuel">Sam.l</abbr> L. Clemens<lb>  
+(<hi rend="underline">"Mark Twain."</hi>)</signed> 
+  
+<seg type="postscript">It is possible, Mr. Bentley, <lb> 
+that my letter miscarried, <lb> 
+since you many have moved <lb> 
+from New Burlington <lb> 
+street.  I will simply <orig reg="direct">di- <lb> 
+rect</orig> this to The Editor of <lb> 
+Temple Bar, to make sure.</seg> 
+</closer> 
+</div1> 
+    
+</body>  
+</text> 
+</TEI.2> 

@@ -1,0 +1,255 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
+<!NOTATION jpg SYSTEM "JPEG"> 
+<!ENTITY T901227a SYSTEM "T901227a.jpg" NDATA jpg> 
+<!ENTITY T901227b SYSTEM "T901227b.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
+]> 
+<TEI.2 id="Twa0l27"> 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+<title>Letter, Mark Twain, Hartford, CT, to Fred J. Hall, 1890 Dec 27 [a machine-readable transcription] 
+</title>  
+<author>Twain, Mark, 1835-1910  
+</author>  
+<respStmt> 
+<resp>Creation of machine-readable version:  
+</resp>  
+<name>Stephen Railton 
+</name>  
+<resp>Creation of digital images:  
+</resp>  
+<name>Special Collections, University of Virginia Library  
+</name>  
+<resp>Conversion to TEI.2-conformant markup:  
+</resp>  
+<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro 
+for the University of Virginia Library Electronic Text Center.
+</name>  
+</respStmt>  
+</titleStmt>  
+<extent>ca. 5 kilobytes  
+</extent>  
+<publicationStmt> 
+<publisher>University of Virginia Library. 
+</publisher>  
+<pubPlace>Charlottesville, Va. 
+</pubPlace>  
+<idno type="ETC">Modern English, Twa0l27</idno>  
+<availability> 
+<p>Publicly accessible 
+</p>  
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html 
+</p>  
+<p n="public">URL: http://twain.lib.virginia.edu/index2.html 
+</p>  
+<p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
+</availability>  
+<date>1997 
+</date>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>Images of the manuscript pages have been included.  
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>Mark Twain, Hartford, CT, to Fred J. Hall, 1890 Dec 27 
+</title>  
+<title> 
+</title>  
+<author>Mark Twain, pseud. Samuel Langhorne Clemens 
+</author>  
+<respStmt> 
+<resp> 
+</resp>  
+<name> 
+</name>  
+</respStmt>  
+</titleStmt>  
+<editionStmt> 
+<p> 
+</p>  
+</editionStmt>  
+<extent> 
+</extent>  
+<publicationStmt> 
+<publisher> 
+</publisher>  
+<pubPlace> 
+</pubPlace>  
+<date> 
+</date>  
+<idno>Print copy consulted: Original manuscript in Special Collections, 
+University of Virginia Library: Papers of Mark Twain 1862-1946, bulk 
+1872-1910; 6314; AL 1890 Dec 27 
+</idno>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note> 
+</note>  
+</notesStmt>  
+</biblFull>  
+</sourceDesc>  
+</fileDesc>  
+<encodingDesc> 
+<projectDesc> 
+<p>Prepared for the University of Virginia Library Electronic Text Center. 
+</p>  
+</projectDesc>  
+<editorialDecl> 
+<p>All quotation marks retained as data. 
+</p>  
+<p>The lineation of the manuscript has been preserved. 
+</p>  
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
+</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
+</p>  
+</editorialDecl>  
+<refsDecl> 
+<p> 
+</p>  
+</refsDecl>  
+<classDecl> 
+<taxonomy> 
+<bibl> 
+<title>Library of Congress Subject Headings 
+</title>  
+</bibl>  
+</taxonomy>  
+</classDecl>  
+</encodingDesc>  
+<profileDesc> 
+<creation> 
+<date>1890  
+</date>  
+</creation>  
+<langUsage> 
+<language id="en">English 
+</language>  
+</langUsage>  
+<textClass> 
+<keywords> 
+<term>prose; non-fiction 
+</term>  
+</keywords>  
+<keywords> 
+<term>LCSH 
+</term>  
+</keywords>  
+<keywords> 
+<term> 
+</term>  
+<term> 
+</term>  
+<term type="format">24 bit color; 300 dpi 
+</term>  
+</keywords>  
+</textClass>  
+</profileDesc>  
+<revisionDesc> 
+<change> 
+<date>June 1997 
+</date>  
+<respStmt> 
+<resp>corrector 
+</resp>  
+<name>Lisa Spiro, Electronic Text Center 
+</name>  
+</respStmt>  
+<item>Added TEI header and tags, converted files from HTML to TEI, and re-introduced original lineation. 
+</item>  
+</change>  
+</revisionDesc>  
+</teiHeader>  
+ 
+<text id="Twa0l27T"> 
+<body> 
+ <pb n="1" id="Tw9012271">  
+<div1 type="letter"> 
+<opener> 
+<seg><figure entity="T901227a"> 
+<figDesc>Papers of Mark Twain, AL 1890 Dec 27, 
+Mark Twain, Hartford, CT, to Fred J. Hall;  
+image of page one of the manuscript. 
+</figDesc> 
+</figure> 
+</seg> 
+<dateline><name type="place">Hartford</name>,  
+<date n="1890-12-27"><abbr expan="December">Dec.</abbr> 27/90. 
+</date></dateline>  
+<salute>Dear Mr. Hall:</salute>  
+</opener> 
+<p>I don't believe Whitford. <lb> 
+Webster was too big a coward <lb> 
+to bring a suit when advised <lb> 
+against it.  The real mistake <lb> 
+was in trusting law business <lb> 
+to an ignorant, blethering <lb> 
+gas-pipe like Whitford. <lb> 
+I am not saying this in <lb> 
+hatred, for I do not dislike <lb> 
+Whitford.  He is simply a <lb> 
+damned fool &mdash; in Court &mdash; <lb> 
+&amp; will infallibly lose every <lb> 
+suit you put into his hands. <lb> 
+If you are going to have <lb> 
+ 
+ 
+   <pb n="2" id="Tw9012272">  
+ 
+<figure entity="T901227b"> 
+<figDesc>Papers of Mark Twain, AL 1890 Dec 27, 
+Mark Twain, Hartford, CT, to Fred J. Hall;  
+image of page two of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+any <del>[illeg.]</del><add place="overwritten">lawsuits</add> with Gill, <lb> 
+I beg that you will either <lb> 
+compromise or have <lb> 
+some other law conduct <lb> 
+the thing.</p> 
+  
+<p>I am mighty sorry <lb> 
+for you, but this result <lb> 
+was to be expected.  If I <lb> 
+were you I would ask <orig reg="Whitford">Whit- <lb> 
+ford</orig> to present a modified <lb> 
+bill &mdash; or better still, present <lb> 
+it to the parties he won the <lb> 
+case for.</p>  
+ 
+<p>Merry <abbr expan="Christmas">Xmas</abbr> to you! &mdash; <lb> 
+&amp; I wish to <del>g</del><add place="overwritten" n="God">G</add>od I could have <lb> 
+one myself before I die.</p>  
+ 
+<closer> 
+<salute><abbr expan="Yours">Ys</abbr> Ever </salute>  
+<signed>SLC</signed>  
+ 
+</closer> 
+</div1> 
+   
+</body>  
+</text> 
+</TEI.2> 
+ 
+ 
+ 

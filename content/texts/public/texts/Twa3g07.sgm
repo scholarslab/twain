@@ -1,0 +1,259 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
+<!NOTATION jpg SYSTEM "JPEG"> 
+<!ENTITY T730707a SYSTEM "T720707a.jpg" NDATA jpg> 
+<!ENTITY T730707b SYSTEM "T720707b.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
+]> 
+<TEI.2 id="Twa3g07"> 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+<title>Letter, Mark Twain, Langham Hotel, London, to (Elisha) Bliss, (1873) Jul 7 [a machine-readable transcription] 
+</title>  
+<author>Twain, Mark, 1835-1910 
+</author>  
+<respStmt> 
+<resp>Creation of machine-readable version:  
+</resp>  
+<name>Stephen Railton 
+</name>  
+<resp>Creation of digital images:  
+</resp>  
+<name>Special Collections, University of Virginia Library 
+</name>  
+<resp>Conversion to TEI.2-conformant markup:  
+</resp>  
+<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro 
+for the University of Virginia Library Electronic Text Center.
+</name>  
+</respStmt>  
+</titleStmt>  
+<extent>ca. 10 kilobytes  
+</extent>  
+<publicationStmt> 
+<publisher>University of Virginia Library. 
+</publisher>  
+<pubPlace>Charlottesville, Va. 
+</pubPlace>  
+<idno type="ETC">Modern English, Twa3g07</idno>  
+<availability> 
+<p>Publicly accessible 
+</p>  
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html 
+</p>  
+<p n="public">URL: http://twain.lib.virginia.edu/index2.html 
+</p>  
+<p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
+</availability>  
+<date>1997 
+</date>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>Images of the manuscript pages have been included. 
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>Mark Twain, Langham Hotel, London, to (Elisha) Bliss, (1873) Jul 7 
+</title>  
+<title> 
+</title>  
+<author>Mark Twain, pseud. Samuel Langhorne Clemens 
+</author>  
+<respStmt> 
+<resp> 
+</resp>  
+<name> 
+</name>  
+</respStmt>  
+</titleStmt>  
+<editionStmt> 
+<p> 
+</p>  
+</editionStmt>  
+<extent> 
+</extent>  
+<publicationStmt> 
+<publisher> 
+</publisher>  
+<pubPlace> 
+</pubPlace>  
+<date> 
+</date>  
+<idno>Print copy consulted: Original manuscript in Special  
+Collections, University of Virginia Library:  
+Papers of Mark Twain 1862-1946, bulk 1872-1910;  
+6314; AL (1873) Jul 7 
+</idno>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>This letter is included in the Papers of Mark Twain Collection in the Clifton W. Barrett Library of American Literature at the University of Virginia. 
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+</biblFull>  
+</sourceDesc>  
+</fileDesc>  
+<encodingDesc> 
+<projectDesc> 
+<p>Prepared for the University of Virginia Library Electronic Text Center. 
+</p>  
+</projectDesc>  
+<editorialDecl> 
+<p>All quotation marks retained as data. 
+</p>  
+<p>The lineation of the manuscript has been preserved. 
+</p>  
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
+</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
+</p>  
+</editorialDecl>  
+<refsDecl> 
+<p> 
+</p>  
+</refsDecl>  
+<classDecl> 
+<taxonomy> 
+<bibl> 
+<title>Library of Congress Subject Headings 
+</title>  
+</bibl>  
+</taxonomy>  
+</classDecl>  
+</encodingDesc>  
+<profileDesc> 
+<creation> 
+<date>1873 
+</date>  
+</creation>  
+<langUsage> 
+<language id="en">English 
+</language>  
+</langUsage>  
+<textClass> 
+<keywords> 
+<term>prose; non-fiction 
+</term>  
+</keywords>  
+<keywords> 
+<term>LCSH 
+</term>  
+</keywords>  
+<keywords> 
+<term type="artist"> 
+</term>  
+<term> 
+</term>  
+<term type="format">24 bit color; 300 dpi 
+</term>  
+</keywords>  
+</textClass>  
+</profileDesc>  
+<revisionDesc> 
+<change> 
+<date>June 1997 
+</date>  
+<respStmt> 
+<resp>corrector 
+</resp>  
+<name>Lisa Spiro, Electronic Text Center 
+</name>  
+</respStmt>  
+<item>Added TEI header and tags, converted file from HTML to TEI, and re-introduced original lineation. 
+</item>  
+</change>  
+</revisionDesc>  
+</teiHeader>  
+ 
+ 
+<text id="Twa3g07T"> 
+<body> 
+ <pb n="1" id="Tw7307071">  
+<div1 type="letter"> 
+<opener> 
+<seg> 
+<figure entity="T730707a"> 
+<figDesc>Papers of Mark Twain, AL (1873) Jul 7,  
+Mark Twain, Langham Hotel, London, to (Elisha) Bliss;  
+image of page one of the manuscript.   
+</figDesc> 
+</figure> 
+</seg> 
+<dateline><name type="place">The Langhorn Hotel<lb> 
+London</name>,<date n="1873-07-07">July 7.</date> 
+</dateline> 
+<salute>Friend Bliss:</salute>  
+</opener> 
+ 
+<p>Finally concluded <lb> 
+not to go to Paris. <lb> 
+So you can take <lb> 
+the Herald letters &amp; <lb> 
+put them in a <orig reg="pamphlet">pam- <lb> 
+phlet</orig> along with the <lb> 
+Enclosed article <lb> 
+about the Jumping <lb> 
+Frog in French, <lb> 
+<add place="supralinear">(which is entirely new)</add> 
+&amp; then add enough <lb> 
+<lb>
+<lb>
+<note>[Written in margin:</note> 
+<add place="left">I enclose Prefatory remarks,  
+"To the Reader."  You can mention,  
+if you choose, that the Frog article  
+has not been printed before.</add> 
+ 
+<lb> 
+   <pb n="2" id="Tw7307072">  
+<figure entity="T730707b"> 
+<figDesc>Papers of Mark Twain, AL (1873) Jul 7, 
+Mark Twain, Langham Hotel, London, to (Elisha) Bliss; 
+image of page two of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+of my old sketches to <lb> 
+make <hi rend="underline">a good fat <lb> 
+25 cent pamphlet</hi> <lb> 
+&amp; let it slide &mdash; but <lb> 
+don't charge <hi rend="underline">more</hi> <lb> 
+than 25<hi rend="superscript">c</hi> nor less. <lb> 
+If you haven't a <lb> 
+Routledge edition of <lb> 
+my sketches to select <lb> 
+from you will find <lb> 
+one at my house or <lb> 
+Warner's.</p>  
+ 
+<p>I don't expect to <lb> 
+write any more Herald <lb> 
+letters at present.</p>  
+ 
+<closer> 
+<salute><orig reg="Yours">Yrs</orig> Truly</salute> 
+<signed>SL. Clemens</signed> 
+</closer> 
+</div1> 
+   
+</body>  
+</text> 
+</TEI.2> 
+ 

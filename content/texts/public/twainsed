@@ -1,0 +1,43 @@
+s/<pb/<\/pb><pb/g;
+
+s/<!DOCTYPE .*//g;
+s/<!NOTATION .*>//g;
+s/<!ENTITY .*//g;
+s/]>//g;
+
+s/<teiHeader/<section><pb><teiHeader/g;
+
+s/<\/teiHeader>/<\/teiHeader><\/section>/g;
+
+s/<div1/<section><div1/g;
+
+s/<\/div1>/<\/div1><\/section>/g;  
+
+s/<front>/<front><section>/g; 
+
+s/<\/front>/<\/section><\/front>/g;
+
+s/<back>/<back><section>/g; 
+
+s/<\/back>/<\/pb><\/section><\/back>/g;
+
+s/<idno>Modern English, /<idno>/g; 
+s/<idno>Modern English; /<idno>/g; 
+
+s/<idno type="ETC">Modern English, /<idno>/g;
+s/<idno type="ETC">Modern English; /<idno>/g;
+
+s/&odq;/"/g;
+s/&cdq;/"/g;
+
+s/&ldquo;/"/g;
+s/&rdquo;/"/g;
+s/&odq;/"/g;
+s/&cdq;/"/g;
+s/&osq;/'/g;
+s/&csq;/'/g;
+s/&mdash;/ -- /g;
+
+s/<TEI.2/<TEI2/g;
+s/<\/TEI.2>/<\/TEI2>/g;
+

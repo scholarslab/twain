@@ -1,0 +1,1420 @@
+<DB>
+
+  <Text>
+    <Files>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub</SysName>
+        <ModDate>1086190583</ModDate>
+        <Offset>0</Offset>
+      </File>
+    </Files>
+  </Text>
+
+  <Indices>
+
+    <Index>
+      <Name></Name>
+      <FastFind>
+        <FastFindCompression>
+          <File>
+            <SysName>/lv6/workspace/railton/texts/public/twainpub.ffi</SysName>
+            <ModDate>1086191025</ModDate>
+            <Offset>0</Offset>
+          </File>
+        </FastFindCompression>
+        <FastFindIndex>
+          <File>
+            <SysName>/lv6/workspace/railton/texts/public/twainpub.ffc</SysName>
+            <ModDate>1086191025</ModDate>
+            <Offset>0</Offset>
+          </File>
+        </FastFindIndex>
+        <FastFindWordList>
+          <File>
+            <SysName>/lv6/workspace/railton/texts/public/twainpub.ffw</SysName>
+            <ModDate>1086190981</ModDate>
+            <Offset>0</Offset>
+          </File>
+        </FastFindWordList>
+      </FastFind>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.idx</SysName>
+        <ModDate>1086190902</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <IndexPoints>
+        <IndexPt> &ISO_printable.</IndexPt>
+        <IndexPt>&gt.&ISO_printable.</IndexPt>
+        <IndexPt>&ISO_printable.&lt.</IndexPt>
+      </IndexPoints>
+      <Mappings>
+        <Map><From></From><To></To></Map>
+        <Map><From>&backspace.</From><To> </To></Map>
+        <Map><From>&tab.</From><To> </To></Map>
+        <Map><From>&newline.</From><To> </To></Map>
+        <Map><From>&return.</From><To> </To></Map>
+        <Map><From>!</From><To> </To></Map>
+        <Map><From>"</From><To> </To></Map>
+        <Map><From>#</From><To> </To></Map>
+        <Map><From>$</From><To> </To></Map>
+        <Map><From>%</From><To> </To></Map>
+        <Map><From>&amp.</From><To> </To></Map>
+        <Map><From>'</From><To> </To></Map>
+        <Map><From>(</From><To> </To></Map>
+        <Map><From>)</From><To> </To></Map>
+        <Map><From>*</From><To> </To></Map>
+        <Map><From>+</From><To> </To></Map>
+        <Map><From>,</From><To> </To></Map>
+        <Map><From>-</From><To> </To></Map>
+        <Map><From>.</From><To> </To></Map>
+        <Map><From>:</From><To> </To></Map>
+        <Map><From>;</From><To> </To></Map>
+        <Map><From>=</From><To> </To></Map>
+        <Map><From>&gt.</From><To> </To></Map>
+        <Map><From>?</From><To> </To></Map>
+        <Map><From>@</From><To> </To></Map>
+        <Map><From>A</From><To>a</To></Map>
+        <Map><From>B</From><To>b</To></Map>
+        <Map><From>C</From><To>c</To></Map>
+        <Map><From>D</From><To>d</To></Map>
+        <Map><From>E</From><To>e</To></Map>
+        <Map><From>F</From><To>f</To></Map>
+        <Map><From>G</From><To>g</To></Map>
+        <Map><From>H</From><To>h</To></Map>
+        <Map><From>I</From><To>i</To></Map>
+        <Map><From>J</From><To>j</To></Map>
+        <Map><From>K</From><To>k</To></Map>
+        <Map><From>L</From><To>l</To></Map>
+        <Map><From>M</From><To>m</To></Map>
+        <Map><From>N</From><To>n</To></Map>
+        <Map><From>O</From><To>o</To></Map>
+        <Map><From>P</From><To>p</To></Map>
+        <Map><From>Q</From><To>q</To></Map>
+        <Map><From>R</From><To>r</To></Map>
+        <Map><From>S</From><To>s</To></Map>
+        <Map><From>T</From><To>t</To></Map>
+        <Map><From>U</From><To>u</To></Map>
+        <Map><From>V</From><To>v</To></Map>
+        <Map><From>W</From><To>w</To></Map>
+        <Map><From>X</From><To>x</To></Map>
+        <Map><From>Y</From><To>y</To></Map>
+        <Map><From>Z</From><To>z</To></Map>
+        <Map><From>[</From><To> </To></Map>
+        <Map><From>\</From><To> </To></Map>
+        <Map><From>]</From><To> </To></Map>
+        <Map><From>^</From><To> </To></Map>
+        <Map><From>_</From><To> </To></Map>
+        <Map><From>`</From><To> </To></Map>
+        <Map><From>{</From><To> </To></Map>
+        <Map><From>|</From><To> </To></Map>
+        <Map><From>}</From><To> </To></Map>
+        <Map><From>~</From><To> </To></Map>
+        <StopWords></StopWords>
+      </Mappings>
+      <LongestMatch>
+        <Length>0</Length>
+        <Resolution>0</Resolution>
+      </LongestMatch>
+      <IntegrityCheck>372223000</IntegrityCheck>
+    </Index>
+  </Indices>
+
+  <Regions>
+
+    <Region>
+      <Name>TEI2</Name>
+      <Desc>Structure delimited by 'TEI2' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>teiHeader</Name>
+      <Desc>Structure delimited by 'teiHeader' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>632</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>fileDesc</Name>
+      <Desc>Structure delimited by 'fileDesc' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>1264</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>titleStmt</Name>
+      <Desc>Structure delimited by 'titleStmt' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>1896</Offset>
+      </File>
+      <Count>316</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>sponsor</Name>
+      <Desc>Structure delimited by 'sponsor' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>3160</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>funder</Name>
+      <Desc>Structure delimited by 'funder' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>3160</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>principal</Name>
+      <Desc>Structure delimited by 'principal' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>3160</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>editionStmt</Name>
+      <Desc>Structure delimited by 'editionStmt' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>3160</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>edition</Name>
+      <Desc>Structure delimited by 'edition' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>3792</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>extent</Name>
+      <Desc>Structure delimited by 'extent' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>3792</Offset>
+      </File>
+      <Count>316</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>publicationStmt</Name>
+      <Desc>Structure delimited by 'publicationStmt' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>5056</Offset>
+      </File>
+      <Count>316</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>distributor</Name>
+      <Desc>Structure delimited by 'distributor' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>6320</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>authority</Name>
+      <Desc>Structure delimited by 'authority' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>6320</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>idno</Name>
+      <Desc>Structure delimited by 'idno' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>6320</Offset>
+      </File>
+      <Count>304</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>availability</Name>
+      <Desc>Structure delimited by 'availability' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>7536</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>seriesStmt</Name>
+      <Desc>Structure delimited by 'seriesStmt' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>8168</Offset>
+      </File>
+      <Count>316</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>notesStmt</Name>
+      <Desc>Structure delimited by 'notesStmt' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>9432</Offset>
+      </File>
+      <Count>316</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>sourceDesc</Name>
+      <Desc>Structure delimited by 'sourceDesc' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>10696</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>encodingDesc</Name>
+      <Desc>Structure delimited by 'encodingDesc' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>11328</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>projectDesc</Name>
+      <Desc>Structure delimited by 'projectDesc' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>11960</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>samplingDecl</Name>
+      <Desc>Structure delimited by 'samplingDecl' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>12592</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>editorialDecl</Name>
+      <Desc>Structure delimited by 'editorialDecl' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>12592</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>tagsDecl</Name>
+      <Desc>Structure delimited by 'tagsDecl' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>13224</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>tagUsage</Name>
+      <Desc>Structure delimited by 'tagUsage' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>13224</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>rendition</Name>
+      <Desc>Structure delimited by 'rendition' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>13224</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>refsDecl</Name>
+      <Desc>Structure delimited by 'refsDecl' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>13224</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>classDecl</Name>
+      <Desc>Structure delimited by 'classDecl' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>13856</Offset>
+      </File>
+      <Count>154</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>taxonomy</Name>
+      <Desc>Structure delimited by 'taxonomy' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>14472</Offset>
+      </File>
+      <Count>154</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>category</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>15088</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>catDesc</Name>
+      <Desc>Structure delimited by 'catDesc' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>15088</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>profileDesc</Name>
+      <Desc>Structure delimited by 'profileDesc' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>15088</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>creation</Name>
+      <Desc>Structure delimited by 'creation' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>15720</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>langUsage</Name>
+      <Desc>Structure delimited by 'langUsage' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>16352</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>language</Name>
+      <Desc>Structure delimited by 'language' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>16984</Offset>
+      </File>
+      <Count>168</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>textClass</Name>
+      <Desc>Structure delimited by 'textClass' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>17656</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>keywords</Name>
+      <Desc>Structure delimited by 'keywords' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>18288</Offset>
+      </File>
+      <Count>390</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>classCode</Name>
+      <Desc>Structure delimited by 'classCode' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>19848</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>revisionDesc</Name>
+      <Desc>Structure delimited by 'revisionDesc' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>19848</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>change</Name>
+      <Desc>Structure delimited by 'change' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>20480</Offset>
+      </File>
+      <Count>170</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>foreign</Name>
+      <Desc>Structure delimited by 'foreign' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>21160</Offset>
+      </File>
+      <Count>484</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>emph</Name>
+      <Desc>Structure delimited by 'emph' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>23096</Offset>
+      </File>
+      <Count>182</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>hi</Name>
+      <Desc>Structure delimited by 'hi' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>23824</Offset>
+      </File>
+      <Count>11794</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>q</Name>
+      <Desc>Structure delimited by 'q' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>71000</Offset>
+      </File>
+      <Count>1738</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>name</Name>
+      <Desc>Structure delimited by 'name' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>77952</Offset>
+      </File>
+      <Count>840</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>date</Name>
+      <Desc>Structure delimited by 'date' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>81312</Offset>
+      </File>
+      <Count>696</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>abbr</Name>
+      <Desc>Structure delimited by 'abbr' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>84096</Offset>
+      </File>
+      <Count>70</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>sic</Name>
+      <Desc>Structure delimited by 'sic' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>84376</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>corr</Name>
+      <Desc>Structure delimited by 'corr' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>84384</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>reg</Name>
+      <Desc>Structure delimited by 'reg' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>84392</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>orig</Name>
+      <Desc>Structure delimited by 'orig' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>84392</Offset>
+      </File>
+      <Count>228</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>add</Name>
+      <Desc>Structure delimited by 'add' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>85304</Offset>
+      </File>
+      <Count>314</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>del</Name>
+      <Desc>Structure delimited by 'del' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>86560</Offset>
+      </File>
+      <Count>314</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>unclear</Name>
+      <Desc>Structure delimited by 'unclear' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>87816</Offset>
+      </File>
+      <Count>36</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>address</Name>
+      <Desc>Structure delimited by 'address' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>87960</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>addrLine</Name>
+      <Desc>Structure delimited by 'addrLine' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>87960</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>ref</Name>
+      <Desc>Structure delimited by 'ref' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>87960</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>list</Name>
+      <Desc>Structure delimited by 'list' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>87960</Offset>
+      </File>
+      <Count>144</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>item</Name>
+      <Desc>Structure delimited by 'item' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>88536</Offset>
+      </File>
+      <Count>2038</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>label</Name>
+      <Desc>Structure delimited by 'label' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>96688</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>head</Name>
+      <Desc>Structure delimited by 'head' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>96688</Offset>
+      </File>
+      <Count>4504</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>note</Name>
+      <Desc>Structure delimited by 'note' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>114704</Offset>
+      </File>
+      <Count>920</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>bibl</Name>
+      <Desc>Structure delimited by 'bibl' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>118384</Offset>
+      </File>
+      <Count>326</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>biblFull</Name>
+      <Desc>Structure delimited by 'biblFull' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>119688</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>author</Name>
+      <Desc>Structure delimited by 'author' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>120320</Offset>
+      </File>
+      <Count>320</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>editor</Name>
+      <Desc>Structure delimited by 'editor' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>121600</Offset>
+      </File>
+      <Count>152</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>respStmt</Name>
+      <Desc>Structure delimited by 'respStmt' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>122208</Offset>
+      </File>
+      <Count>486</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>resp</Name>
+      <Desc>Structure delimited by 'resp' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>124152</Offset>
+      </File>
+      <Count>798</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>title</Name>
+      <Desc>Structure delimited by 'title' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>127344</Offset>
+      </File>
+      <Count>790</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>imprint</Name>
+      <Desc>Structure delimited by 'imprint' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>130504</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>publisher</Name>
+      <Desc>Structure delimited by 'publisher' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>130504</Offset>
+      </File>
+      <Count>314</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>biblScope</Name>
+      <Desc>Structure delimited by 'biblScope' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>131760</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>pubPlace</Name>
+      <Desc>Structure delimited by 'pubPlace' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>131760</Offset>
+      </File>
+      <Count>334</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>lg</Name>
+      <Desc>Structure delimited by 'lg' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>133096</Offset>
+      </File>
+      <Count>344</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>l</Name>
+      <Desc>Structure delimited by 'l' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>134472</Offset>
+      </File>
+      <Count>1846</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>sp</Name>
+      <Desc>Structure delimited by 'sp' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>141856</Offset>
+      </File>
+      <Count>218</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>speaker</Name>
+      <Desc>Structure delimited by 'speaker' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>142728</Offset>
+      </File>
+      <Count>218</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>stage</Name>
+      <Desc>Structure delimited by 'stage' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>143600</Offset>
+      </File>
+      <Count>14</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>text</Name>
+      <Desc>Structure delimited by 'text' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>143656</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>body</Name>
+      <Desc>Structure delimited by 'body' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>144288</Offset>
+      </File>
+      <Count>158</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div</Name>
+      <Desc>Structure delimited by 'div' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>144920</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div0</Name>
+      <Desc>Structure delimited by 'div0' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>144920</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div1</Name>
+      <Desc>Structure delimited by 'div1' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>144920</Offset>
+      </File>
+      <Count>1658</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div2</Name>
+      <Desc>Structure delimited by 'div2' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>151552</Offset>
+      </File>
+      <Count>500</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div3</Name>
+      <Desc>Structure delimited by 'div3' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>153552</Offset>
+      </File>
+      <Count>44</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div4</Name>
+      <Desc>Structure delimited by 'div4' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>153728</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>trailer</Name>
+      <Desc>Structure delimited by 'trailer' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>153728</Offset>
+      </File>
+      <Count>10</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>byline</Name>
+      <Desc>Structure delimited by 'byline' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>153768</Offset>
+      </File>
+      <Count>26</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>dateline</Name>
+      <Desc>Structure delimited by 'dateline' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>153872</Offset>
+      </File>
+      <Count>36</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>argument</Name>
+      <Desc>Structure delimited by 'argument' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>154016</Offset>
+      </File>
+      <Count>166</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>epigraph</Name>
+      <Desc>Structure delimited by 'epigraph' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>154680</Offset>
+      </File>
+      <Count>166</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>opener</Name>
+      <Desc>Structure delimited by 'opener' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>155344</Offset>
+      </File>
+      <Count>32</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>closer</Name>
+      <Desc>Structure delimited by 'closer' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>155472</Offset>
+      </File>
+      <Count>54</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>salute</Name>
+      <Desc>Structure delimited by 'salute' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>155688</Offset>
+      </File>
+      <Count>54</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>signed</Name>
+      <Desc>Structure delimited by 'signed' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>155904</Offset>
+      </File>
+      <Count>62</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>front</Name>
+      <Desc>Structure delimited by 'front' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>156152</Offset>
+      </File>
+      <Count>90</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>titlePage</Name>
+      <Desc>Structure delimited by 'titlePage' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>156512</Offset>
+      </File>
+      <Count>22</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>back</Name>
+      <Desc>Structure delimited by 'back' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>156600</Offset>
+      </File>
+      <Count>12</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>xref</Name>
+      <Desc>Structure delimited by 'xref' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>156648</Offset>
+      </File>
+      <Count>16</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>seg</Name>
+      <Desc>Structure delimited by 'seg' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>156712</Offset>
+      </File>
+      <Count>52</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>table</Name>
+      <Desc>Structure delimited by 'table' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>156920</Offset>
+      </File>
+      <Count>52</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>row</Name>
+      <Desc>Structure delimited by 'row' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>157128</Offset>
+      </File>
+      <Count>1088</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>cell</Name>
+      <Desc>Structure delimited by 'cell' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>161480</Offset>
+      </File>
+      <Count>2734</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>formula</Name>
+      <Desc>Structure delimited by 'formula' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>172416</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>figure</Name>
+      <Desc>Structure delimited by 'figure' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>172416</Offset>
+      </File>
+      <Count>3342</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>figDesc</Name>
+      <Desc>Structure delimited by 'figDesc' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>185784</Offset>
+      </File>
+      <Count>2024</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>term</Name>
+      <Desc>Structure delimited by 'term' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>193880</Offset>
+      </File>
+      <Count>786</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>section</Name>
+      <Desc>Structure delimited by 'section' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>233248</Offset>
+      </File>
+      <Count>1918</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>pb</Name>
+      <Desc>Structure delimited by 'pb' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/texts/public/twainpub.rgn</SysName>
+        <ModDate>1086191132</ModDate>
+        <Offset>197024</Offset>
+      </File>
+      <Count>9056</Count>
+      <Type>pairs</Type>
+    </Region>
+  </Regions>
+</DB>

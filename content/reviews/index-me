@@ -1,0 +1,40 @@
+
+mtreviews-all.dd
+
+
+cat *.html >mtreviews-all
+
+move mtreviews-all ../
+
+cd ../
+
+sed -f prepsed mtreviews-all >mtreviews-all2
+
+sed -f entities-to-octal mtreviews-all2 >mtreviews-all
+
+del mtreviews-all2
+
+dbbuild50 -v -m 20m -t regions -D mtreviews-all.dd
+
+
+THEN
+
+pat50 mtreviews-all.dd
+
+AT THE PROMPT
+
+>>{commandfile "make-works"}
+
+>>exec
+
+>>quit
+
+
+
+***************************************************************
+
+	FIRST TIME ONLY patbld50 -v -m 20m -t mtreviews-all -o mtreviews-all
+
+	FIRST TIME ONLY add to *.dd file "add-dd"
+
+

@@ -1,0 +1,270 @@
+<DB>
+
+  <Text>
+    <Files>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews</SysName>
+        <ModDate>821710244</ModDate>
+        <Offset>0</Offset>
+      </File>
+    </Files>
+  </Text>
+
+  <Indices>
+
+    <Index>
+      <Name></Name>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.idx</SysName>
+        <ModDate>821710369</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <IndexPoints>
+        <IndexPt> &ISO_printable.</IndexPt>
+        <IndexPt>&newline.&ISO_printable.</IndexPt>
+      </IndexPoints>
+      <Mappings>
+        <Map><From></From><To></To></Map>
+        <Map><From>&backspace.</From><To> </To></Map>
+        <Map><From>&tab.</From><To> </To></Map>
+        <Map><From>&newline.</From><To> </To></Map>
+        <Map><From>&return.</From><To> </To></Map>
+        <Map><From>!</From><To> </To></Map>
+        <Map><From>"</From><To> </To></Map>
+        <Map><From>#</From><To> </To></Map>
+        <Map><From>$</From><To> </To></Map>
+        <Map><From>%</From><To> </To></Map>
+        <Map><From>&amp.</From><To> </To></Map>
+        <Map><From>'</From><To> </To></Map>
+        <Map><From>(</From><To> </To></Map>
+        <Map><From>)</From><To> </To></Map>
+        <Map><From>*</From><To> </To></Map>
+        <Map><From>+</From><To> </To></Map>
+        <Map><From>,</From><To> </To></Map>
+        <Map><From>-</From><To> </To></Map>
+        <Map><From>.</From><To> </To></Map>
+        <Map><From>/</From><To> </To></Map>
+        <Map><From>:</From><To> </To></Map>
+        <Map><From>;</From><To> </To></Map>
+        <Map><From>&lt.</From><To> </To></Map>
+        <Map><From>=</From><To> </To></Map>
+        <Map><From>></From><To> </To></Map>
+        <Map><From>?</From><To> </To></Map>
+        <Map><From>@</From><To> </To></Map>
+        <Map><From>A</From><To>a</To></Map>
+        <Map><From>B</From><To>b</To></Map>
+        <Map><From>C</From><To>c</To></Map>
+        <Map><From>D</From><To>d</To></Map>
+        <Map><From>E</From><To>e</To></Map>
+        <Map><From>F</From><To>f</To></Map>
+        <Map><From>G</From><To>g</To></Map>
+        <Map><From>H</From><To>h</To></Map>
+        <Map><From>I</From><To>i</To></Map>
+        <Map><From>J</From><To>j</To></Map>
+        <Map><From>K</From><To>k</To></Map>
+        <Map><From>L</From><To>l</To></Map>
+        <Map><From>M</From><To>m</To></Map>
+        <Map><From>N</From><To>n</To></Map>
+        <Map><From>O</From><To>o</To></Map>
+        <Map><From>P</From><To>p</To></Map>
+        <Map><From>Q</From><To>q</To></Map>
+        <Map><From>R</From><To>r</To></Map>
+        <Map><From>S</From><To>s</To></Map>
+        <Map><From>T</From><To>t</To></Map>
+        <Map><From>U</From><To>u</To></Map>
+        <Map><From>V</From><To>v</To></Map>
+        <Map><From>W</From><To>w</To></Map>
+        <Map><From>X</From><To>x</To></Map>
+        <Map><From>Y</From><To>y</To></Map>
+        <Map><From>Z</From><To>z</To></Map>
+        <Map><From>[</From><To> </To></Map>
+        <Map><From>\</From><To> </To></Map>
+        <Map><From>]</From><To> </To></Map>
+        <Map><From>^</From><To> </To></Map>
+        <Map><From>_</From><To> </To></Map>
+        <Map><From>`</From><To> </To></Map>
+        <Map><From>{</From><To> </To></Map>
+        <Map><From>|</From><To> </To></Map>
+        <Map><From>}</From><To> </To></Map>
+        <Map><From>~</From><To> </To></Map>
+        <StopWords></StopWords>
+      </Mappings>
+      <LongestMatch>
+        <Length>0</Length>
+        <Resolution>0</Resolution>
+      </LongestMatch>
+      <IntegrityCheck>645951286</IntegrityCheck>
+    </Index>
+  </Indices>
+
+  <Regions>
+
+    <Region>
+      <Name>TEI2</Name>
+      <Desc>Structure delimited by 'TEI2' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>teiHeader</Name>
+      <Desc>Structure delimited by 'teiHeader' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>author</Name>
+      <Desc>Structure delimited by 'author' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>8</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>title</Name>
+      <Desc>Structure delimited by 'title' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>16</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>extent</Name>
+      <Desc>Structure delimited by 'extent' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>24</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>text</Name>
+      <Desc>Structure delimited by 'text' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>32</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>body</Name>
+      <Desc>Structure delimited by 'body' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>40</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div0</Name>
+      <Desc>Structure delimited by 'div0' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>48</Offset>
+      </File>
+      <Count>20</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>p</Name>
+      <Desc>Structure delimited by 'p' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>128</Offset>
+      </File>
+      <Count>244</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>ref</Name>
+      <Desc>Structure delimited by 'ref' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>1104</Offset>
+      </File>
+      <Count>20</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>head</Name>
+      <Desc>Structure delimited by 'head' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>1184</Offset>
+      </File>
+      <Count>20</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>date</Name>
+      <Desc>Structure delimited by 'date' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>1264</Offset>
+      </File>
+      <Count>20</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>favor</Name>
+      <Desc>Structure delimited by 'favor' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>1344</Offset>
+      </File>
+      <Count>20</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>nation</Name>
+      <Desc>Structure delimited by 'nation' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-innreviews.P</SysName>
+        <ModDate>821710391</ModDate>
+        <Offset>1424</Offset>
+      </File>
+      <Count>34</Count>
+      <Type>pairs</Type>
+    </Region>
+  </Regions>
+</DB>

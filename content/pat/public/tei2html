@@ -1,0 +1,609 @@
+#!/usr/local/bin/perl
+# TEI (uva.dtd) to HTML script, including images 
+# Electronic Text Center, University of Virginia
+# July 1994 - May 1995. David Seaman (etextcenter@virginia.edu).
+# Draft 1
+# 
+while (<>) {
+	$a = $_;
+
+#OTA header
+	$a =~s/<title level="a\|m\|j\|s\|u">/<title>/g;
+	$a =~s/<title level=[^>]*>/<title>/g;
+	$a =~ s/<!--//g;
+	$a =~ s/-->//g;
+	$a =~ s/<text id=[^>]*>//g;
+	$a =~ s/<\/text>//g;
+	$a =~ s/<body>//g;
+	$a =~ s/<\/body>/<hr>/g;
+        $a =~ s/<!DOCTYPE ota system 'ota.dtd'>//g;
+        $a =~ s/<!DOCTYPE ota system 'uva.dtd'>//g;
+	$a =~ s/<!DOCTYPE ota system 'uva.dtd'\[//g;
+	$a =~ s/<!DOCTYPE ota system 'uva.dtd' \[//g;
+        $a =~ s/<!DOCTYPE TEI.2 system 'teilite.dtd' \[//g;
+        $a =~ s/<!DOCTYPE TEI.2 system 'teilite.dtd'>//g;
+
+        $a =~ s/<!ENTITY % OTAents system "unixlat0.dtd">//g;
+        $a =~ s/<!NOTATION jpg SYSTEM "JPEG">//g;
+        $a =~ s/%OTAents;]>//g;
+        $a =~ s/%OTAents; ]>//g;
+        $a =~ s/%OTAents ]>//g;
+
+        $a =~ s/%UVAents;]>//g;
+        $a =~ s/%UVAents; ]>//g;
+        $a =~ s/%UVAents]>//g;
+        $a =~ s/%UVAents ]>//g;
+
+        $a =~ s/<ota>//g;
+        $a =~ s/<\/ota>//g;
+
+        $a =~ s/<TEI.2>/<body>/g;
+        $a =~ s/<\/TEI.2>/<\/body>/g;
+
+        $a =~ s/<header type=aacr2>//g;
+        $a =~ s/<header>//g;
+        $a =~ s/<\/header>/<br><i>etextcenter@virginia.edu<\/i>.  Commercial use prohibited.  Usage governed by our <a href="http:\/\/etext.lib.virginia.edu\/conditions.html">Conditions of Use<\/a><br>/g;
+
+        $a =~ s/<teiHeader type=aacr2>//g;
+        $a =~ s/<teiHeader>//g;
+        $a =~ s/<\/teiHeader>/<br><i>etextcenter@virginia.edu<\/i>. Commercial use prohibited.  Usage governed by our <a href="http:\/\/etext.lib.virginia.edu\/conditions.html">Conditions of Use<\/a><br>/g;
+
+#temp fix for Judy
+	$a =~ s/, University of Omaha//g;
+#end temp fix
+
+        $a =~ s/\[a machine-readable transcription]//g;
+        $a =~ s/<title>/<br><b><i>/g;
+        $a =~ s/<\/title>/<\/i><\/b>/g;
+
+        $a =~ s/<author>/<br><b>/g;
+        $a =~ s/<\/author>/<\/b><br>/g;
+
+        $a =~ s/<role>Publisher://g;
+	$a =~ s/<role>publisher//g;
+	$a =~ s/<role>Publisher//g;
+
+        $a =~ s/<publisher>/<br>/g;
+        $a =~ s/<\/publisher>/ /g;
+
+        $a =~ s/<publisher><\/publisher>/ /g;
+
+        $a =~ s/<pubPlace>/ /g;
+        $a =~ s/<\/pubPlace>//g;
+
+        $a =~ s/<resp>Creat/<br>Creat/g;
+        $a =~ s/<resp>Conver/<br>Conver/g;
+
+        $a =~ s/<role>[ ]*<\/role>//g;
+	$a =~ s/<role>/<br>/g;
+	$a =~ s/<\/role>/: /g;
+
+        $a =~ s/<name>[ ]*<\/name>//g;
+        $a =~ s/<name>Unknown//g;
+        $a =~ s/<name>unknown//g;
+        $a =~ s/<name>Name of creator[^<]*<\/name>//g;
+        $a =~ s/<name>University of Virginia Library<\/name>//g;
+
+        $a =~ s/<name>/ /g;
+        $a =~ s/<\/name>/. /g;
+
+        $a =~ s/<p>Place where text can be found[^<]*<\/p>//g;
+        $a =~ s/<p>Available commercially from:<\/p>//g;
+        $a =~ s/<p>Available for anonymous ftp at etext[^<]*<\/p>//g;
+	$a =~ s/<date>Current year<\/date>//g;
+        $a =~ s/<extent>[^<]*<\/extent>//g;
+
+        $a =~ s/<address>Charlottesville, Va.<\/address>//g;
+        $a =~ s/<idno type="ETC">[^<]*<\/idno>//g;
+        $a =~ s/<avail>//g;
+        $a =~ s/<\/avail>//g;
+
+        $a =~ s/<availability>//g;
+        $a =~ s/<\/availability>//g;
+
+	$a =~ s/<p>Copies of this file are also available to UVa[^<]*<\/p>//g;
+	$a =~ s/<serStmt>Name of electronic series, if any<\/serStmt>//g;
+#        $a =~ s/<serStmt>/<br>Series: /g;
+
+        $a =~ s/<serStmt>//g;
+        $a =~ s/<\/serStmt>//g;
+        $a =~ s/<edStmt>//g;
+        $a =~ s/<\/edStmt>//g;    
+        $a =~ s/<editDecl>//g;
+        $a =~ s/<\/editDecl>//g;
+	$a =~ s/<refsDecl>//g;
+	$a =~ s/<\/refsDecl>//g;
+
+        $a =~ s/<seriesStmt>//g;
+        $a =~ s/<\/seriesStmt>//g;
+        $a =~ s/<editionStmt>//g;
+        $a =~ s/<\/editionStmt>//g;    
+        $a =~ s/<editorialDecl>//g;
+        $a =~ s/<\/editorialDecl>//g;
+	$a =~ s/<refsDecl>//g;
+	$a =~ s/<\/refsDecl>//g;
+
+        $a =~ s/<keywords>//g;
+        $a =~ s/<\/keywords>//g;
+
+        $a =~ s/<term[^<]*<\/term>//g;
+
+	$a =~ s/<p id=ETC>Key[^<]*<\/p>//g;
+	$a =~ s/<p id="ETC">Key[^<]*<\/p>//g;
+	$a =~ s/<p>Prepared for the University of Virginia Library Electronic Text Center<\/p>//g;
+	$a =~ s/<p>All quotation marks retained as data<\/p>//g;
+	$a =~ s/All dates in letters have been standardized [^.]*.//g;
+        $a =~ s/<p>Any other pertinent information[^<]*<\/p>//g;
+        $a =~ s/<p>All unambiguous end-of-line hyphens[^<]*<\/p>//g;
+	$a =~ s/<p>ID elements are given[^<]*<\/p>//g;
+	$a =~ s/<p>The N attribute for each DIV[^<]*<\/p>//g;
+
+        $a =~ s/<change>[ ]*<date>[ ]*<\/date>//g;
+
+        $a =~ s/<change>/<br>/g;
+	$a =~ s/<\/change>/<br>/g;
+
+	$a =~ s/<langUse>//g;
+	$a =~ s/<\/langUse>//g;
+
+	$a =~ s/<langUsage>//g;
+	$a =~ s/<\/langUsage>//g;
+
+	$a =~ s/<language>[^<]*<\/language>//g;
+	$a =~ s/<keywords scheme=ETC>[^<]*<\/keywords>//g;
+        $a =~ s/<fileDesc>/<i>About the electronic version<\/i>/g;
+        $a =~ s/<\/fileDesc>//g;
+
+        $a =~ s/<titlStmt>//g;
+        $a =~ s/<\/titlStmt>//g;
+        $a =~ s/<pubStmt>//g;
+        $a =~ s/<\/pubStmt>//g;
+        $a =~ s/<noteStmt>//g;
+        $a =~ s/<\/noteStmt>//g;
+        $a =~ s/<srcDesc>/<hr><i>About the print version<\/i>/g;
+        $a =~ s/<\/srcDesc>//g;
+        $a =~ s/<biblFull>//g;
+        $a =~ s/<\/biblFull>//g;
+        $a =~ s/<address>//g;
+        $a =~ s/<\/address>/ /g;
+        $a =~ s/<projDesc>//g;
+        $a =~ s/<\/projDesc>//g;
+
+        $a =~ s/<titleStmt>//g;
+        $a =~ s/<\/titleStmt>//g;
+        $a =~ s/<publicationStmt>//g;
+        $a =~ s/<\/publicationStmt>//g;
+        $a =~ s/<notesStmt>//g;
+        $a =~ s/<\/notesStmt>//g;
+        $a =~ s/<sourceDesc>/<hr><i>About the print version<\/i>/g;
+        $a =~ s/<\/sourceDesc>//g;
+        $a =~ s/<biblFull>//g;
+        $a =~ s/<\/biblFull>//g;
+        $a =~ s/<address>//g;
+        $a =~ s/<\/address>/ /g;
+        $a =~ s/<projectDesc>//g;
+        $a =~ s/<\/projectDesc>//g;
+
+
+        $a =~ s/<revisionDesc>/<hr><i>Revisions to the electronic version<\/i>/g;
+        $a =~ s/<\/revisionDesc>//g;
+
+        $a =~ s/<sourceDesc>//g;
+        $a =~ s/<\/sourceDesc>//g;
+
+        $a =~ s/<encodingDesc>//g;
+        $a =~ s/<\/encodingDesc>//g;
+
+        $a =~ s/<creation>[^<]*<date>[^<]*<\/date>//g;
+        $a =~ s/<creation>//g;
+        $a =~ s/<\/creation>//g;
+
+        $a =~ s/<resp>//g;
+        $a =~ s/<\/resp>//g;
+
+        $a =~ s/<profileDesc>//g;
+        $a =~ s/<\/profileDesc>//g;
+        $a =~ s/<textClass>//g;
+        $a =~ s/<\/textClass>//g;
+
+        $a =~ s/<respStmt>//g;
+        $a =~ s/<\/respStmt>//g;
+#
+#End of header - beginning of front
+
+        $a =~ s/<front>//g;
+        $a =~ s/<\/front>/<hr>/g;
+
+        $a =~ s/<tPage>/<hr>/g;
+        $a =~ s/<\/tPage>/<hr>/g;
+
+        $a =~ s/<dTitle>/<br>/g;
+        $a =~ s/<dTitle type="main">/<br>/g;
+        $a =~ s/<dTitle type="sub">/<br>/g;
+        $a =~ s/<\/dTitle>/<br>/g;
+
+        $a =~ s/<dAuthor>/<br>/g;
+        $a =~ s/<\/dAuthor>//g;
+
+        $a =~ s/<dImprint>/<br>/g;
+        $a =~ s/<\/dImprint>//g;
+
+        $a =~ s/<docTitle>/<br>/g;
+        $a =~ s/<docTitle type="main">/<br>/g;
+        $a =~ s/<docTitle type="sub">>/<br>/g;
+        $a =~ s/<\/docTitle>/<br>/g;
+
+        $a =~ s/<docAuthor>/<br>/g;
+        $a =~ s/<\/docAuthor>//g;
+
+        $a =~ s/<docImprint>/<br>/g;
+        $a =~ s/<\/docImprint>//g;
+
+        $a =~ s/<byLine>/<br>/g;
+        $a =~ s/<\/byLine>//g;
+
+        $a =~ s/<ornament desc="([^"]*)">/<br>[<i>$1<\/i>]<br>/g;
+
+#body
+#        $a =~ s/<l>//g;
+        $a =~ s/<\/l>/<br>/g;
+
+        $a =~ s/<s>//g;
+        $a =~ s/<\/s>/<br>/g;
+
+        $a =~ s/<spkr>/<i>/g;
+        $a =~ s/<\/spkr>/<\/i><br>/g;
+#TEMP
+       $a =~ s/<speaker>/<br><br><i>/g;
+        $a =~ s/<\/speaker>/<\/i> /g;
+       $a =~ s/<speech>/<br>/g;
+        $a =~ s/<\/speech>/<br>/g;
+#ENDTEMP
+
+        $a =~ s/<hi>/<i>/g;
+
+        $a =~ s/<hi rend="italics">([^<\/hi>]*)<\/hi>/ <i>$1<\/i>/g;
+        $a =~ s/<hi rend="i">([^<\/hi>]*)<\/hi>/ <i>$1<\/i> /g;
+
+        $a =~ s/<hi rend="underline">([^<]*)/ <u>$1<\/u> /g;
+        $a =~ s/<hi rend="u">([^<\/hi>]*)/ <u>$1<\/u> /g;
+
+        $a =~ s/<hi rend="bold">([^<\/hi>]*)<\/hi>/ <b>$1<\/b> /g;
+        $a =~ s/<hi rend="b">([^<\/hi>]*)<\/hi>/ <b>$1<\/b> /g;
+
+        $a =~ s/<hi rend="smallcaps">([^<\/hi>]*)<\/hi>/ <sc>$1<\/sc> /g;
+        $a =~ s/<hi rend="sc">([^<\/hi>]*)<\/hi>/ <sc>$1<\/sc> /g;
+
+        $a =~ s/<\/hi>/<\/i> /g;
+
+        $a =~ s/<emph rend="italics">([^<]*)<\/emph>/ <i>$1<\/i>/g;
+        $a =~ s/<emph rend="i">([^<]*)<\/emph>/ <i>$1<\/i>/g;
+
+        $a =~ s/<emph rend="underline">([^<]*)<\/emph>/<u>$1<\/u> /g;
+        $a =~ s/<emph rend="u">([^<]*)<\/emph>/ <u>$1<\/u> /g;
+
+        $a =~ s/<emph rend="bold">([^<>]*)<\/emph>/ <b>$1<\/b>/g;
+        $a =~ s/<emph rend="b">([^<]*)<\/emph>/ <b>$1<\/b>/g;
+
+        $a =~ s/<emph rend="smallcaps">([^<\/emph>]*)<\/emph>/ <sc>$1<\/sc>/g;
+        $a =~ s/<emph rend="sc">([^<\/emph>]*)<\/emph>/ <sc>$1<\/sc>/g;
+
+        $a =~ s/<\/emph>/<\/i>/g;
+
+        $a =~ s/<l n=([0-9\.]*)>/ <i>$1:<\/i> /g;
+        $a =~ s/<l n=([0-9]*)>/ <i>$1:<\/i> /g;
+        $a =~ s/<s n=([0-9\.]*)>/ <i>$1:<\/i> /g;
+
+        $a =~ s/<\/page>//g;
+        $a =~ s/<page n=([0-9]*)>/<hr><tt>Page $1<\/tt><br>/g;
+        $a =~ s/<page n=([a-z]*)>/<hr><tt>Page $1<\/tt><br>/g;
+        $a =~ s/<page n=([0-9].[0-9]*)>/<hr><tt>Page $1<\/tt><br>/g;
+        $a =~ s/<page n=([A-Z][0-9][a-z]*)>/<hr><tt>Page $1<\/tt><br>/g;
+
+	$a =~ s/<page>/<hr>/g;
+
+        $a =~ s/<sub>//g;
+        $a =~ s/<\/sub>//g;
+
+        $a =~ s/<sup>//g;
+        $a =~ s/<\/sup>//g;
+
+        $a =~ s/<ID>[^>]*<\/ID>//g;
+	$a =~ s/<lb>/<br>/g;
+        $a =~ s/<sp>//g;
+        $a =~ s/<\/sp>//g;
+        $a =~ s/<\/div0>//g;
+        $a =~ s/<\/div1>//g;
+        $a =~ s/<\/div2>//g;
+#
+        $a =~ s/<div0 type="chapter" n=([^>]*)>/<h2>Chapter $1<\/h2>/g;
+        $a =~ s/<div0 type="part" n=([^>]*)>/<h2>Part $1<\/h2>/g;
+        $a =~ s/<div0 type="act" n=([^>]*)>/<h2>Act $1<\/h2>/g;
+        $a =~ s/<div0>//g;
+
+        $a =~ s/<div0 type="book" n=([^>]*)>/<h2>Book $1<\/h2>/g;
+        $a =~ s/<div0 type="Book" n=([^>]*)>/<h2>Book $1<\/h2>/g;
+
+        $a =~ s/<div0 type="letter"[^>]*>//g;
+        $a =~ s/<div0 type=letter[^>]*>//g;
+
+        $a =~ s/<div0 type="([^"]*)" n=([^>]*)>/<br><i>$1 $2<\/i><br><br>/g;
+
+        $a =~ s/<div0 type="([^"]*)">/<br><i>$1 <\/i><br><br>/g;
+
+        $a =~ s/<div1 type="chapter" n=([^>]*)>/<h2>Chapter $1<\/h2>/g;
+
+        $a =~ s/<div1 type="scene" n=([^>]*)>/<h2>Scene $1<\/h2>/g;
+        $a =~ s/<div1 type="([^"]*)" n=([^>]*)>/<br><br><i>$1 $2<\/i><br><br>/g;
+        $a =~ s/<div1 type=([^ ]*) n=([^>]*)>/<br><i>$1 $2<\/i><br><br>/g;
+
+        $a =~ s/<div1 type="([^"]*)" id="([^"]*)">/<br><br><i>$1 $2<\/i><br><br>/g;
+
+        $a =~ s/<div1 type=("[^"]*")>/<br><i>$1<\/i><br><br>/g;
+        $a =~ s/<div1>//g;
+
+        $a =~ s/<div2 type="([^"]*)">/<br><br><tt>$1<\/tt><br>/g;
+        $a =~ s/<div2 type="([^"]*)" n=([^>]*)>/<br><br><i>$1 $2<\/i><br><br>/g;
+        $a =~ s/<div2 type=([^ ]*) n=([^>]*)>/<br><br><i>$1 $2<\/i><br><br>/g;
+
+
+
+
+        $a =~ s/<date>[ ]*<\/date>//g;
+        $a =~ s/<date>/<br>/g;
+        $a =~ s/<\/date>/ /g;
+        $a =~ s/<date n=[0-9]*>//g;
+
+        $a =~ s/<dateline>//g;
+        $a =~ s/<\/dateline>/ /g;
+
+        $a =~ s/<dateLine>//g;
+        $a =~ s/<\/dateLine>/ /g;
+
+        $a =~ s/<addrLine>//g;
+        $a =~ s/<\/addrLine>/ /g;
+
+        $a =~ s/<opener>//g;
+        $a =~ s/<\/opener>/<br>/g;
+
+        $a =~ s/<closer>/<br>/g;
+        $a =~ s/<\/closer>/<br>/g;
+
+
+        $a =~ s/<cite>/<tt> [/g;
+        $a =~ s/<\/cite>/]<\/tt>/g;
+
+        $a =~ s/<ref type="act">/<hr>/g;
+        $a =~ s/<ref type="title">/<br>/g;
+	$a =~ s/<ref>[^<]*<\/ref>//g; 
+        $a =~ s/<\/ref>/<\/tt><br>/g;
+
+        $a =~ s/<\/lg>/<br>/g;
+
+        $a =~ s/<note><\/note>//g;
+        $a =~ s/<note>leave blank<\/note>//g;
+        $a =~ s/<note>Illustrations have been[^<]*<\/note>//g;
+
+        $a =~ s/<note target="([^"]*)">([^<]*)<\/note>/<a href="#$1">$2<\/note>/g;
+
+        $a =~ s/<note id="([^"]*)">/<br><br><a name="$1">/g;
+
+        $a =~ s/<\/note>/<\/a>/g;
+
+
+        $a =~ s/<note id=[^ ]* lang=[^ ]* rend=[^ ]*>/<br>[Note: /g;
+
+        $a =~ s/<note place="[a-z]*" n=[^>]*>/<br>[Note: /g;
+        $a =~ s/<note n=[^>]* place="[a-z]*">/<br>[Note: /g;
+
+        $a =~ s/<note type="[^"]*">/<br>[Note: /g;
+        $a =~ s/<note type="[^"]*" place="[^"]*">/<br>[Note: /g;
+        $a =~ s/<note>/<br>[Note:  /g;
+        $a =~ s/<\/note>/]<br>/g;
+
+        $a =~ s/<p>The images exist as archived TIFF[^<]*<\/p>//g;
+
+# handle hypertext references for Boethius
+
+#        $a =~ s/<note target="([^"]*)">/<a href="boenotes.html#$1">/g;
+#       $a =~ s/<note id="([^"]*)">/<hr><b>$1<\/b>: <a name="$1">/g;
+
+        $a =~ s/<\/l>/<br>/g;
+        $a =~ s/<q>/"/g;
+        $a =~ s/<\/q>/"/g;
+
+        $a =~ s/<quote>//g;
+        $a =~ s/<quote lang="[^"]*">//g;
+        $a =~ s/<\/quote>//g;
+
+        $a =~ s/<lg type="[^"]*">/<br>/g;
+        $a =~ s/<lg type="[^"]*" n=[^>]*>/<br>/g;
+        $a =~ s/<lg>/<br>/g;
+	$a =~ s/<stage type="entrance">Enter/ [<i>Enter: /g;
+	$a =~ s/<stage type="entrance"><i>Enter/ [<i>Enter: /g;
+	$a =~ s/<stage type="entrance">/ [<i>Enter: /g;
+	$a =~ s/<stage type="entrance"><hi>/ [<i>Enter: /g;
+        $a =~ s/<stage type="exit">/ [<i>/g;
+        $a =~ s/<stage type="[^"]*">/ [<i>/g;
+	$a =~ s/<stage>/ [<i>/g;
+	$a =~ s/<\/stage>/<\/i>]<br>/g;
+
+        $a =~ s/<foreign>/<i>/g;
+        $a =~ s/<foreign lang="Gk">/[Greek: <i>/g;
+        $a =~ s/<foreign lang="[^"]">/<i>/g;
+        $a =~ s/<foreign lang=[^>]>/<i>/g;
+        $a =~ s/<\/foreign>/<\/i>/g;
+
+	$a =~ s/<mstone type=([^>]*) n=([0-9]*)>/<br><i>$1 $2<\/i><br>/g;
+#	$a =~ s/<mstone n=([0-9]*)>/<br><i>$1<\/i><br>/g;
+	$a =~ s/<milestone type=([^>]*) n=([0-9]*)>/<br><i>$1 $2<\/i><br>/g;
+
+	$a =~ s/<list>/<UL><tt>/g;
+	$a =~ s/<\/list>/<\/tt><\/UL>/g;
+
+
+        $a =~ s/<item>[ ]*<\/item>//g;
+	$a =~ s/<item>/<li>/g;
+	$a =~ s/<\/item>/<br>/g;
+	$a =~ s/<signed>/<br><i>/g;
+	$a =~ s/<\/signed>/<\/i>/g;
+	$a =~ s/<trailer>/<br><br>/g;
+	$a =~ s/<\/trailer>/<hr>/g;
+#
+#Transcription tags
+#
+	$a =~ s/<orig[^>]*>/ /g;
+	$a =~ s/<\/orig>/ /g;
+
+	$a =~ s/<del>/<i>[deleted:<\/i> /g;
+        $a =~ s/<del[^>]*>/<i>[deleted:<\/i> /g;
+	$a =~ s/<\/del>/<i>]<\/i> /g;
+
+	$a =~ s/<sic[^>]>/ /g;
+	$a =~ s/<\/sic>/ [sic] /g;
+
+	$a =~ s/<corr[^>]*>/ [/g;
+	$a =~ s/<\/corr>/] /g;
+
+        $a =~ s/<add>/<i>[added:<\/i> /g;
+        $a =~ s/<add [^>]*>/<i>[added:<\/i> /g;
+        $a =~ s/<\/add>/<i>]<\/i> /g;
+
+
+#Tables
+
+	$a =~ s/<table[^>]*>//g;
+	$a =~ s/<\/table>/<br>/g;
+
+	$a =~ s/<row[^>]*>/<br>/g;
+	$a =~ s/<\/row>/<br>/g;
+
+	$a =~ s/<cell>//g;
+	$a =~ s/<\/cell>/ /g;
+
+	$a =~ s/<back>/<hr/g;
+	$a =~ s/<\/back>//g;
+
+
+#Special Characters
+#
+        $a =~ s/\&ac;/\&acirc;/g;
+        $a =~ s/\&Ac;/\&Acirc;/g;
+        $a =~ s/\&ae;/\&aelig;/g;
+        $a =~ s/\&Ae;/\&AElig;/g;
+        $a =~ s/\&ag;/\&agrave;/g;
+        $a =~ s/\&Ag;/\&Agrave;/g;
+        $a =~ s/\&AE;/\&AElig;/g;
+        $a =~ s/\&Aelig;/\&AElig;/g;
+        $a =~ s/\&au;/&auml;/g;
+        $a =~ s/\&Au;/&Auml;/g;
+
+        $a =~ s/\&oe;/oe/g;
+        $a =~ s/\&oelig;/oe/g;
+        $a =~ s/\&Oe;/OE/g;
+        $a =~ s/\&OE;/OE/g;
+        $a =~ s/\&Oelig;/OE/g;
+        $a =~ s/\&OElig;/OE/g;
+        $a =~ s/&oc;/&ocirc;/g;
+        $a =~ s/\&ou;/&ouml;/g;
+        $a =~ s/\&Ou;/&Ouml;/g;
+
+        $a =~ s/\&cc;/\&ccedil;/g;
+        $a =~ s/\&Cc;/\&Ccedil;/g;
+
+        $a =~ s/&ec;/\&ecirc;/g;
+        $a =~ s/&eu;/\&euml;/g;
+        $a =~ s/&eg;/\&egrave;/g;
+        $a =~ s/&Eg;/\&Egrave;/g;
+
+        $a =~ s/\&ea;/\&eacute;/g;
+        $a =~ s/\&Ea;/\&Eacute;/g;
+
+        $a =~ s/&ic;/\&icirc;/g;
+        $a =~ s/&iu;/\&iuml;/g;
+        
+        $a =~ s/\&d;/\&eth;/g;
+        $a =~ s/\&D;/\&Eth;/g;
+
+        $a =~ s/\&uu;/&uuml;/g;
+        $a =~ s/\&Uu;/&Uuml;/g;
+        $a =~ s/\&UU;/&Uuml;/g;
+        $a =~ s/\&ug;/&ugrave;/g;
+        $a =~ s/\&Ug;/&Ugrave;/g;
+        $a =~ s/&uc;/&ucirc;/g;
+        $a =~ s/&Uc;/&Ucirc;/g;
+
+        $a =~ s/\&ss;/\&szlig;/g;
+
+        $a =~ s/\&t;/\&thorn;/g;
+        $a =~ s/\&T;/\&THORN;/g;
+        $a =~ s/\&Thorn;/\&THORN;/g;
+        $a =~ s/\&y;/3/g;
+        $a =~ s/\&Y;/3/g;
+        $a =~ s/\&yogh;/3/g;
+        $a =~ s/\&Yogh;/3/g;
+        $a =~ s/\&mdash;/ -- /g;
+        $a =~ s/\&emdash;/ -- /g;
+        $a =~ s/\&ndash;/ -- /g;
+
+        $a =~ s/\&odquo;/"/g;
+        $a =~ s/\&cdquo;/"/g;
+        $a =~ s/\&odq;/"/g;
+        $a =~ s/\&cdq;/"/g;
+
+        $a =~ s/\&dq;/"/g;
+
+        $a =~ s/\&onquo;/`/g;
+        $a =~ s/\&cnquo;/'/g;
+        $a =~ s/\&onq;/`/g;
+        $a =~ s/\&cnq;/'/g;
+
+        $a =~ s/\&osq;/`/g;
+        $a =~ s/\&csq;/'/g;
+
+        $a =~ s/\&ldquo;/"/g;
+        $a =~ s/\&rdquo;/"/g;
+        $a =~ s/\&ldq;/"/g;
+        $a =~ s/\&rdq;/"/g;
+
+       $a =~ s/\&lq;/<</g;
+        $a =~ s/\&rq;/>>/g;
+        $a =~ s/\&laq;/<</g;
+        $a =~ s/\&raq;/>>/g;
+
+        $a =~ s/\&lpar;/(/g;
+        $a =~ s/\&rpar;/)/g;
+
+        $a =~ s/\&raquo;/&gt;&gt;/g;
+        $a =~ s/\&laquo;/&lt;&lt;/g;
+        $a =~ s/\&raq;/&gt;&gt;/g;
+        $a =~ s/\&laq;/&lt;&lt;/g;
+
+        $a =~ s/\&pound;/[pound sterling]/g;
+        $a =~ s/\&dollar;/\$/g;
+
+        $a =~ s/\&longs;/s/g;
+        $a =~ s/\&longS;/S/g;
+
+
+	$a =~ s/\&dagger;//g;
+
+	$a =~ s/\&squf;//g;
+
+	$a =~ s/\&para;//g;
+
+	$a =~ s/\&sect;//g;
+
+        $a =~ s/<head>/<br><h2>/g;
+        $a =~ s/<head lang="[^"]*">/<br><h2>/g;
+        $a =~ s/<\/head>/<\/h2>/g;
+
+#
+        $a =~ s/<hr><hr>/<hr>/g;
+        $a =~ s/<br>: / /g;
+        $a =~ s/- /-/g;
+        $a =~ s/ -/-/g;
+        $a =~ s/--/ -- /g;
+
+        print $a;
+}

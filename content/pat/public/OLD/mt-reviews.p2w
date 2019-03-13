@@ -1,0 +1,40 @@
+<!For now these must be one item per line>
+<title>Search the Mark Twain Reviews</title> 
+<dd>/lv6/workspace/railton/pat/public/mt-reviews.dd</dd>
+<pat>/lv1/ot/ot5.0/bin/pat50</pat>
+
+<!There must be a default region for searching>
+<defreg>div0</defreg>
+
+<!There must be an "id" field within each "defreg">
+<id>favor</id> 
+
+<!These are regions and labels within the text. Results are unpredictable.>
+<!Might need a textfilt for each text region>
+<doc selected>body=All Reviews</doc>
+<doc>American=All American reviews</doc>
+<doc>EAmerican=Eastern American reviews</doc>
+<doc>WAmerican=Western American reviews</doc>
+<doc>British=All British reviews</doc>
+<doc>favorable=favorable reviews</doc>
+<doc>unfavorable=unfavorable reviews</doc>
+<doc>mixed=mixed reviews</doc>
+<doc>inreview=Reviews of Innocents</doc>
+<doc>tsreview=Reviews of Tom Sawyer</doc>
+<doc>hfreview=Reviews of Huck Finn</doc>
+<doc>yareview=Reviews of Conn. Yankee</doc>
+<doc>d1890=1890 reviews</doc>
+<doc>d1889=1889 reviews</doc>
+<doc>d1887=1887 reviews</doc>
+<doc>d1885=1885 reviews</doc>
+<doc>d1884=1884 reviews</doc>
+<doc>d1876=1876 reviews</doc>
+<doc>d1870=1870 reviews</doc>
+<doc>d1869=1869 reviews</doc>
+<doc text=1>div0=View results</doc>
+
+<!These are the filters for converting text to HTML>
+
+<htmlfilt>/lv6/workspace/railton/pat/public/mt.pl</htmlfilt>
+<kwicfilt>/lv6/workspace/railton/pat/public/mt-KWIC.pl</kwicfilt>
+<!permissions>

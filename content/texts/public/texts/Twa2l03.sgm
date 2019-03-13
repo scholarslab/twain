@@ -1,0 +1,268 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
+<!NOTATION jpg SYSTEM "JPEG"> 
+<!ENTITY T721203a SYSTEM "T721203a.jpg" NDATA jpg> 
+<!ENTITY T721203b SYSTEM "T721203b.jpg" NDATA jpg> 
+<!ENTITY T721203c SYSTEM "T721203c.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
+]> 
+<TEI.2 id="Twa2l03"> 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+<title>Letter, Mark Twain to Captain (John E.) Mouland, (1872) Dec 3 [a machine-readable transcription] 
+</title>  
+<author>Twain, Mark, 1835-1910 
+</author>  
+<respStmt> 
+<resp>Creation of machine-readable version:  
+</resp>  
+<name>Stephen Railton 
+</name>  
+<resp>Creation of digital images:  
+</resp>  
+<name>Special Collections, University of Virginia Library 
+</name>  
+<resp>Conversion to TEI.2-conformant markup:  
+</resp>  
+<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro 
+for the University of Virginia Library Electronic Text Center.
+</name>  
+</respStmt>  
+</titleStmt>  
+<extent>ca. 10 kilobytes  
+</extent>  
+<publicationStmt> 
+<publisher>University of Virginia Library. 
+</publisher>  
+<pubPlace>Charlottesville, Va. 
+</pubPlace>  
+<idno type="ETC">Modern English, Twa2l03</idno>  
+<availability> 
+<p>Publicly accessible 
+</p>  
+<p n="uva">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html 
+</p>  
+<p n="public">URL: http://twain.lib.virginia.edu/index2.html 
+</p>  
+<p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
+</availability>  
+<date>1997 
+</date>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>Images of the manuscript pages have been included. 
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>Mark Twain to Captain (John E.) Mouland, (1872) Dec 3 
+</title>  
+<title> 
+</title>  
+<author>Mark Twain, pseud. Samuel Langhorne Clemens 
+</author>  
+<respStmt> 
+<resp> 
+</resp>  
+<name> 
+</name>  
+</respStmt>  
+</titleStmt>  
+<editionStmt> 
+<p> 
+</p>  
+</editionStmt>  
+<extent> 
+</extent>  
+<publicationStmt> 
+<publisher> 
+</publisher>  
+<pubPlace> 
+</pubPlace>  
+<date> 
+</date>  
+<idno>Print copy consulted: Original manuscript in Special Collections, 
+University of Virginia Library: Papers of Mark Twain 1862-1946, bulk 
+1872-1910; 6314; AL (1872) Dec 3 
+</idno>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>This letter is included in the Clifton W. Barrett Library of American Literature at the University of Virginia. 
+</note>  
+</notesStmt>  
+</biblFull>  
+</sourceDesc>  
+</fileDesc>  
+<encodingDesc> 
+<projectDesc> 
+<p>Prepared for the University of Virginia Library Electronic Text Center. 
+</p>  
+</projectDesc>  
+<editorialDecl> 
+<p>All quotation marks retained as data. 
+</p>  
+<p>The lineation of the manuscript has been preserved. 
+</p>  
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
+</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
+</p>  
+</editorialDecl>  
+<refsDecl> 
+<p> 
+</p>  
+</refsDecl>  
+<classDecl> 
+<taxonomy> 
+<bibl> 
+<title>Library of Congress Subject Headings 
+</title>  
+</bibl>  
+</taxonomy>  
+</classDecl>  
+</encodingDesc>  
+<profileDesc> 
+<creation> 
+<date>1872  
+</date>  
+</creation>  
+<langUsage> 
+<language id="en">English 
+</language>  
+</langUsage>  
+<textClass> 
+<keywords> 
+<term>prose; non-fiction 
+</term>  
+</keywords>  
+<keywords> 
+<term>LCSH 
+</term>  
+</keywords>  
+<keywords> 
+<term> 
+</term>  
+<term> 
+</term>  
+<term type="format">24 bit color; 300 dpi 
+</term>  
+</keywords>  
+</textClass>  
+</profileDesc>  
+<revisionDesc> 
+<change> 
+<date>June 1997 
+</date>  
+<respStmt> 
+<resp>corrector 
+</resp>  
+<name>Lisa Spiro, Electronic Text Center 
+</name>  
+</respStmt>  
+<item>Added TEI header and tags, converted files from HTML to TEI, and restored original lineation. 
+</item>  
+</change>  
+</revisionDesc>  
+</teiHeader>  
+ 
+<text id="Twa2l03T"> 
+ 
+<body>  
+ <pb n="1" id="Tw7212031">  
+<div1 type="letter"> 
+<opener>  
+<seg> 
+<figure entity="T721203a"> 
+<figDesc>Papers of Mark Twain, AL (1872) Dec 3, Mark Twain to Captain Mouland; image of page one of the manuscript.  
+</figDesc></figure> 
+</seg> 
+<dateline><name type="place">Hartford</name>, <date n="1872-12-3"><abbr expan="December">Dec.</abbr> 1872.</date></dateline>  
+  
+<salute>Dear Captain :</salute> <lb> 
+</opener>  
+<p>You must <del>[illeg.]</del>run <lb> 
+down next voyage &amp; see <lb> 
+us, if you can.  Telegraph <lb> 
+me what hour you will <lb> 
+arrive &amp; I'll go to the station <lb> 
+&amp; fetch you home.  Mr. <lb> 
+Wood stayed all night with <lb> 
+ 
+   <pb n="2" id="Tw7212032">  
+ 
+<figure entity="T721203b"> 
+<figDesc>Papers of Mark Twain, AL (1872) Dec 3,  
+Mark Twain to Captain Mouland;  
+image of page two of the manuscript. 
+</figDesc></figure> 
+ 
+ 
+us &amp; then joined the <orig reg="General">Gen- <lb> 
+eral</orig> in New York &amp; they <lb> 
+went West together.  I <lb> 
+wanted the General to <lb> 
+stop with us, too, but his <lb>  
+business made it <orig reg="impossible">im- <lb> 
+possible</orig>.</p>  
+ 
+<p>The American papers <lb> 
+say the Royal Humane <orig reg="Society">So- <lb> 
+ciety</orig> ought to give me a <lb> 
+medal for "standing around <lb> 
+on deck without any <orig reg="umbrella">um- <lb> 
+brella</orig>," <abbr expan="etcetera">&amp;c</abbr>.  I <del>ex</del><add place="overwritten" n="suspect">sus</add>pect they <lb>  
+mean a leather <lb> 
+one.</p>  
+<p>My wife is anxious <lb> 
+that you should be put in <lb> 
+ 
+   <pb n="3" id="Tw7212033">  
+ 
+<figure entity="T721203c"> 
+<figDesc>Papers of Mark Twain, AL (1872) Dec 3,  
+Mark Twain to Captain Mouland;  
+image of page three of the manuscript. 
+</figDesc></figure> 
+ 
+command of the biggest <orig reg="Cunarder">Cu- <lb> 
+narder</orig> afloat, &amp; then she <lb> 
+thinks the sea-sickness will <lb> 
+deal less harshly by her.  I <lb> 
+hope, <add place="supralinear">also, that</add> that you'll have a particularly <lb> 
+big ship next <del>m</del><add place="overwritten" n="May">M</add>ay, for I <hi rend="underline">am</hi> <lb> 
+afraid my wife is going to have <lb> 
+a hard time with sea-sickness.</p>  
+ 
+<closer> 
+<salute><abbr expan="Yours">Yrs</abbr> Faithfully</salute>  
+<signed><abbr expan="Samuel">Sam.l</abbr> L. Clemens</signed>  
+<dateline><name type="place"><abbr expan="corner">Cor.</abbr> Forest & Hawthorne <abbr expan="streets">sts.</abbr><lb>  
+Hartford</name></dateline> <lb>  
+ 
+<name type="recipient"><abbr expan="Captain">Capt.</abbr> Mouland</name> <lb> 
+<seg type="postscript">(forgot the initials.<del>)</del>  
+<add place="inline">&mdash; as usual.)</add></seg> 
+ 
+</closer> 
+</div1> 
+   
+</body> 
+</text>  
+</TEI.2> 
+  
+ 

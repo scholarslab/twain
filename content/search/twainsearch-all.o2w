@@ -1,0 +1,71 @@
+<TagNames>
+<wrapper>UNIT</wrapper>
+<work>UNIT</work>
+<title></title>
+<author></author>
+<createdt></createdt>
+</TagNames>
+
+<DataDict>
+<Title>Search Twain's Works, Lectures, and Obituaries</Title>
+   <Path>/lv6/workspace/railton/search/twainsearch-all.dd</Path>
+   <Pat>/lv1/ot/ot5.0/bin/pat50</Pat>
+</DataDict>
+
+<Regions>
+
+   <Region>
+      <Name>UNIT</Name>
+      <Label>All items</Label>
+   </Region>
+
+</Regions>
+
+<Searching>
+   <Default>
+      <Region>UNIT</Region>
+      <HtmlFilter>/lv6/workspace/railton/search/twainsearch-all.pl</HtmlFilter>
+   </Default>
+
+   <Kwic>
+      <Link>
+         <ID>ID</ID>
+         <Label>item</Label>
+         <File>twainsearch-all.links</File>
+      </Link>
+      <Size>100</Size>
+      <Num>100</Num>
+      <Max>2000</Max>
+      <!Region></Region>
+      <Filter></Filter>
+   </Kwic>
+
+   <Surround>
+ <Link>
+         <Region>UNIT</Region>
+         <Filter>/lv6/workspace/railton/search/twainsearch-all.pl</Filter>
+         <Label>Full text</Label>
+      </Link>
+ <Link>
+         <Region>SUBUNIT</Region>
+         <Filter>/lv6/workspace/railton/search/twainsearch-all.pl</Filter>
+         <Label>Section (when available)</Label>
+      </Link>
+
+      <Text>
+        <Size>1000</Size>
+        <!Region>SUBUNIT</Region>
+      </Text>
+
+   </Surround>
+</Searching>
+
+<Permissions>
+</Permissions>
+ 
+<Display>
+   <Body>bgcolor="#E9C2A6"</Body>
+   <Header>twain-head.html</Header>
+   <Footer>twain-foot.html</Footer>
+</Display>
+

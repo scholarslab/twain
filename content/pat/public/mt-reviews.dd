@@ -1,0 +1,483 @@
+<DB>
+
+  <Text>
+    <Files>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.txt</SysName>
+        <ModDate>825350155</ModDate>
+        <Offset>0</Offset>
+      </File>
+    </Files>
+  </Text>
+
+  <Indices>
+
+    <Index>
+      <Name></Name>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.idx</SysName>
+        <ModDate>825350206</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <IndexPoints>
+        <IndexPt> &ISO_printable.</IndexPt>
+        <IndexPt>&newline.&ISO_printable.</IndexPt>
+        <IndexPt>>&ISO_printable.</IndexPt>
+        <IndexPt>&ISO_printable.&lt.</IndexPt>
+      </IndexPoints>
+      <Mappings>
+        <Map><From></From><To></To></Map>
+        <Map><From>&backspace.</From><To> </To></Map>
+        <Map><From>&tab.</From><To> </To></Map>
+        <Map><From>&newline.</From><To> </To></Map>
+        <Map><From>&return.</From><To> </To></Map>
+        <Map><From>!</From><To> </To></Map>
+        <Map><From>"</From><To> </To></Map>
+        <Map><From>#</From><To> </To></Map>
+        <Map><From>$</From><To> </To></Map>
+        <Map><From>%</From><To> </To></Map>
+        <Map><From>&amp.</From><To> </To></Map>
+        <Map><From>'</From><To> </To></Map>
+        <Map><From>(</From><To> </To></Map>
+        <Map><From>)</From><To> </To></Map>
+        <Map><From>*</From><To> </To></Map>
+        <Map><From>+</From><To> </To></Map>
+        <Map><From>,</From><To> </To></Map>
+        <Map><From>-</From><To> </To></Map>
+        <Map><From>.</From><To> </To></Map>
+        <Map><From>:</From><To> </To></Map>
+        <Map><From>;</From><To> </To></Map>
+        <Map><From>=</From><To> </To></Map>
+        <Map><From>></From><To> </To></Map>
+        <Map><From>?</From><To> </To></Map>
+        <Map><From>@</From><To> </To></Map>
+        <Map><From>A</From><To>a</To></Map>
+        <Map><From>B</From><To>b</To></Map>
+        <Map><From>C</From><To>c</To></Map>
+        <Map><From>D</From><To>d</To></Map>
+        <Map><From>E</From><To>e</To></Map>
+        <Map><From>F</From><To>f</To></Map>
+        <Map><From>G</From><To>g</To></Map>
+        <Map><From>H</From><To>h</To></Map>
+        <Map><From>I</From><To>i</To></Map>
+        <Map><From>J</From><To>j</To></Map>
+        <Map><From>K</From><To>k</To></Map>
+        <Map><From>L</From><To>l</To></Map>
+        <Map><From>M</From><To>m</To></Map>
+        <Map><From>N</From><To>n</To></Map>
+        <Map><From>O</From><To>o</To></Map>
+        <Map><From>P</From><To>p</To></Map>
+        <Map><From>Q</From><To>q</To></Map>
+        <Map><From>R</From><To>r</To></Map>
+        <Map><From>S</From><To>s</To></Map>
+        <Map><From>T</From><To>t</To></Map>
+        <Map><From>U</From><To>u</To></Map>
+        <Map><From>V</From><To>v</To></Map>
+        <Map><From>W</From><To>w</To></Map>
+        <Map><From>X</From><To>x</To></Map>
+        <Map><From>Y</From><To>y</To></Map>
+        <Map><From>Z</From><To>z</To></Map>
+        <Map><From>[</From><To> </To></Map>
+        <Map><From>\</From><To> </To></Map>
+        <Map><From>]</From><To> </To></Map>
+        <Map><From>^</From><To> </To></Map>
+        <Map><From>_</From><To> </To></Map>
+        <Map><From>`</From><To> </To></Map>
+        <Map><From>{</From><To> </To></Map>
+        <Map><From>|</From><To> </To></Map>
+        <Map><From>}</From><To> </To></Map>
+        <Map><From>~</From><To> </To></Map>
+        <StopWords></StopWords>
+      </Mappings>
+      <LongestMatch>
+        <Length>0</Length>
+        <Resolution>0</Resolution>
+      </LongestMatch>
+      <IntegrityCheck>372223000</IntegrityCheck>
+    </Index>
+  </Indices>
+
+  <Regions>
+
+    <Region>
+      <Name>TEI2</Name>
+      <Desc>Structure delimited by 'TEI2' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>teiHeader</Name>
+      <Desc>Structure delimited by 'teiHeader' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>32</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>author</Name>
+      <Desc>Structure delimited by 'author' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>64</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>title</Name>
+      <Desc>Structure delimited by 'title' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>96</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>extent</Name>
+      <Desc>Structure delimited by 'extent' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>128</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>text</Name>
+      <Desc>Structure delimited by 'text' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>160</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>body</Name>
+      <Desc>Structure delimited by 'body' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>192</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div0</Name>
+      <Desc>Structure delimited by 'div0' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>224</Offset>
+      </File>
+      <Count>86</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>p</Name>
+      <Desc>Structure delimited by 'p' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>568</Offset>
+      </File>
+      <Count>506</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>head</Name>
+      <Desc>Structure delimited by 'head' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>2592</Offset>
+      </File>
+      <Count>92</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>date</Name>
+      <Desc>Structure delimited by 'date' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>2960</Offset>
+      </File>
+      <Count>86</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>favor</Name>
+      <Desc>Structure delimited by 'favor' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>3304</Offset>
+      </File>
+      <Count>86</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>nation</Name>
+      <Desc>Structure delimited by 'nation' tags.</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/mt-reviews.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>3648</Offset>
+      </File>
+      <Count>100</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>American</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/American.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>56</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>EAmerican</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/EAmerican.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>42</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>WAmerican</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/WAmerican.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>14</Count>
+      <Type>pairs</Type>
+    </Region>
+
+
+    <Region>
+      <Name>British</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/British.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>30</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>favorable</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/favorable.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>44</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>unfavorable</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/unfavorable.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>20</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>mixed</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/mixed.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>20</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>hfreview</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/hfreview.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>inreview</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/inreview.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>tsreview</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/tsreview.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>yareview</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/yareview.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>d1890</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/d1890.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>18</Count>
+      <Type>pairs</Type>
+    </Region>
+    <Region>
+      <Name>d1889</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/d1889.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>d1885</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/d1885.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>20</Count>
+      <Type>pairs</Type>
+    </Region>
+    <Region>
+      <Name>d1884</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/d1884.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+    <Region>
+      <Name>d1887</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/d1887.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>6</Count>
+      <Type>pairs</Type>
+    </Region>
+    <Region>
+      <Name>d1876</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/d1876.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>18</Count>
+      <Type>pairs</Type>
+    </Region>
+    <Region>
+      <Name>d1869</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/d1869.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>12</Count>
+      <Type>pairs</Type>
+    </Region>
+    <Region>
+      <Name>d1870</Name>
+      <Desc>Structure delimited by .</Desc>
+      <File>
+        <SysName>/lv6/workspace/railton/pat/public/docs/d1870.P</SysName>
+        <ModDate>825350231</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+
+  </Regions>
+</DB>

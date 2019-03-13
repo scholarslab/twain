@@ -1,0 +1,246 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
+<!NOTATION jpg SYSTEM "JPEG"> 
+<!ENTITY T821212a SYSTEM "T821212a.jpg" NDATA jpg> 
+<!ENTITY T821212b SYSTEM "T821212b.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
+]> 
+<TEI.2 id="Twa2l12"> 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+<title>Letter, Mark Twain, Hartford, CT., to Horace Russell, 1882 Dec 12 [a machine-readable transcription] 
+</title>  
+<author>Twain, Mark, 1835-1910  
+</author>  
+<respStmt> 
+<resp>Creation of machine-readable version:  
+</resp>  
+<name>Lisa Spiro, Electronic Text Center  
+</name>  
+<resp>Creation of digital images:  
+</resp>  
+<name>Special Collections, University of Virginia Library  
+</name>  
+<resp>Conversion to TEI.2-conformant markup:  
+</resp>  
+<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro 
+for the University of Virginia Library Electronic Text Center.
+</name>  
+</respStmt>  
+</titleStmt>  
+<extent>ca. 5 kilobytes  
+</extent>  
+<publicationStmt> 
+<publisher>University of Virginia Library. 
+</publisher>  
+<pubPlace>Charlottesville, Va. 
+</pubPlace>  
+<idno type="ETC">Modern English, Twa2l12</idno>  
+<availability> 
+<p>Publicly accessible 
+</p>  
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html 
+</p>  
+<p n="public">URL: http://twain.lib.virginia.edu/index2.html 
+</p>  
+<p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
+</availability>  
+<date>1997 
+</date>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>Images of the manuscript pages have been included. 
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>Mark Twain, Hartford, CT., to Horace Russell, 1882 Dec 12  
+</title>  
+<title> 
+</title>  
+<author>Mark Twain, pseud. Samuel Langhorne Clemens 
+</author>  
+<respStmt> 
+<resp> 
+</resp>  
+<name> 
+</name>  
+</respStmt>  
+</titleStmt>  
+<editionStmt> 
+<p> 
+</p>  
+</editionStmt>  
+<extent> 
+</extent>  
+<publicationStmt> 
+<publisher> 
+</publisher>  
+<pubPlace> 
+</pubPlace>  
+<date> 
+</date>  
+<idno>Print copy consulted: Original manuscript in Special Collections, University of Virginia Library: Papers of Mark Twain 1862-1946, bulk 1872-1910; 6314; AL 1882 Dec 12 
+</idno>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note> 
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+</biblFull>  
+</sourceDesc>  
+</fileDesc>  
+<encodingDesc> 
+<projectDesc> 
+<p>Prepared for the University of Virginia Library Electronic Text Center. 
+</p>  
+</projectDesc>  
+<editorialDecl> 
+<p>All quotation marks retained as data. 
+</p>  
+<p>The lineation of the manuscript has been preserved. 
+</p>  
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
+</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
+</p>  
+</editorialDecl>  
+<refsDecl> 
+<p> 
+</p>  
+</refsDecl>  
+<classDecl> 
+<taxonomy> 
+<bibl> 
+<title>Library of Congress Subject Headings 
+</title>  
+</bibl>  
+</taxonomy>  
+</classDecl>  
+</encodingDesc>  
+<profileDesc> 
+<creation> 
+<date>1882 
+</date>  
+</creation>  
+<langUsage> 
+<language id="en">English 
+</language>  
+</langUsage>  
+<textClass> 
+<keywords> 
+<term>prose; non-fiction 
+</term>  
+</keywords>  
+<keywords> 
+<term>LCSH 
+</term>  
+</keywords>  
+<keywords> 
+<term> 
+</term>  
+<term> 
+</term>  
+<term type="format">24 bit color; 300 dpi 
+</term>  
+</keywords>  
+</textClass>  
+</profileDesc>  
+<revisionDesc> 
+<change> 
+<date>June 1997 
+</date>  
+<respStmt> 
+<resp>corrector 
+</resp>  
+<name>Lisa Spiro, Electronic Text Center 
+</name>  
+</respStmt>  
+<item>Added TEI header and tags, transcribed text, and preserved original lineation. 
+</item>  
+</change>  
+</revisionDesc>  
+</teiHeader>  
+ 
+<text id="Twa2l12T"> 
+<body> 
+ <pb n="1" id="Tw8212121">  
+<div1 type="letter"> 
+<opener> 
+<seg> 
+<figure entity="T821212a"> 
+<figDesc>Papers of Mark Twain,  AL 1882 Dec 12; 
+Mark Twain, Hartford, CT., to Horace Russell; 
+image of page one of the manuscript. 
+</figDesc> 
+</figure> 
+</seg> 
+<dateline> 
+<name type="place">Hartford,</name> 
+<date n="1882-12-12"><abbr expan="December">Dec.</abbr> 12/82.</date> 
+</dateline> 
+<salute>My Dear Judge Russell-</salute></opener> 
+ 
+<p>Woodford <del>[illeg.]</del> wrote me, &amp; I <lb> 
+answered; result, this arrangement: </p> 
+ 
+<p><abbr expan="fifth">5<hi rend="sup">th</hi></abbr> Regular toast: <lb> 
+Woman &mdash; God bless her! <lb> 
+Response by Mark Twain.</p> 
+ 
+<p>You see, I never use any <add place="supralinear">name</add> but my <lb> 
+nom de guerre on public occasions.) </p> 
+ 
+<p>Woodford says that if President <lb> 
+<del>a</del><add place="overwritten">A</add>rthur is not on hand, I'll be <abbr expan="Number">No.</abbr> <lb> 
+5 &mdash; otherwise I am to be <abbr expan="Number">No.</abbr> 6.  It <lb> 
+gives me the belly-ache to wait long with <lb> 
+a speech in my bowels. </p> 
+ 
+<p>I threw aside all my other <orig reg="subjects">sub- <lb> 
+jects</orig> &mdash; they were too solemn.  As <lb> 
+this is to be my last speech, with the <lb> 
+exception of one next August which <lb> 
+ 
+   <pb n="2" id="Tw8212122">  
+ 
+<figure entity="T821212b"> 
+<figDesc>Papers of Mark Twain,  AL 1882 Dec 12; 
+Mark Twain, Hartford, CT., to Horace Russell; 
+image of page two of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+is to fulfill a promise 3 years <lb> 
+old,  I thought I would like to <lb> 
+wind up with an obituary <lb> 
+with the right amount of <orig reg="nonsense">non- <lb> 
+sense</orig> in it.</p> 
+ 
+<closer> 
+<salute>Truly yours,</salute> 
+<signed>SL Clemens</signed> 
+</closer> 
+</div1> 
+   
+</body> 
+</text> 
+</TEI.2> 
+ 

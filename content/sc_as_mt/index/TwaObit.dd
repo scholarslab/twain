@@ -1,0 +1,1804 @@
+<DB>
+
+  <Text>
+    <Files>
+      <File>
+        <SysName>TwaObit</SysName>
+        <ModDate>936039987</ModDate>
+        <Offset>0</Offset>
+      </File>
+    </Files>
+  </Text>
+
+  <Indices>
+
+    <Index>
+      <Name></Name>
+      <FastFind>
+        <FastFindCompression>
+          <File>
+            <SysName>TwaObit.ffi</SysName>
+            <ModDate>936041963</ModDate>
+            <Offset>0</Offset>
+          </File>
+        </FastFindCompression>
+        <FastFindIndex>
+          <File>
+            <SysName>TwaObit.ffc</SysName>
+            <ModDate>936041963</ModDate>
+            <Offset>0</Offset>
+          </File>
+        </FastFindIndex>
+        <FastFindWordList>
+          <File>
+            <SysName>TwaObit.ffw</SysName>
+            <ModDate>936041961</ModDate>
+            <Offset>0</Offset>
+          </File>
+        </FastFindWordList>
+      </FastFind>
+      <File>
+        <SysName>TwaObit.idx</SysName>
+        <ModDate>936041959</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <IndexPoints>
+        <IndexPt> &ISO_printable.</IndexPt>
+        <IndexPt>&gt.&ISO_printable.</IndexPt>
+        <IndexPt>&ISO_printable.&lt.</IndexPt>
+      </IndexPoints>
+      <Mappings>
+        <Map><From></From><To></To></Map>
+        <Map><From>&backspace.</From><To> </To></Map>
+        <Map><From>&tab.</From><To> </To></Map>
+        <Map><From>&newline.</From><To> </To></Map>
+        <Map><From>&return.</From><To> </To></Map>
+        <Map><From>!</From><To> </To></Map>
+        <Map><From>"</From><To> </To></Map>
+        <Map><From>#</From><To> </To></Map>
+        <Map><From>$</From><To> </To></Map>
+        <Map><From>%</From><To> </To></Map>
+        <Map><From>&amp.</From><To> </To></Map>
+        <Map><From>'</From><To> </To></Map>
+        <Map><From>(</From><To> </To></Map>
+        <Map><From>)</From><To> </To></Map>
+        <Map><From>*</From><To> </To></Map>
+        <Map><From>+</From><To> </To></Map>
+        <Map><From>,</From><To> </To></Map>
+        <Map><From>-</From><To> </To></Map>
+        <Map><From>.</From><To> </To></Map>
+        <Map><From>:</From><To> </To></Map>
+        <Map><From>;</From><To> </To></Map>
+        <Map><From>=</From><To> </To></Map>
+        <Map><From>&gt.</From><To> </To></Map>
+        <Map><From>?</From><To> </To></Map>
+        <Map><From>@</From><To> </To></Map>
+        <Map><From>A</From><To>a</To></Map>
+        <Map><From>B</From><To>b</To></Map>
+        <Map><From>C</From><To>c</To></Map>
+        <Map><From>D</From><To>d</To></Map>
+        <Map><From>E</From><To>e</To></Map>
+        <Map><From>F</From><To>f</To></Map>
+        <Map><From>G</From><To>g</To></Map>
+        <Map><From>H</From><To>h</To></Map>
+        <Map><From>I</From><To>i</To></Map>
+        <Map><From>J</From><To>j</To></Map>
+        <Map><From>K</From><To>k</To></Map>
+        <Map><From>L</From><To>l</To></Map>
+        <Map><From>M</From><To>m</To></Map>
+        <Map><From>N</From><To>n</To></Map>
+        <Map><From>O</From><To>o</To></Map>
+        <Map><From>P</From><To>p</To></Map>
+        <Map><From>Q</From><To>q</To></Map>
+        <Map><From>R</From><To>r</To></Map>
+        <Map><From>S</From><To>s</To></Map>
+        <Map><From>T</From><To>t</To></Map>
+        <Map><From>U</From><To>u</To></Map>
+        <Map><From>V</From><To>v</To></Map>
+        <Map><From>W</From><To>w</To></Map>
+        <Map><From>X</From><To>x</To></Map>
+        <Map><From>Y</From><To>y</To></Map>
+        <Map><From>Z</From><To>z</To></Map>
+        <Map><From>[</From><To> </To></Map>
+        <Map><From>\</From><To> </To></Map>
+        <Map><From>]</From><To> </To></Map>
+        <Map><From>^</From><To> </To></Map>
+        <Map><From>_</From><To> </To></Map>
+        <Map><From>`</From><To> </To></Map>
+        <Map><From>{</From><To> </To></Map>
+        <Map><From>|</From><To> </To></Map>
+        <Map><From>}</From><To> </To></Map>
+        <Map><From>~</From><To> </To></Map>
+        <StopWords></StopWords>
+      </Mappings>
+      <LongestMatch>
+        <Length>0</Length>
+        <Resolution>0</Resolution>
+      </LongestMatch>
+      <IntegrityCheck>372223000</IntegrityCheck>
+    </Index>
+  </Indices>
+
+  <Regions>
+
+    <Region>
+      <Name>TEI.2</Name>
+      <Desc>Structure delimited by 'TEI.2' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>0</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>gi</Name>
+      <Desc>Structure delimited by 'gi' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>8</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>eg</Name>
+      <Desc>Structure delimited by 'eg' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>8</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>code</Name>
+      <Desc>Structure delimited by 'code' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>8</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>ident</Name>
+      <Desc>Structure delimited by 'ident' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>8</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>kw</Name>
+      <Desc>Structure delimited by 'kw' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>8</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>teiHeader</Name>
+      <Desc>Structure delimited by 'teiHeader' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>8</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>fileDesc</Name>
+      <Desc>Structure delimited by 'fileDesc' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>16</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>titleStmt</Name>
+      <Desc>Structure delimited by 'titleStmt' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>24</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>sponsor</Name>
+      <Desc>Structure delimited by 'sponsor' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>40</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>funder</Name>
+      <Desc>Structure delimited by 'funder' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>40</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>principal</Name>
+      <Desc>Structure delimited by 'principal' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>40</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>editionStmt</Name>
+      <Desc>Structure delimited by 'editionStmt' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>40</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>edition</Name>
+      <Desc>Structure delimited by 'edition' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>48</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>extent</Name>
+      <Desc>Structure delimited by 'extent' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>48</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>publicationStmt</Name>
+      <Desc>Structure delimited by 'publicationStmt' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>64</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>distributor</Name>
+      <Desc>Structure delimited by 'distributor' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>80</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>authority</Name>
+      <Desc>Structure delimited by 'authority' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>80</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>idno</Name>
+      <Desc>Structure delimited by 'idno' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>80</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>availability</Name>
+      <Desc>Structure delimited by 'availability' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>96</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>seriesStmt</Name>
+      <Desc>Structure delimited by 'seriesStmt' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>104</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>notesStmt</Name>
+      <Desc>Structure delimited by 'notesStmt' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>120</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>sourceDesc</Name>
+      <Desc>Structure delimited by 'sourceDesc' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>136</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>encodingDesc</Name>
+      <Desc>Structure delimited by 'encodingDesc' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>144</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>projectDesc</Name>
+      <Desc>Structure delimited by 'projectDesc' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>152</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>samplingDecl</Name>
+      <Desc>Structure delimited by 'samplingDecl' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>160</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>editorialDecl</Name>
+      <Desc>Structure delimited by 'editorialDecl' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>160</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>tagsDecl</Name>
+      <Desc>Structure delimited by 'tagsDecl' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>168</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>tagUsage</Name>
+      <Desc>Structure delimited by 'tagUsage' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>168</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>rendition</Name>
+      <Desc>Structure delimited by 'rendition' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>168</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>refsDecl</Name>
+      <Desc>Structure delimited by 'refsDecl' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>168</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>classDecl</Name>
+      <Desc>Structure delimited by 'classDecl' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>176</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>taxonomy</Name>
+      <Desc>Structure delimited by 'taxonomy' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>184</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>category</Name>
+      <Desc>Structure delimited by 'category' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>192</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>catDesc</Name>
+      <Desc>Structure delimited by 'catDesc' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>192</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>profileDesc</Name>
+      <Desc>Structure delimited by 'profileDesc' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>192</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>creation</Name>
+      <Desc>Structure delimited by 'creation' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>200</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>langUsage</Name>
+      <Desc>Structure delimited by 'langUsage' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>208</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>language</Name>
+      <Desc>Structure delimited by 'language' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>216</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>textClass</Name>
+      <Desc>Structure delimited by 'textClass' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>224</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>keywords</Name>
+      <Desc>Structure delimited by 'keywords' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>232</Offset>
+      </File>
+      <Count>6</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>classCode</Name>
+      <Desc>Structure delimited by 'classCode' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>256</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>catRef</Name>
+      <Desc>Structure delimited by 'catRef' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>256</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>revisionDesc</Name>
+      <Desc>Structure delimited by 'revisionDesc' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>256</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>change</Name>
+      <Desc>Structure delimited by 'change' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>264</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>p</Name>
+      <Desc>Structure delimited by 'p' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>272</Offset>
+      </File>
+      <Count>748</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>foreign</Name>
+      <Desc>Structure delimited by 'foreign' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3264</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>emph</Name>
+      <Desc>Structure delimited by 'emph' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3264</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>hi</Name>
+      <Desc>Structure delimited by 'hi' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3264</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>q</Name>
+      <Desc>Structure delimited by 'q' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3264</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>cit</Name>
+      <Desc>Structure delimited by 'cit' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3264</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>soCalled</Name>
+      <Desc>Structure delimited by 'soCalled' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3264</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>term</Name>
+      <Desc>Structure delimited by 'term' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3264</Offset>
+      </File>
+      <Count>10</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>mentioned</Name>
+      <Desc>Structure delimited by 'mentioned' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3304</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>gloss</Name>
+      <Desc>Structure delimited by 'gloss' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3304</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>name</Name>
+      <Desc>Structure delimited by 'name' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3304</Offset>
+      </File>
+      <Count>10</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>rs</Name>
+      <Desc>Structure delimited by 'rs' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3344</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>num</Name>
+      <Desc>Structure delimited by 'num' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3344</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>date</Name>
+      <Desc>Structure delimited by 'date' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3344</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>time</Name>
+      <Desc>Structure delimited by 'time' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>abbr</Name>
+      <Desc>Structure delimited by 'abbr' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>sic</Name>
+      <Desc>Structure delimited by 'sic' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>corr</Name>
+      <Desc>Structure delimited by 'corr' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>reg</Name>
+      <Desc>Structure delimited by 'reg' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>orig</Name>
+      <Desc>Structure delimited by 'orig' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>gap</Name>
+      <Desc>Structure delimited by 'gap' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>add</Name>
+      <Desc>Structure delimited by 'add' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>del</Name>
+      <Desc>Structure delimited by 'del' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>unclear</Name>
+      <Desc>Structure delimited by 'unclear' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>address</Name>
+      <Desc>Structure delimited by 'address' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>addrLine</Name>
+      <Desc>Structure delimited by 'addrLine' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>ptr</Name>
+      <Desc>Structure delimited by 'ptr' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>ref</Name>
+      <Desc>Structure delimited by 'ref' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3376</Offset>
+      </File>
+      <Count>92</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>list</Name>
+      <Desc>Structure delimited by 'list' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3744</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>item</Name>
+      <Desc>Structure delimited by 'item' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3752</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>label</Name>
+      <Desc>Structure delimited by 'label' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3784</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>head</Name>
+      <Desc>Structure delimited by 'head' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>3784</Offset>
+      </File>
+      <Count>130</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>note</Name>
+      <Desc>Structure delimited by 'note' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4304</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>index</Name>
+      <Desc>Structure delimited by 'index' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4320</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>divGen</Name>
+      <Desc>Structure delimited by 'divGen' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4320</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>bibl</Name>
+      <Desc>Structure delimited by 'bibl' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4320</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>biblFull</Name>
+      <Desc>Structure delimited by 'biblFull' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4328</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>listBibl</Name>
+      <Desc>Structure delimited by 'listBibl' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4336</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>author</Name>
+      <Desc>Structure delimited by 'author' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4336</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>editor</Name>
+      <Desc>Structure delimited by 'editor' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4352</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>respStmt</Name>
+      <Desc>Structure delimited by 'respStmt' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4352</Offset>
+      </File>
+      <Count>6</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>resp</Name>
+      <Desc>Structure delimited by 'resp' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4376</Offset>
+      </File>
+      <Count>10</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>title</Name>
+      <Desc>Structure delimited by 'title' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4416</Offset>
+      </File>
+      <Count>8</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>imprint</Name>
+      <Desc>Structure delimited by 'imprint' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4448</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>publisher</Name>
+      <Desc>Structure delimited by 'publisher' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4448</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>biblScope</Name>
+      <Desc>Structure delimited by 'biblScope' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4464</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>pubPlace</Name>
+      <Desc>Structure delimited by 'pubPlace' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4464</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>l</Name>
+      <Desc>Structure delimited by 'l' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4480</Offset>
+      </File>
+      <Count>122</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>lg</Name>
+      <Desc>Structure delimited by 'lg' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4968</Offset>
+      </File>
+      <Count>4</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>sp</Name>
+      <Desc>Structure delimited by 'sp' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4984</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>speaker</Name>
+      <Desc>Structure delimited by 'speaker' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4984</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>stage</Name>
+      <Desc>Structure delimited by 'stage' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4984</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>text</Name>
+      <Desc>Structure delimited by 'text' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4984</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>body</Name>
+      <Desc>Structure delimited by 'body' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>4992</Offset>
+      </File>
+      <Count>2</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>group</Name>
+      <Desc>Structure delimited by 'group' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5000</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div</Name>
+      <Desc>Structure delimited by 'div' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5000</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div0</Name>
+      <Desc>Structure delimited by 'div0' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5000</Offset>
+      </File>
+      <Count>92</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div1</Name>
+      <Desc>Structure delimited by 'div1' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5368</Offset>
+      </File>
+      <Count>28</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div2</Name>
+      <Desc>Structure delimited by 'div2' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5480</Offset>
+      </File>
+      <Count>10</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div3</Name>
+      <Desc>Structure delimited by 'div3' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div4</Name>
+      <Desc>Structure delimited by 'div4' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div5</Name>
+      <Desc>Structure delimited by 'div5' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div6</Name>
+      <Desc>Structure delimited by 'div6' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>div7</Name>
+      <Desc>Structure delimited by 'div7' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>trailer</Name>
+      <Desc>Structure delimited by 'trailer' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>byline</Name>
+      <Desc>Structure delimited by 'byline' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>dateline</Name>
+      <Desc>Structure delimited by 'dateline' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>argument</Name>
+      <Desc>Structure delimited by 'argument' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>epigraph</Name>
+      <Desc>Structure delimited by 'epigraph' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>opener</Name>
+      <Desc>Structure delimited by 'opener' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>closer</Name>
+      <Desc>Structure delimited by 'closer' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>salute</Name>
+      <Desc>Structure delimited by 'salute' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>signed</Name>
+      <Desc>Structure delimited by 'signed' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>front</Name>
+      <Desc>Structure delimited by 'front' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>titlePage</Name>
+      <Desc>Structure delimited by 'titlePage' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>docTitle</Name>
+      <Desc>Structure delimited by 'docTitle' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>titlePart</Name>
+      <Desc>Structure delimited by 'titlePart' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>docAuthor</Name>
+      <Desc>Structure delimited by 'docAuthor' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>docEdition</Name>
+      <Desc>Structure delimited by 'docEdition' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>docImprint</Name>
+      <Desc>Structure delimited by 'docImprint' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>docDate</Name>
+      <Desc>Structure delimited by 'docDate' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>back</Name>
+      <Desc>Structure delimited by 'back' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>xref</Name>
+      <Desc>Structure delimited by 'xref' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>xptr</Name>
+      <Desc>Structure delimited by 'xptr' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>seg</Name>
+      <Desc>Structure delimited by 'seg' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>anchor</Name>
+      <Desc>Structure delimited by 'anchor' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>interp</Name>
+      <Desc>Structure delimited by 'interp' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>interpGrp</Name>
+      <Desc>Structure delimited by 'interpGrp' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>s</Name>
+      <Desc>Structure delimited by 's' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>table</Name>
+      <Desc>Structure delimited by 'table' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>row</Name>
+      <Desc>Structure delimited by 'row' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>cell</Name>
+      <Desc>Structure delimited by 'cell' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>formula</Name>
+      <Desc>Structure delimited by 'formula' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>figure</Name>
+      <Desc>Structure delimited by 'figure' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+
+    <Region>
+      <Name>figDesc</Name>
+      <Desc>Structure delimited by 'figDesc' tags.</Desc>
+      <File>
+        <SysName>TwaObit.rgn</SysName>
+        <ModDate>936041956</ModDate>
+        <Offset>5520</Offset>
+      </File>
+      <Count>0</Count>
+      <Type>pairs</Type>
+    </Region>
+  </Regions>
+</DB>

@@ -1,0 +1,107 @@
+#!/usr/local/bin/perl
+#DAVID SEAMAN ELECTRONIC TEXT CENTER JULY 1999
+
+
+while (<>) {
+	$a = $_;
+
+$a =~ s/<img src="../margin.GIF">//g;
+
+$a =~ s/<NOTE target="([^"]*)">\[([0-9]*)\]<\/NOTE>/<a href=#$1><sup>$2<\/sup><\/a>/g;
+$a =~ s/<note target="([^"]*)">\[([0-9]*)\]<\/note>/<a href=#$1><sup>$2<\/sup><\/a>/g;
+
+$a =~ s/<note id="([^"]*)">/<br><br><a name="$1">/g;    
+
+$a =~ s/<ref>[^<]*<\/ref>/ /g;
+$a =~ s/<ID>[^<]*<\/ID>/ /g;
+$a =~ s/<idno>[^<]*<\/idno>/ /g;
+
+$a =~ s/<SPKID>[^<]*<\/SPKID>/ /g;
+
+#header
+
+$a =~ s/<p>[ ]*Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.[ ]*<\/p>//g;
+$a =~ s/<p>URL:([^<]*)<\/p>/<br><a href="$1">$1<\/a>/g;
+
+#divs and heads
+
+$a =~ s/<div1[^>]*>/<hr><font size="+3">/g;
+$a =~ s/<div2[^>]*>/<hr width="75%"><font size="+2">/g;
+$a =~ s/<div3[^>]*>/<hr width="50%"><font size="+1">/g;
+
+$a =~ s/<HEAD>/<!-- /g;
+$a =~ s/<\/HEAD>/ -->/g;
+
+$a =~ s/<head>/<center>/g;
+$a =~ s/<\/head>/<\/font><\/center>/g;
+
+$a =~ s/<div[0-9][^>]*>//g;
+$a =~ s/<\/div2>/<\/i><\/center>/g;
+$a =~ s/<\/div[0-9]>//g;
+
+
+#cross references and notes
+
+$a =~ s/<xptr from="([^"]*)" to="([^"]*)" doc="([^"]*)">/<a href="http:\/\/jefferson.village.virginia.edu\/vcdh\/kennedy\/scripts\/makeram.pl?id=$3.rm&to=$2&from=$1" target="ramframe"><img src="http:\/\/etext.lib.virginia.edu\/kennedy\/getram.gif" border="0" alt="soundfile"><\/a>/g;
+
+$a =~ s/<note target="note([^"]*)">\[([0-9*])\]/<a href="#note$1"><sup>$2<\/sup>/g;
+$a =~ s/<note id="note([^"]*)">/<a name="note$1">$1: /g;
+
+$a =~ s/<\/note>/<\/a> /g;
+
+#names, refs, and dates
+
+$a =~ s/<date value="[^"]*">//g;
+$a =~ s/<\/date>//g;
+
+#general layout
+
+$a =~ s/<p n="summary">/<center><i>/g;
+
+$a =~ s/<speaker id="[^"]*">/<i>/g;
+$a =~ s/<\/speaker>/<\/i>/g;
+
+$a =~ s/<seg type="aside">/<i> /g; 
+$a =~ s/<\/seg>/<\/i> /g;
+
+#clean up
+
+$a =~ s/<p>[ ]*<\/p>//g;
+$a =~ s/<p><\/p>//g;
+
+$a =~ s/<p>&nbsp;&nbsp;&nbsp;<\/p>//g;
+
+$a =~ s/<item>[ ]*<\/item>//g;
+$a =~ s/<item><\/item>//g;
+
+$a =~ s/<term>[ ]*<\/term>//g;
+$a =~ s/<term><\/term>//g;
+
+$a =~ s/<note>[ ]*<\/note>//g;
+$a =~ s/<note><\/note>//g;
+
+$a =~ s/<date>[ ]*<\/date>//g;
+$a =~ s/<date><\/date>//g;
+
+$a =~ s/<publisher>[ ]*<\/publisher>//g;
+$a =~ s/<publisher><\/publisher>//g;
+
+$a =~ s/<pubPlace>[ ]*<\/pubPlace>//g;
+$a =~ s/<pubPlace><\/pubPlace>//g;
+
+$a =~ s/<name>[ ]*<\/name>//g;
+$a =~ s/<name><\/name>//g;
+
+$a =~ s/<resp>[ ]*<\/resp>//g;
+$a =~ s/<resp><\/resp>//g;
+
+$a =~ s/<idno>[^<]*<\/idno>//g;
+
+$a =~ s/<title>Library of Congress Subject Headings[ ]*<\/title>//g;
+
+$a =~ s/<UNIT><notesStmt><UNIT><note><\/note><\/UNIT><\/notesStmt>//g;
+
+
+        print $a;
+}
+

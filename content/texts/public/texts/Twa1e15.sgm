@@ -1,0 +1,421 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
+<!NOTATION jpg SYSTEM "JPEG"> 
+<!ENTITY T710515a SYSTEM "T710515a.jpg" NDATA jpg> 
+<!ENTITY T710515b SYSTEM "T710515b.jpg" NDATA jpg> 
+<!ENTITY T710515c SYSTEM "T710515c.jpg" NDATA jpg> 
+<!ENTITY T710515d SYSTEM "T710515d.jpg" NDATA jpg> 
+<!ENTITY T710515e SYSTEM "T710515e.jpg" NDATA jpg> 
+<!ENTITY T710515f SYSTEM "T710515f.jpg" NDATA jpg> 
+<!ENTITY T710515g SYSTEM "T710515g.jpg" NDATA jpg> 
+<!ENTITY T710515h SYSTEM "T710515h.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
+]> 
+<TEI.2 id="Twa1e15"> 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+<title>Letter, Mark Twain to (Elisha) Bliss, 1871 May 15 [a machine-readable transcription] 
+</title>  
+<author>Twain, Mark, 1835-1910 
+</author>  
+<respStmt> 
+<resp>Creation of machine-readable version:  
+</resp>  
+<name>Stephen Railton  
+</name>  
+<resp>Creation of digital images:  
+</resp>  
+<name>Special Collections, University of Virginia Library 
+</name>  
+<resp>Conversion to TEI.2-conformant markup:  
+</resp>  
+<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro 
+for the University of Virginia Library Electronic Text Center.
+</name>  
+</respStmt>  
+</titleStmt>  
+<extent>ca. 10 kilobytes  
+</extent>  
+<publicationStmt> 
+<publisher>University of Virginia Library. 
+</publisher>  
+<pubPlace>Charlottesville, Va. 
+</pubPlace>  
+<idno type="ETC">Modern English, Twa1e15</idno>  
+<availability> 
+<p>Publicly accessible 
+</p>  
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html</p>  
+<p n="public">URL: http://twain.lib.virginia.edu/index2.html</p>  
+<p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
+</availability>  
+<date>1997 
+</date>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>Images of the manuscript have been included. 
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>Mark Twain to (Elisha) Bliss, 1871 May 15  
+</title>  
+<title> 
+</title>  
+<author>Mark Twain, pseud.; Samuel Langhorne Clemens 
+</author>  
+<respStmt> 
+<resp> 
+</resp>  
+<name> 
+</name>  
+</respStmt>  
+</titleStmt>  
+<editionStmt> 
+<p> 
+</p>  
+</editionStmt>  
+<extent> 
+</extent>  
+<publicationStmt> 
+<publisher> 
+</publisher>  
+<pubPlace> 
+</pubPlace>  
+<date> 
+</date>  
+<idno>Print copy consulted: Original manuscript in Special Collections, 
+University of Virginia Library: Papers of Mark Twain 1862-1946, bulk 
+1872-1910; 6314; AL (1871 May 15) 
+</idno>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note> 
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+</biblFull>  
+</sourceDesc>  
+</fileDesc>  
+<encodingDesc> 
+<projectDesc> 
+<p>Prepared for the University of Virginia Library Electronic Text Center. 
+</p>  
+</projectDesc>  
+<editorialDecl> 
+<p>All quotation marks retained as data. 
+</p>  
+<p>The lineation of the manuscript has been preserved. 
+</p>  
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
+</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
+</p>  
+</editorialDecl>  
+<refsDecl> 
+<p> 
+</p>  
+</refsDecl>  
+<classDecl> 
+<taxonomy> 
+<bibl> 
+<title>Library of Congress Subject Headings 
+</title>  
+</bibl>  
+</taxonomy>  
+</classDecl>  
+</encodingDesc>  
+<profileDesc> 
+<creation> 
+<date>1871 
+</date>  
+</creation>  
+<langUsage> 
+<language id="en">English 
+</language>  
+</langUsage>  
+<textClass> 
+<keywords> 
+<term>prose; non-fiction 
+</term>  
+</keywords>  
+<keywords> 
+<term>LCSH 
+</term>  
+</keywords>  
+<keywords> 
+<term> 
+</term>  
+<term> 
+</term>  
+<term type="format">24 bit color; 300 dpi. 
+</term>  
+</keywords>  
+</textClass>  
+</profileDesc>  
+<revisionDesc> 
+<change> 
+<date>June 1997 
+</date>  
+<respStmt> 
+<resp>corrector 
+</resp>  
+<name>Lisa Spiro 
+</name>  
+</respStmt>  
+<item>Added TEI header and tags, converted files from HTML to TEI, and re-introduced original lineation. 
+</item>  
+</change>  
+</revisionDesc>  
+</teiHeader>  
+ 
+<text id="Twa1e15T"> 
+<front> 
+<div1 type="note"> 
+<p> 
+<figure entity="T710515h"> 
+<figDesc>Annotation, apparently by a collector, identifying the manuscript as "Mark Twain, May 15/71."  This annotation appears on the verso of the last page of Twain's letter to Elisha Bliss, 1871 May 15. 
+</figDesc> 
+</figure> 
+</p> 
+</div1> 
+</front> 
+<body> 
+ 
+ <pb n="1" id="Tw7105151">  
+<div1 type="letter"> 
+<opener> 
+<seg> 
+<figure entity="T710515a"> 
+<figDesc>Papers of Mark Twain, AL (1871 May 15) Mark Twain to  
+(Elisha) Bliss; image of page one of the manuscript. 
+</figDesc> 
+</figure> 
+</seg>  
+<dateline><name type="place">Elmira</name>, <date n="1871-05-15">Monday</date> 
+</dateline><salute>Friend Bliss:</salute>  
+</opener> 
+<p><abbr expan="Yours">Yrs</abbr> <abbr expan="received">rec'd</abbr> enclosing <lb> 
+check for $703.35.  The <lb> 
+old "Innocents" holds <lb> 
+out handsomely.</p>  
+ 
+<p>I feel confident <lb> 
+that House will make <lb> 
+a most readable <del>blook</del> <lb> 
+book.  Shall write him <lb> 
+what you say.</p>  
+ 
+<p>I have <abbr expan="manuscript">MS.</abbr> enough <lb> 
+on hand now, to make (<orig reg="allowing">al- <lb> 
+lowing</orig> for engravings) about <lb> 
+400 pages of the book &mdash; <lb> 
+consequently am two-thirds <lb> 
+done.  I intended to run <lb> 
+up to Hartford about the <lb> 
+middle of the week &amp; take <lb>  
+ 
+   <pb n="2" id="Tw7105152">  
+ 
+<figure entity="T710515b"> 
+<figDesc>Papers of Mark Twain, AL (1871 May 15) Mark Twain to  
+(Elisha) Bliss; image of page two of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+it along; <del>[illeg.]</del> <lb> 
+because it has chapters <lb> 
+in it that ought by all means <lb> 
+to be in the prospectus; <lb> 
+but I find myself so <lb> 
+thoroughly interested in <lb> 
+my work, now (a thing <lb> 
+I have not experienced for <lb>  
+months) that I can't bear <lb> 
+to lose a single moment <lb> 
+of the inspiration.  So <lb> 
+I will stay here & peg <lb> 
+away as long as it lasts.  <lb> 
+My present idea is to <lb> 
+write as much more <lb> 
+as I have already <lb> 
+written, & then cull from <lb> 
+the mass the very best <lb> 
+chapters & discard the <lb> 
+rest.  I am not half as <lb> 
+well satisfied with the first <lb> 
+ 
+   <pb n="3" id="Tw7105153">  
+ 
+<figure entity="T710515c"> 
+<figDesc>Papers of Mark Twain, AL (1871 May 15) Mark Twain to  
+(Elisha) Bliss; image of page three of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+part of the book as I <lb> 
+am with what I am <orig reg="writing">wri- <lb> 
+ting</orig> now.  When I get it <lb> 
+done I want to see the <lb> 
+man who will begin to <lb> 
+read it &amp; not finish <lb> 
+it.  If it falls short of <lb> 
+the Innocents in any <lb> 
+respect I shall lose <lb> 
+my guess.</p>  
+ 
+<p>When I was writing <lb> 
+the Innocents my daily <lb> 
+"stent" was 30 pages of <abbr expan="manuscript">MS</abbr> <lb>  
+&amp; I hardly ever got beyond it; <lb> 
+but I have gone over that <lb> 
+nearly every day for the <lb> 
+last ten.  That shows <lb> 
+that I am writing with <lb> 
+a red-hot interest.  <orig reg="Nothing">No- <lb> 
+thing</orig> grieves me now &mdash; <lb> 
+ 
+ 
+   <pb n="4" id="Tw7105154">  
+ 
+<figure entity="T710515d"> 
+<figDesc>Papers of Mark Twain, AL (1871 May 15) Mark Twain to  
+(Elisha) Bliss; image of page four. 
+</figDesc> 
+</figure> 
+ 
+nothing troubles <del>;</del> me, bothers <lb> 
+me or gets my attention <lb> 
+&mdash; I don't think of <orig reg="anything">any- <lb> 
+thing</orig> but the book, &amp; don't <lb> 
+have an hour's <orig reg="unhappiness">unhap- <lb> 
+piness</orig> about anything <lb> 
+&amp; don't care two cents <orig reg="whether">whe- <lb> 
+ther</orig> school keeps or not. <lb> 
+It will be a bully book. <lb> 
+If I keep up my present <lb> 
+lick three weeks more <lb> 
+I shall be able &amp; willing <lb> 
+to scratch out half of <lb> 
+the chapters of the <orig reg="Overland">Over- <lb> 
+land</orig> narrative &mdash; &amp; <lb> 
+shall do it.</p>  
+ 
+<p>You do not mention <lb> 
+having received my second <lb> 
+batch of <abbr expan="manuscript">MS</abbr>, sent a week <lb> 
+or two ago &mdash; about 100 pages.</p>  
+ 
+<p>If you want to issue <lb> 
+ 
+   <pb n="5" id="Tw7105155">  
+ 
+<figure entity="T710515e"> 
+<figDesc>Papers of Mark Twain, AL (1871 May 15) Mark Twain to  
+(Elisha) Bliss; image of page five of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+a prospectus &amp; go right to <lb> 
+canvassing, say the word <lb> 
+&amp; I will forward some <lb> 
+more <abbr expan="manuscript">MS</abbr> &mdash; or send it by <lb> 
+hand &mdash; special messenger.  <lb> 
+Whatever chapters you think <lb> 
+are unquestionably good, <lb> 
+we will retain of course, <lb> 
+&amp; so they can go into a <lb>  
+prospectus as well one <lb> 
+time as another.  The <lb> 
+book will be done soon, now. <lb>  
+I have 1200 pages of <abbr expan="manuscript">MS</abbr> <orig reg="already">al- <lb> 
+ready</orig> written, & am now <orig reg="writing">wri- <lb> 
+ting</orig> 200 a week &mdash; more than <lb> 
+that, in fact; during past week <lb> 
+wrote 23 one day, then 30, 33, 35, <lb> 
+52, & 65. &mdash; <del>[illeg.] <lb> 
+</del>How's that?</p>  
+ 
+   <pb n="6" id="Tw7105156">  
+<p> 
+<figure entity="T710515f"> 
+<figDesc>Papers of Mark Twain, AL (1871 May 15) Mark Twain to  
+(Elisha) Bliss; image of page six. 
+</figDesc> 
+</figure> 
+</p> 
+ 
+<p>It will be a starchy <lb> 
+book, &amp; should be full of <lb> 
+snappy pictures &mdash; especially <lb> 
+pictures worked in with the <lb> 
+letter-press.  The <orig reg="dedication">dedica <lb> 
+tion</orig> will be worth the price <lb> 
+of the volume &mdash; thus:</p> 
+ 
+<p>T<hi rend="double underline">o</hi> t<hi rend="double underline">he</hi> L<hi rend="double underline">ate</hi> C<hi rend="double underline">ain</hi> <lb>  
+This Book is Dedicated: </p>  
+ 
+<p>Not on account of <orig reg="respect">re- <lb> 
+spect</orig> for his memory, for it <lb> 
+ 
+merits little respect; not on <orig reg="account">ac- <lb>  
+count</orig> of sympathy with him, <lb> 
+for his bloody deed placed him <lb> 
+without the pale of sympathy, <lb> 
+strictly speaking: but out of a <lb> 
+mere humane commiseration for <lb> 
+him in that it was his misfortune <lb> 
+to live in a dark age that knew not <lb> 
+the beneficent <hi rend="triple underline">I</hi>nsanity <hi rend="triple underline">P</hi>lea.</p>  
+ 
+<p>I think it will do.</p>  
+ 
+<closer> 
+<salute><abbr expan="Yours">Ys</abbr></salute> 
+<signed>Clemens.</signed>
+ 
+   <pb n="7" id="Tw7105157">  
+<seg> 
+<figure entity="T710515g"> 
+<figDesc>Papers of Mark Twain, AL (1871 May 15) Mark Twain to  
+(Elisha) Bliss; image of page seven. 
+</figDesc> 
+</figure> 
+</seg> 
+<seg type="postscript"> 
+ 
+P.S.The reaction is <lb> 
+beginning &amp; my stock is <lb> 
+looking up.  I am getting <lb> 
+the bulliest offers for books <lb> 
+&amp; almanacs, am flooded <lb> 
+with lecture invitations, &amp; <lb> 
+one periodical offers me <lb> 
+$6,000 cash for 12 articles, of <lb> 
+any length &amp; on any <orig reg="subject">sub- <lb> 
+ject</orig>, treated humorously <lb> 
+or otherwise. </seg> 
+</closer> 
+</div1> 
+   
+</body>  
+</text> 
+</TEI.2> 
+ 

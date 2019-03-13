@@ -1,0 +1,70 @@
+// ---------------------------------------------------------------------------
+// Imports
+
+@import "base";
+
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/reset";
+
+@import "bootstrap/buttons";
+@import "bootstrap/component-animations";
+@import "bootstrap/forms";
+@import "bootstrap/pager";
+@import "bootstrap/type";
+
+@import "bootstrap/wells";
+
+
+/* -------------------------------------------------------------------------*/
+/* Layout */
+
+a {
+  color: $linkColor;
+  text-decoration: none;
+}
+a:hover {
+  color: $linkColorHover;
+  text-decoration: underline;
+}
+
+em {
+  font-weight: bold;
+}
+
+input[type=text] {
+  font-size: 16px;
+  border-radius: 0;
+  float: left;
+  margin-right: 1em;
+}
+
+a.clear-facet {
+  display: inline-block;
+  font-style: italic;
+  margin: 0.6em 0;
+}
+
+ul.page-nav {
+
+  li {
+
+    padding: 0.6em 0;
+
+    a {
+      padding: 0.5em 0;
+      display: inline;
+    }
+
+  }
+
+}
+
+#results {
+
+  h3 {
+    font-size: 1.5em;
+    margin: 0.2em 0;
+  }
+
+}

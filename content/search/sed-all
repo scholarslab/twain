@@ -1,0 +1,15 @@
+s/<TEI2/<UNIT/g;
+s/<\/TEI2>/<\/UNIT>/g;
+
+s/<div1/<SUBUNIT><div1/g;
+s/<\/div1>/<\/div1><\/SUBUNIT>/g;
+
+s/<html id="\([^"]*\)">/<UNIT id="\1"><SUBUNIT>/g;
+s/<\/html>/<\/SUBUNIT><\/UNIT>/g;
+
+s/<idno>Modern English, /<ID>/g;
+s/<idno>Modern English /<ID>/g;
+s/<idno type="ETC">Modern English /<ID>/g;
+s/<idno type="ETC">/<ID>/g;
+s/<idno>/<ID>/g;
+s/<\/idno>/<\/ID>/g;

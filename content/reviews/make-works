@@ -1,0 +1,53 @@
+{exportfile "UK.P"}
+docs TEI2 including ("British" within docs keyword)
+export
+
+{exportfile "US.P"}
+docs TEI2 including ("American" within docs keyword)
+export
+
+{exportfile "huck.P"}
+docs TEI2 including ("<category>Huck</category>")
+export
+
+{exportfile "innocents.P"}
+docs TEI2 including ("<category>Innocents</category>")
+export
+
+{exportfile "savages.P"}
+docs TEI2 including ("<category>Savages</category>")
+export
+
+{exportfile "vandal.P"}
+docs TEI2 including ("<category>Vandal</category>")
+export
+
+{exportfile "yankee.P"}
+docs TEI2 including ("<category>Yankee</category>")
+export
+
+{exportfile "pudwilson.P"}
+docs TEI2 including ("<category>pudwilson</category>")
+export
+
+{exportfile "roughit.P"}
+docs TEI2 including ("<category>roughit</category>")
+export
+
+{exportfile "tomsawyer.P"}
+docs TEI2 including ("<category>tomsawyer</category>")
+export
+
+{exportfile "tour7172.P"}
+docs TEI2 including ("<category>tour7172</category>")
+export
+
+{exportfile "twaincable.P"}
+docs TEI2 including ("<category>twaincable</category>")
+export
+
+{exportfile "worldtour.P"}
+docs TEI2 including ("<category>worldtour</category>")
+export
+
+

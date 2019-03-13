@@ -1,0 +1,83 @@
+<TagNames>
+<wrapper>TEI2</wrapper>
+<work>TEI2</work>
+<title>title</title>
+<author></author>
+<createdt>creation</createdt>
+</TagNames>
+
+<DataDict>
+<Title>Search Twain's Works</Title>
+   <Path>/lv6/workspace/railton/texts/public/twainpub.dd</Path>
+   <Pat>/lv1/ot/ot5.0/bin/pat50</Pat>
+</DataDict>
+
+<Regions>
+
+   <Region>
+      <Name>TEI2</Name>
+      <Label>All texts</Label>
+   </Region>
+
+   <Region>
+      <Name>teiHeader</Name>
+      <Label>Bibliographies only</Label>
+   </Region>
+
+</Regions>
+
+<Searching>
+   <Default>
+      <Region>TEI2</Region>
+      <HtmlFilter>/web/bin/etcbin/modeng.pl images/modeng public</HtmlFilter>
+   </Default>
+
+   <Kwic>
+      <Link>
+         <ID>idno</ID>
+         <Label>item</Label>
+         <File>links.twainpub</File>
+      </Link>
+      <Size>100</Size>
+      <Num>100</Num>
+      <Max>2000</Max>
+      <!Region>div1</Region>
+      <Filter></Filter>
+   </Kwic>
+
+   <Surround>
+
+      <Link>
+         <Region>pb</Region>
+         <Filter>/web/bin/etcbin/modeng.pl images/modeng public</Filter>
+         <Label>Page (when available)</Label>
+      </Link>
+
+      <Link>
+         <Region>section</Region>
+         <Filter>/web/bin/etcbin/modeng.pl images/modeng public</Filter>
+         <Label>Section</Label>
+      </Link>
+
+      <Link>
+         <Region>TEI2</Region>
+         <Filter>/web/bin/etcbin/modeng.pl images/modeng public</Filter>
+         <Label>Full Work</Label>
+      </Link>
+
+      <Text>
+        <Size>1000</Size>
+        <!Region>page</Region>
+      </Text>
+   </Surround>
+</Searching>
+
+<Permissions>
+</Permissions>
+ 
+<Display>
+   <Body>bgcolor="#E9C2A6"</Body>
+   <Header>/lv6/workspace/railton/texts/public/twain-head.html</Header>
+   <Footer>/lv6/workspace/railton/texts/public/twain-foot.html</Footer>
+</Display>
+

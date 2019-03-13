@@ -1,0 +1,3 @@
+define-macro smacros ^[xwrite-macros-to-file macros^M
+define-macro print ^Qlpr -P etext_l1 ^[i^X1
+define-macro quit ^X^C

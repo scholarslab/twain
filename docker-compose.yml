@@ -1,0 +1,55 @@
+version: '2'
+
+services:
+    twain_proxy:
+        image: nginx
+        container_name: twain_proxy
+        restart: always
+        depends_on:
+            - twain_solr
+            - twain
+        volumes:
+            - ./nginx.conf:/etc/nginx/nginx.conf
+        labels:
+            - "traefik.enable=true"
+            - "traefik.docker.network=thenetwork"
+            - "traefik.port=80"
+            - "traefik.backend=twain_proxy"
+            - "traefik.frontend.rule=Host:twain.internal.lib.virginia.edu"
+
+    twain_solr:
+        image: solr:7
+        container_name: twain_solr
+        restart: always
+        volumes:
+            - ./web.xml:/opt/solr/web.xml
+            - ./managed-schema:/opt/solr/managed-schema
+            - ./load-data:/opt/docker-solr/scripts/load-data
+            - ./solr.in.sh:/opt/solr/solr.in.sh
+            - ./twain.json:/opt/solr/datafile.json
+        entrypoint:
+            - docker-entrypoint.sh
+            - load-data
+            - tcore
+        expose:
+            - "8983"
+        labels:
+            - "traefik.enable=false"
+
+    twain:
+        build:
+            context: .
+        image: twain:0.1
+        container_name: twain
+        restart: always
+        volumes:
+            - ./content:/var/www/html
+        expose:
+            - "80"
+        labels:
+            - "traefik.enable=false"
+
+networks:
+    default:
+        external:
+            name: thenetwork

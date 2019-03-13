@@ -1,0 +1,18 @@
+s/$/ /g;
+s/&amp;/&/g;
+s/<META NAME="DC.subject" CONTENT="\([^"]*\)">/<category>\1<\/category>/g;
+s/<META NAME="DC.identifier" CONTENT="\([^"]*\)">/<idno>\1<\/idno>/g;
+
+s/<ID>/<idno>/g;
+s/<\/ID>/<\/idno>/g;
+
+s/<!--//g;
+s/-->//g;
+s/<category>Pudd'nhead<\/category>/<category>pudwilson<\/category>/g;
+s/<category>Tom Sawyer<\/category>/<category>tomsawyer<\/category>/g;
+s/<category>Twain-Cable<\/category>/<category>twaincable<\/category>/g;
+s/<category>World Tour<\/category>/<category>worldtour<\/category>/g;   
+s/<region>/<regions>/g;
+s/<\/region>/<\/regions>/g;
+s/<html id="\([^"]*\)">/<TEI2 id="\1">/g;
+s/<\/html>/<\/TEI2>/g;

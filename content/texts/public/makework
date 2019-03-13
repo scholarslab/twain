@@ -1,0 +1,23 @@
+docs TEI2 incl (Twa2Huc within docs idno)
+{ExportFile "Twa2Huc.P"}
+export
+
+docs TEI2 incl (Twa2Pud within docs idno)
+{ExportFile "Twa2Pud.P"}
+export
+
+docs TEI2 incl (Twa2Tom within docs idno)
+{ExportFile "Twa2Tom.P"}
+export
+
+docs TEI2 incl (TwaInno within docs idno)
+{ExportFile "TwaInno.P"}
+export
+
+docs TEI2 incl (TwaTwin within docs idno)
+{ExportFile "TwaTwin.P"}
+export
+
+docs TEI2 incl (TwaYank within docs idno)
+{ExportFile "TwaYank.P"}
+export

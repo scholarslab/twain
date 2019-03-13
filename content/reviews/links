@@ -1,0 +1,118 @@
+s/<title>Alta Cal Reviews Tom Sawyer<\/title>/<ID>altacal<\/ID><title>Alta Cal Reviews Tom Sawyer<\/title>/g;
+s/<head><title>Athenaeum Reviews Innocents<\/title>/<ID>athenae<\/ID><head><title>Athenaeum Reviews Innocents<\/title>/g;
+s/<title>Athenaeum Reviews Tom Sawyer<\/title>/<ID>athenaeu<\/ID><title>Athenaeum Reviews Tom Sawyer<\/title>/g;
+s/<title>The Constitution Reviews Huck<\/title>/<ID>atlanta<\/ID><title>The Constitution Reviews Huck<\/title>/g;
+s/<head><title>Howells Reviews Innocents<\/title>/<ID>atlantic<\/ID><head><title>Howells Reviews Innocents<\/title>/g;
+s/<title>Howells Reviews Tom Sawyer<\/title>/<ID>atlantts<\/ID><title>Howells Reviews Tom Sawyer<\/title>/g;
+s/<head><title>Newspaper Reviews of Innocents<\/title>/<ID>blurbs<\/ID><head><title>Newspaper Reviews of Innocents<\/title>/g;
+s/<title>Daily Advertiser Reviews Huck<\/title>/<ID>bosdail3<\/ID><title>Daily Advertiser Reviews Huck<\/title>/g;
+s/<head><title>Transcript Reviews Innocents<\/title>/<ID>bostdet<\/ID><head><title>Transcript Reviews Innocents<\/title>/g;
+s/<title>Evening Traveller Reviews Huck <\/title>/<ID>bosttrav<\/ID><title>Evening Traveller Reviews Huck <\/title>/g;
+s/<title>BQR Reviews Tom Sawyer<\/title>/<ID>britqrev<\/ID><title>BQR Reviews Tom Sawyer<\/title>/g;
+s/<head><title>Express Reviews Innocents</title>\</head>/<ID>bufexpr<\/ID><head><title>Express Reviews Innocents<\/title>/g;</head>
+s/<title>Athenaeum Reviews Yankee<\/title>/<ID>cyathena<\/ID><title>Athenaeum Reviews Yankee<\/title>/g;
+s/<title>Baxter Reviews Yankee<\/title>/<ID>cybosher<\/ID><title>Baxter Reviews Yankee<\/title>/g;
+s/<title>Literary World Reviews Yankee<\/title>/<ID>cyboslw<\/ID><title>Literary World Reviews Yankee<\/title>/g;
+s/<title>Howells Reviews Yankee<\/title>/<ID>cyharper<\/ID><title>Howells Reviews Yankee<\/title>/g;
+s/<title>Daily Telegraph Reviews Yankee<\/title>/<ID>cylontel<\/ID><title>Daily Telegraph Reviews Yankee<\/title>/g;
+s/<title>Plumas National Reviews Yankee<\/title>/<ID>cyplumas<\/ID><title>Plumas National Reviews Yankee<\/title>/g;
+s/<title>Review of Reviews Reviews Yankee<\/title>/<ID>cyrevrev<\/ID><title>Review of Reviews Reviews Yankee<\/title>/g;
+s/<title>Observer Reviews Yankee<\/title>/<ID>cyscotso<\/ID><title>Observer Reviews Yankee<\/title>/g;
+s/<title>Speaker Reviews Yankee<\/title>/<ID>cyspeakr<\/ID><title>Speaker Reviews Yankee<\/title>/g;
+s/<title>O'Brien Reviews Yankee<\/title>/<ID>cytruth<\/ID><title>O'Brien Reviews Yankee<\/title>/g;
+s/<title>Courant Revie\ws Huck/<ID>harcour2<\/ID><title>Courant Reviews Huck
+hartcour.html:<head>\<title>/g;Warner Reviews Tom Sawyer</title></head>
+s/<title>Hartford Times Reviews Tom<\/title>/<ID>harttime<\/ID><title>Hartford Times Reviews Tom<\/title>/g;
+s/<title>Buffalo Reviews Twain-Cable<\/title>/<ID>hfbufflo<\/ID><title>Buffalo Reviews Twain-Cable<\/title>/g;
+s/<title>Free Press Reviews Twain-Cable<\/title>/<ID>hfdtroit<\/ID><title>Free Press Reviews Twain-Cable<\/title>/g;
+s/<title>Rochester Reviews Twain-Cable<\/title>/<ID>hfherald<\/ID><title>Rochester Reviews Twain-Cable<\/title>/g;
+s/<title>Leader Reviews Twain-Cable<\/title>/<ID>hfleader<\/ID><title>Leader Reviews Twain-Cable<\/title>/g;
+s/<title> Athenaeum Reviews Huck <\/title>/<ID>hucathen<\/ID><title> Athenaeum Reviews Huck <\/title>/g;
+s/<title>Life Reviews Huck <\/title>/<ID>life1<\/ID><title>Life Reviews Huck <\/title>/g;
+s/<title>Conway Reviews Tom Sawyer<\/title>/<ID>londonex<\/ID><title>Conway Reviews Tom Sawyer<\/title>/g;
+s/<title>London Times Reviews Tom<\/title>/<ID>londonti<\/ID><title>London Times Reviews Tom<\/title>/g;
+s/<title>London News Reviews Tom<a href="hompgrev.html"><img src="../barrel.jpg" align="left"></a><\/title>/<ID>lonnews<\/ID><title>London News Reviews Tom<a href="hompgrev.html"><img src="../barrel.jpg" align="left"></a><\/title>/g;
+s/<title>NY Reviews MT<\/title>/<ID>mtlect67<\/ID><title>NY Reviews MT<\/title>/g;
+s/<head><title>Nation Reviews Innocents<\/title>/<ID>nation<\/ID><head><title>Nation Reviews Innocents<\/title>/g;
+s/<title>Morning Journal Reviews Tom<\/title>/<ID>newhavmj<\/ID><title>Morning Journal Reviews Tom<\/title>/g;
+s/<title>NY Times Reviews Tom Sawyer<\/title>/<ID>nytimes<\/ID><title>NY Times Reviews Tom Sawyer<\/title>/g;
+s/<head><title>Harte Reviews Innocents<\/title>/<ID>overland<\/ID><head><title>Harte Reviews Innocents<\/title>/g;
+s/<head><title>Packard's Reviews Innocents<\/title>/<ID>packard<\/ID><head><title>Packard's Reviews Innocents<\/title>/g;
+s/<title>Century Reviews Huck <\/title>/<ID>perry<\/ID><title>Century Reviews Huck <\/title>/g;
+s/<title>Athenaeum Reviews Pudd'nhead<\/title>/<ID>pwathena<\/ID><title>Athenaeum Reviews Pudd'nhead<\/title>/g;
+s/<title>Bookman Reviews Pudd'nhead<\/title>/<ID>pwbookmn<\/ID><title>Bookman Reviews Pudd'nhead<\/title>/g;
+s/<title>Cosmopolitan Reviews Pudd'nhead<\/title>/<ID>pwcosmo<\/ID><title>Cosmopolitan Reviews Pudd'nhead<\/title>/g;
+s/<title>The Critic Reviews Pudd'nhead<\/title>/<ID>pwcritic<\/ID><title>The Critic Reviews Pudd'nhead<\/title>/g;
+s/<title>Idler Reviews Pudd'nhead<\/title>/<ID>pwidler<\/ID><title>Idler Reviews Pudd'nhead<\/title>/g;
+s/<title>New York Times Reviews Pudd'nhead<\/title>/<ID>pwnytrev<\/ID><title>New York Times Reviews Pudd'nhead<\/title>/g;
+s/<title>Review of Reviews on Pudd'nhead<\/title>/<ID>pwrevrev<\/ID><title>Review of Reviews on Pudd'nhead<\/title>/g;
+s/<title>Saturday Review Reviews Pudd'nhead<\/title>/<ID>pwsatrev<\/ID><title>Saturday Review Reviews Pudd'nhead<\/title>/g;
+s/<title>Southern Reviews Pudd'nhead<\/title>/<ID>pwsouthn<\/ID><title>Southern Reviews Pudd'nhead<\/title>/g;
+s/<title>Spectator Reviews Pudd'nhead<\/title>/<ID>pwspecta<\/ID><title>Spectator Reviews Pudd'nhead<\/title>/g;
+s/<title>Major Dallam's Plug<\/title>/<ID>quincywg<\/ID><title>Major Dallam's Plug<\/title>/g;
+s/<title>Boston Reviews Savages<\/title>/<ID>sandrev1<\/ID><title>Boston Reviews Savages<\/title>/g;
+s/<title>Philadelphia Reviews Savages<\/title>/<ID>sandrev2<\/ID><title>Philadelphia Reviews Savages<\/title>/g;
+s/<title>New Haven Reviews Savages<\/title>/<ID>sandrev3<\/ID><title>New Haven Reviews Savages<\/title>/g;
+s/<title>Jamestown Reviews Savages<\/title>/<ID>sandrev4<\/ID><title>Jamestown Reviews Savages<\/title>/g;
+s/<title>Cohoes Reviews Savages<\/title>/<ID>sandrev6<\/ID><title>Cohoes Reviews Savages<\/title>/g;
+s/<title>Oswego Reviews Savages<\/title>/<ID>sandrev7<\/ID><title>Oswego Reviews Savages<\/title>/g;
+s/<title>Troy Reviews Savages<\/title>/<ID>sandrev8<\/ID><title>Troy Reviews Savages<\/title>/g;
+s/<title>Albany Reviews Savages<\/title>/<ID>sandrev9<\/ID><title>Albany Reviews Savages<\/title>/g;
+s/<title>Providence Press Reviews Savages<\/title>/<ID>sandrv10<\/ID><title>Providence Press Reviews Savages<\/title>/g;
+s/<title>Poughkeepsie Eagle Reviews Savages<\/title>/<ID>sandrv11<\/ID><title>Poughkeepsie Eagle Reviews Savages<\/title>/g;
+s/<head><title>Saturday Review Reviews Innocents<\/title>/<ID>satrev<\/ID><head><title>Saturday Review Reviews Innocents<\/title>/g;
+s/<title>Reviews of Western Tour<\/title>/<ID>savwest<\/ID><title>Reviews of Western Tour<\/title>/g;
+s/<title>Evening Bulletin Reviews Huck <\/title>/<ID>sfbull<\/ID><title>Evening Bulletin Reviews Huck <\/title>/g;
+s/<title>Chronicle Reviews Huck <\/title>/<ID>sfchron<\/ID><title>Chronicle Reviews Huck <\/title>/g;
+s/<title>Daily Examiner Reviews Huck <\/title>/<ID>sfdaily<\/ID><title>Daily Examiner Reviews Huck <\/title>/g;
+s/<title>Daily Missouri Democrat Reviews Savages<\/title>/<ID>stldemo<\/ID><title>Daily Missouri Democrat Reviews Savages<\/title>/g;
+s/<title>St. Louis Republican Reviews Savages<\/title>/<ID>stlrep<\/ID><title>St. Louis Republican Reviews Savages<\/title>/g;
+s/<title>Twain-Cable/Boston \Review /<ID>twinsbg<\/ID><title>Twain-Cable/Boston Review 
+twinsct.html:\<title>/g;Twain-Cable/Chicago Review
+s/<title>Twain-Cable/Indianapolis \Review /<ID>twinsij<\/ID><title>Twain-Cable/Indianapolis Review 
+twinslc.html:\<title>/g;Twain-Cable/Louisville Review
+s/<title>Twain-Cable/Times \Review /<ID>twinsnyt<\/ID><title>Twain-Cable/Times Review 
+twinssld.html:\<title>/g;Twain-Cable/St. Louis
+s/<title>Twain-Cable/Washington \Review /<ID>twinswp<\/ID><title>Twain-Cable/Washington Review 
+twinswp2.html:\<title>/g;Twain-Cable/Washington Review 
+s/<title>Twain-Cable Indianapolis Review [February]<\/title>/<ID>twintur1<\/ID><title>Twain-Cable Indianapolis Review [February]<\/title>/g;
+s/<title>Twain-Cable Troy Review<\/title>/<ID>twintur10<\/ID><title>Twain-Cable Troy Review<\/title>/g;
+s/<title>Twain-Cable Philadelphia Review (1)<\/title>/<ID>twintur12<\/ID><title>Twain-Cable Philadelphia Review (1)<\/title>/g;
+s/<title>Twain-Cable Philadelphia Review (2)<\/title>/<ID>twintur13<\/ID><title>Twain-Cable Philadelphia Review (2)<\/title>/g;
+s/<title>Twain-Cable Pittsburgh Review<\/title>/<ID>twintur14<\/ID><title>Twain-Cable Pittsburgh Review<\/title>/g;
+s/<title>Twain-Cable Quincy Review<\/title>/<ID>twintur15<\/ID><title>Twain-Cable Quincy Review<\/title>/g;
+s/<title>Twain-Cable Brooklyn Review<\/title>/<ID>twintur16<\/ID><title>Twain-Cable Brooklyn Review<\/title>/g;
+s/<title>Twain-Cable St. Paul Review<\/title>/<ID>twintur17<\/ID><title>Twain-Cable St. Paul Review<\/title>/g;
+s/<title>Twain-Cable Providence Review<\/title>/<ID>twintur18<\/ID><title>Twain-Cable Providence Review<\/title>/g;
+s/<title>Twain-Cable South Bend Review<\/title>/<ID>twintur2<\/ID><title>Twain-Cable South Bend Review<\/title>/g;
+s/<title>Twain-Cable Milwaukee Review<\/title>/<ID>twintur3<\/ID><title>Twain-Cable Milwaukee Review<\/title>/g;
+s/<title>Twain-Cable Cincinnati Reviews<\/title>/<ID>twintur4<\/ID><title>Twain-Cable Cincinnati Reviews<\/title>/g;
+s/<title>Twain-Cable Madison Review (1)<\/title>/<ID>twintur6<\/ID><title>Twain-Cable Madison Review (1)<\/title>/g;
+s/<title>Twain-Cable Madison Review (2)<\/title>/<ID>twintur7<\/ID><title>Twain-Cable Madison Review (2)<\/title>/g;
+s/<title>Twain-Cable Chicago Review (2)<\/title>/<ID>twintur8<\/ID><title>Twain-Cable Chicago Review (2)<\/title>/g;
+s/<title>Twain-Cable Columbus Review<\/title>/<ID>twintur9<\/ID><title>Twain-Cable Columbus Review<\/title>/g;
+s/<title>Twain-Cable Detroit Review (2)<\/title>/<ID>twinturx<\/ID><title>Twain-Cable Detroit Review (2)<\/title>/g;
+s/<title>Twain-Cable Keokuk Review<\/title>/<ID>twntur19<\/ID><title>Twain-Cable Keokuk Review<\/title>/g;
+s/<title>Mrs. Fairbanks Reviews the Vandal<\/title>/<ID>vandrev1<\/ID><title>Mrs. Fairbanks Reviews the Vandal<\/title>/g;
+s/<title>Chicago Tribune Reviews Vandal<\/title>/<ID>vandrev2<\/ID><title>Chicago Tribune Reviews Vandal<\/title>/g;
+s/<title>Free Press Reviews American Vandal<\/title>/<ID>vandrev3<\/ID><title>Free Press Reviews American Vandal<\/title>/g;
+s/<title>Newark Advertiser Reviews Vandal<\/title>/<ID>vandrev4<\/ID><title>Newark Advertiser Reviews Vandal<\/title>/g;
+s/<title>Indianapolis Journal Reviews Vandal<\/title>/<ID>vandrev5<\/ID><title>Indianapolis Journal Reviews Vandal<\/title>/g;
+s/<title>How MT Played in Peoria<\/title>/<ID>vandrev6<\/ID><title>How MT Played in Peoria<\/title>/g;
+s/<title>Toledo Blade Reviews the Vandal<\/title>/<ID>vandrev7<\/ID><title>Toledo Blade Reviews the Vandal<\/title>/g;
+s/<title>Iowa City Republican  Reviews the Vandal<\/title>/<ID>vandrev8<\/ID><title>Iowa City Republican  Reviews the Vandal<\/title>/g;
+s/<title>World Tour Review, Minneapolis<\/title>/<ID>wrldtr1<\/ID><title>World Tour Review, Minneapolis<\/title>/g;
+s/<title>World Tour Review, Spokane<\/title>/<ID>wrldtr10<\/ID><title>World Tour Review, Spokane<\/title>/g;
+s/<title>World Tour Review, Cleveland<\/title>/<ID>wrldtr11<\/ID><title>World Tour Review, Cleveland<\/title>/g;
+s/<title>World Tour Review, Olympia<\/title>/<ID>wrldtr12<\/ID><title>World Tour Review, Olympia<\/title>/g;
+s/<title>World Tour Review, Anaconda<\/title>/<ID>wrldtr13<\/ID><title>World Tour Review, Anaconda<\/title>/g;
+s/<title>World Tour Review, Butte<\/title>/<ID>wrldtr14<\/ID><title>World Tour Review, Butte<\/title>/g;
+s/<title>World Tour Review, Great Falls<\/title>/<ID>wrldtr2<\/ID><title>World Tour Review, Great Falls<\/title>/g;
+s/<title>World Tour Review, Tacoma<\/title>/<ID>wrldtr3<\/ID><title>World Tour Review, Tacoma<\/title>/g;
+s/<title>World Tour Review, Portland<\/title>/<ID>wrldtr4<\/ID><title>World Tour Review, Portland<\/title>/g;
+s/<title>World Tour Review, Crookston<\/title>/<ID>wrldtr5<\/ID><title>World Tour Review, Crookston<\/title>/g;
+s/<title>World Tour Review, Petoskey<\/title>/<ID>wrldtr6<\/ID><title>World Tour Review, Petoskey<\/title>/g;
+s/<title>World Tour Review, Seattle<\/title>/<ID>wrldtr7<\/ID><title>World Tour Review, Seattle<\/title>/g;
+s/<title>World Tour Review, Duluth<\/title>/<ID>wrldtr8<\/ID><title>World Tour Review, Duluth<\/title>/g;
+s/<title>Christian Secretary Reviews Tom<\/title>/<ID>xiansect<\/ID><title>Christian Secretary Reviews Tom<\/title>/g;
+

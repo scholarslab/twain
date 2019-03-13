@@ -1,0 +1,134 @@
+<TagNames>
+<wrapper>TEI2</wrapper>
+<work>TEI2</work>
+<title>keyword</title>
+<author>keyword</author>
+<createdt>date</createdt>
+</TagNames>
+
+<DataDict>
+<Title>Search Reviews to Twain's Works and Lectures</Title>
+   <Path>/lv6/workspace/railton/reviews/mtreviews-all.dd</Path>
+   <Pat>/lv1/ot/ot5.0/bin/pat50</Pat>
+</DataDict>
+
+<Regions>
+
+   <Region>
+      <Name>TEI2</Name>
+      <Label>All reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>US</Name>
+      <Label>All American Reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>UK</Name>
+      <Label>All British Reviews</Label>
+   </Region>
+
+
+   <Region>
+      <Name>innocents</Name>
+      <Label>Innocents Abroad Reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>roughit</Name>
+      <Label>Roughing It Reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>tomsawyer</Name>
+      <Label>Tom Sawyer Reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>huck</Name>
+      <Label>Huckleberry Finn Reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>yankee</Name>
+      <Label>Connecticut Yankee Reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>pudwilson</Name>
+      <Label>Pudd'nhead Wilson Reviews</Label>
+   </Region>
+
+
+   <Region>
+      <Name>savages</Name>
+      <Label>Savages Lecture Reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>vandal</Name>
+      <Label>Vandal Lecture Reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>tour7172</Name>
+      <Label>1871-72 Tour Reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>twaincable</Name>
+      <Label>Twain-Cable Tour Reviews</Label>
+   </Region>
+
+   <Region>
+      <Name>worldtour</Name>
+      <Label>World Tour Reviews</Label>
+   </Region>
+
+</Regions>
+
+<Searching>
+   <Default>
+      <Region>TEI2</Region>
+      <HtmlFilter>/lv6/workspace/railton/reviews/twainrev.pl images/modeng public</HtmlFilter>
+   </Default>
+
+   <Kwic>
+      <Link>
+         <ID>idno</ID>
+         <Label>item</Label>
+         <File>links.twainreviews</File>
+      </Link>
+      <Size>100</Size>
+      <Num>100</Num>
+      <Max>2000</Max>
+      <!Region></Region>
+      <Filter></Filter>
+   </Kwic>
+
+   <Surround>
+
+   <Link>
+         <Region>TEI2</Region>
+         <Filter></Filter>
+         <Label> </Label>
+      </Link>             
+
+      <Text>
+        <Size>10000</Size>
+        <Region>TEI2</Region>
+      </Text>
+
+   </Surround>
+</Searching>
+
+<Permissions>
+</Permissions>
+ 
+<Display>
+   <Body>bgcolor="#E9C2A6"</Body>
+   <Header>/lv6/workspace/railton/reviews/twain-head.html</Header>
+   <Footer>/lv6/workspace/railton/reviews/twain-foot.html</Footer>
+</Display>
+

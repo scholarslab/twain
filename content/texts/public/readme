@@ -1,0 +1,27 @@
+cd /lv1/Archive/eng-parsed/public/
+
+copy Tw*.Z /lv6/workspace/railton/texts/public/NEW/
+
+
+cd /lv6/workspace/railton/texts/public/NEW/
+
+uncompress *
+
+copy twainpub.dd twainpub.dd-old
+
+copy twainpub twainpub-old
+
+cat Tw* >twainpub
+
+sed -f /lv12/prep/setup-modeng/sed-modeng.new twainpub >twainpub-2
+
+ls -l
+
+move twainpub-2 twainpub
+
+dbbuild50 -v -m 20m -o twainpub -t tags -D twainpub.dd
+
+multirgn50 -v -D twainpub.dd -t tags2
+
+change TEI.2 TEI2 in dd file
+

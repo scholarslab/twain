@@ -1,0 +1,31 @@
+<!For now these must be one item per line>
+<title>Search the Innocents Reviews</title> 
+<dd>/lv6/workspace/railton/pat/public/mt-innreviews.dd</dd>
+<pat>/lv1/ot/ot5.0/bin/pat50</pat>
+
+<!There must be a default region for searching>
+<defreg>div0</defreg>
+
+<!There must be an "id" field within each "defreg">
+<id>favor</id> 
+
+<!These are regions and labels within the text. Results are unpredictable.>
+<!Might need a textfilt for each text region>
+
+<doc selected>body=All Contents</doc>
+<doc>head=Review Titles</doc>
+<doc>date=Review Dates</doc>
+<doc>favor=favorable/unfavorable</doc> 
+<doc>nation=American (Eastern or Western)/ British</doc>
+<doc text=1>div0=review</doc>
+<!These are the filters for converting text to HTML>
+<htmlfilt>/etc/bin/etcbin/modeng.pl images/modeng public</htmlfilt>
+<htmlfilt text=1>/etc/bin/etcbin/header2html</htmlfilt>
+<kwicfilt>/lv6/workspace/railton/pat/public/mt-KWIC.pl</kwicfilt>
+<!permissions>
+<deny>bug.jefferson.virginia.edu</deny>
+<allow>128.143</allow>
+<allow>Virginia.EDU</allow>
+
+<!footer file, attached to the bottom of every page>
+<footer>/lv6/workspace/railton/pat/public/mt-footer.html</footer>

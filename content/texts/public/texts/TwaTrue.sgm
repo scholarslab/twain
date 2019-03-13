@@ -1,0 +1,970 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
+ 
+<!NOTATION jpg SYSTEM "JPEG"> 
+ 
+<!ENTITY TwaTrue1 SYSTEM "TwaTrue1.jpg" NDATA jpg> 
+<!ENTITY TwaTrue2 SYSTEM "TwaTrue2.jpg" NDATA jpg> 
+<!ENTITY TwaTrue3 SYSTEM "TwaTrue3.jpg" NDATA jpg> 
+<!ENTITY TwaTrue4 SYSTEM "TwaTrue4.jpg" NDATA jpg> 
+<!ENTITY TwaTrue5 SYSTEM "TwaTrue5.jpg" NDATA jpg> 
+<!ENTITY TwaTrue6 SYSTEM "TwaTrue6.jpg" NDATA jpg> 
+<!ENTITY TwaTrue7 SYSTEM "TwaTrue7.jpg" NDATA jpg> 
+<!ENTITY TwaTrue8 SYSTEM "TwaTrue8.jpg" NDATA jpg> 
+<!ENTITY TwaTrue9 SYSTEM "TwaTrue9.jpg" NDATA jpg> 
+<!ENTITY TwaTru10 SYSTEM "TwaTru10.jpg" NDATA jpg> 
+<!ENTITY TwaTru11 SYSTEM "TwaTru11.jpg" NDATA jpg> 
+<!ENTITY TwaTru12 SYSTEM "TwaTru12.jpg" NDATA jpg> 
+<!ENTITY TwaTru13 SYSTEM "TwaTru13.jpg" NDATA jpg> 
+<!ENTITY TwaTru14 SYSTEM "TwaTru14.jpg" NDATA jpg> 
+<!ENTITY TwaTru15 SYSTEM "TwaTru15.jpg" NDATA jpg> 
+<!ENTITY TwaTru16 SYSTEM "TwaTru16.jpg" NDATA jpg> 
+<!ENTITY TwaTru17 SYSTEM "TwaTru17.jpg" NDATA jpg> 
+<!ENTITY TwaTru18 SYSTEM "TwaTru18.jpg" NDATA jpg> 
+<!ENTITY TwaTru19 SYSTEM "TwaTru19.jpg" NDATA jpg> 
+<!ENTITY TwaTru20 SYSTEM "TwaTru20.jpg" NDATA jpg> 
+<!ENTITY TwaTru21 SYSTEM "TwaTru21.jpg" NDATA jpg> 
+<!ENTITY TwaTru22 SYSTEM "TwaTru22.jpg" NDATA jpg> 
+<!ENTITY TwaTru23 SYSTEM "TwaTru23.jpg" NDATA jpg> 
+<!ENTITY TwaTru24 SYSTEM "TwaTru24.jpg" NDATA jpg> 
+<!ENTITY TwaTru25 SYSTEM "TwaTru25.jpg" NDATA jpg> 
+<!ENTITY TwaTru26 SYSTEM "TwaTru26.jpg" NDATA jpg> 
+<!ENTITY TwaTru27 SYSTEM "TwaTru27.jpg" NDATA jpg> 
+<!ENTITY TwaTru28 SYSTEM "TwaTru28.jpg" NDATA jpg> 
+<!ENTITY TwaTru29 SYSTEM "TwaTru29.jpg" NDATA jpg> 
+ 
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
+]> 
+ 
+<TEI.2 id="TwaTrue"> 
+ 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+<title>A True Story, Repeated Word for Word as I Heard It [a machine-readable transcription] 
+</title>  
+<author>Twain, Mark, 1835-1910 
+</author>  
+<respStmt> 
+<resp>Creation of machine-readable version:  
+</resp>  
+<name>Stephen Railton 
+</name>  
+<resp>Creation of digital images:  
+</resp>  
+<name>Special Collections, University of Virginia 
+</name>  
+<resp>Conversion to TEI.2-conformant markup:  
+</resp>  
+<name>University of Virginia Library Electronic Text Center. 
+</name>  
+</respStmt>  
+</titleStmt>  
+<extent>ca. 35 kilobytes  
+</extent>  
+<publicationStmt> 
+<publisher>University of Virginia Library. 
+</publisher>  
+<pubPlace>Charlottesville, Va. 
+</pubPlace>  
+<idno>Modern English, TwaTrue 
+</idno>  
+<availability> 
+<p>Publicly-accessible 
+</p>  
+<p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html 
+</p>  
+</availability>  
+<date>1997 
+</date>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>Images of the manuscript pages have been included. 
+</note>  
+<note> 
+</note>  
+</notesStmt>  
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>A True Story 
+</title>  
+<title level="u"> 
+</title>  
+<author>Mark Twain, pseud. Samuel Langhorne Clemens 
+</author>  
+<respStmt> 
+<resp> 
+</resp>  
+<name> 
+</name>  
+</respStmt>  
+</titleStmt>  
+<editionStmt> 
+<p> 
+</p>  
+</editionStmt>  
+<extent> 
+</extent>  
+<publicationStmt> 
+<publisher> 
+</publisher>  
+<pubPlace> 
+</pubPlace>  
+<date> 
+</date>  
+<idno> 
+Print copy consulted: Original manuscript in Special  
+Collections, University of Virginia Library:  
+Papers of Mark Twain 1862-1946, bulk 1872-1910;  
+6314; AMs 1874. 
+</idno>  
+</publicationStmt>  
+<seriesStmt> 
+<p> 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>First published in the <hi>Atlantic Monthly</hi>, November, 1874. 
+</note>  
+</notesStmt>  
+</biblFull>  
+</sourceDesc>  
+</fileDesc>  
+<encodingDesc> 
+<projectDesc> 
+<p>Prepared for the University of Virginia Library Electronic Text Center. 
+</p>  
+</projectDesc>  
+<editorialDecl> 
+<p>All quotation marks retained as data. 
+</p>  
+<p>The lineation of the manuscript has been preserved. 
+</p>  
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
+</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
+</p>  
+</editorialDecl>  
+<refsDecl> 
+<p> 
+</p>  
+</refsDecl>  
+<classDecl> 
+<taxonomy> 
+<bibl> 
+<title>Library of Congress Subject Headings 
+</title>  
+</bibl>  
+</taxonomy>  
+</classDecl>  
+</encodingDesc>  
+<profileDesc> 
+<creation> 
+<date>1874 
+</date>  
+</creation>  
+<langUsage> 
+<language>English 
+</language>  
+</langUsage>  
+<textClass> 
+<keywords> 
+<term>prose; fiction </term>  
+<term id="blue">blue ink </term>  
+
+</keywords>  
+<keywords> 
+<term>LCSH 
+</term>  
+</keywords>  
+
+</textClass>  
+</profileDesc>  
+<revisionDesc> 
+<change> 
+<date>May 1997 
+</date>  
+<respStmt> 
+<resp>corrector 
+</resp>  
+<name>Christine Ruotolo 
+</name>  
+</respStmt>  
+<item>Added TEI header and tags. 
+</item>  
+</change>  
+</revisionDesc>  
+</teiHeader>  
+ 
+<text id="TwaTrueT"> 
+ 
+<body> 
+ 
+ <pb n="1">  
+ 
+<div1 type="story"> 
+ 
+<head> 
+<del type="overstrike">A Perfectly</del> <add place="supralinear">A</add> True Story, <orig reg="repeated">re-<lb> 
+peated</orig> word for word<lb>  
+as I heard it. 
+</head> 
+ 
+<p> 
+<add place="inline">--</add> 
+</p> 
+ 
+<p> 
+<figure entity="TwaTrue1"> 
+<figDesc> 
+Image of page 1 of the manuscript. 
+</figDesc> 
+</figure> 
+</p> 
+ 
+<p>It was summer<lb> 
+time, &amp; twilight. We<lb> 
+were sitting on the porch  
+of the farm-house, <add place="supralinear">on the summit of the hill,</add> <del type="overstrike">&amp;</del><lb> 
+<add place="marginleft">&amp;</add> "Aunt Rachel" was <orig reg="sitting">sit-<lb> 
+ting</orig> respectfully below<lb> 
+our level<add place="inline">,</add> <add place="supralinear">on the steps,</add>--for she was<lb> 
+our servant, &amp; colored.<lb>  
+She was of mighty frame<lb>  
+&amp; stature; she was sixty<lb>  
+ 
+   <pb n="2">  
+ 
+<figure entity="TwaTrue2"> 
+<figDesc> 
+Image of page 2 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+years old, but her eye was<lb>  
+undimmed &and; her strength<lb>  
+unabated. She was a<lb>  
+cheerful, hearty soul, &amp;<lb>  
+it was no more trouble for<lb>  
+her to laugh than it is for<lb>  
+a bird to sing. She was<lb>  
+under fire, now, as usual<lb> 
+when the day was done.<lb>  
+That is to say, she was<lb>  
+being chaffed without<lb>  
+mercy, and was enjoying it.<lb> 
+She would let off peal<lb>  
+after peal of laughter, &amp;<lb>  
+then sit with her face in<lb>  
+her hands &amp; shake with<lb> 
+ 
+   <pb n="3">  
+ 
+<figure entity="TwaTrue3"> 
+<figDesc> 
+Image of page 3 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+throes of enjoyment which<lb>  
+she <add place="supralinear">could</add> no longer get breath<lb>  
+enough to express. At<lb>  
+such a moment as<lb> 
+this a thought <del type="overstrike">happened<lb> 
+to</del> occur<add place="supralinear">red</add> to me, &and; I said:</p> 
+ 
+   <p>"Aunt Rachel, how<lb>  
+is it that you've lived<lb>  
+sixty years &amp; never had<lb>  
+any trouble?"</p> 
+ 
+   <p>She stopped quaking.<lb>  
+She paused, &amp; there was a<lb>  
+moment of <del type="overstrike"><unclear>still</unclear></del><lb>  
+silence. She turned her<lb>  
+face over her shoulder<lb>  
+toward me, &amp; said, <orig reg="without">with-<lb> 
+ 
+   <pb n="4">  
+ 
+out</orig> even a smile in<lb>  
+her voice:</p> 
+ 
+<p> 
+<figure entity="TwaTrue4"> 
+<figDesc> 
+Image of page 4 of the manuscript. 
+</figDesc> 
+</figure> 
+</p> 
+ 
+   <p>"Misto C., is you in<lb> 
+arnest?"</p> 
+ 
+   <p>It surprised me quite<lb> 
+a good deal--&amp; it sobered<lb>  
+my manner &amp; my speech, too.<lb>  
+I said:</p> 
+ 
+<p>"Why, I thought--that is,<lb>  
+I meant--why, you <emph rend="underline">can't</emph><lb>  
+have had any trouble.<lb>  
+I've never heard you sigh,<lb>  
+and never seen your eye<lb>  
+when there wasn't a laugh<lb>  
+in it."</p> 
+ 
+<p>She faced fairly around,<lb>  
+now, &amp; was full of earnestness.</p> 
+ 
+   <pb n="5">  
+ 
+<p> 
+<figure entity="TwaTrue5"> 
+<figDesc> 
+Image of page 5 of the manuscript. 
+</figDesc> 
+</figure> 
+</p> 
+ 
+<p><del type="overstrike"></del></p> 
+<p><del type="overstrike">"</del>Has I had any trouble?<lb>  
+Misto C., I's gwyne to tell you,<lb>  
+den I leave it to you. I was<lb>  
+bawn down mongst de slaves<lb> 
+--I knows all 'bout slavery,<lb>  
+<del type="overstrike">'cause</del> <add place="supralinear">'case</add> I ben one of 'em my<lb>  
+own se<del type="overstrike">l</del><add place="inline">'</add>f. Well, sah, my ole<lb>  
+man--dat's my husban'--<lb>  
+he was lovin' an' kind to<lb>  
+me--<del type="overstrike">jus</del> jist as kind as you<lb>  
+is to yo' own wife. An' we<lb>  
+had chil'en--seven chil'en<lb>  
+-- &amp; we <del type="overstrike">loved</del> <add place="supralinear">loved</add> dem chil'en<lb>  
+jist de same as you loves<lb>  
+yo' chil'en. Dey was black,<lb>  
+but de Lord can't make<lb>  
+no chil'en so black but<lb>  
+what dey mother loves 'em<lb> 
+an' wouldn't give 'em up, no,<lb>  
+ 
+   <pb n="6">  
+ 
+<figure entity="TwaTrue6"> 
+<figDesc> 
+Image of page 6 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+not for anything dat's in<lb>  
+dis whole world.</p> 
+ 
+   <p><del type="overstrike">"</del>Well, sah, I was raised<lb>  
+in ole Fo'ginny, but my<lb>  
+mother she was raised in<lb>  
+Maryland; an' my <emph rend="underline">souls!</emph><lb>  
+she was turrible when she'd<lb>  
+git started! My <del type="overstrike"><unclear>lawd</unclear></del><lb>  
+<emph rend="underline">lan'!</emph> but she'd make de<lb>  
+fur fly! When she'd git<lb>  
+into dem tantrums, she<del type="overstrike">d</del><lb>  
+always had one word dat<lb>  
+she said. She'd straighten<lb>  
+herse'f up &amp; put her fists<lb>  
+in her hips &amp; say, "I want<lb>  
+you to understan<add place="inline">'</add><del type="overstrike">d</del> dat<del type="overstrike"></del><lb> 
+<del type="overstrike">I ain't no houn'-dog mash;</del> 
+   <pb n="7">  
+ 
+<figure entity="TwaTrue7"> 
+<figDesc> 
+Image of page 7 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+<add place="supralinear">I wa'nt bawn in de mash to be fool' by trash!</add><lb>  
+<del type="overstrike">to be trod on by common<lb> 
+trash!</del> I's one o' de ole<lb> 
+Blue Hen's Chickens, <emph rend="underline">I</emph><lb>  
+is!"--'case you see, dat's<lb>  
+what folks dat's bawn<lb>  
+in Maryland calls <orig reg="deyselves">dey-<lb> 
+selves,</orig> an' dey's proud of<lb>  
+it. Well dat was her<lb>  
+word. I don't ever <orig reg="forgit">for-<lb> 
+git</orig> it, <add place="supralinear">becase</add> she said it so much,<lb>  
+an' becase she said it one<lb>  
+day when my little Henry<lb>  
+tore his wris', awful, <del type="overstrike">a</del>n'<lb>  
+most busted his head,<lb>  
+right up at <del type="overstrike">the</del> <add place="supralinear">de</add> top of his<lb>  
+forehead, an' de niggers<lb>  
+ 
+   <pb n="8">  
+ 
+<figure entity="TwaTrue8"> 
+<figDesc> 
+Image of page 8 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+didn't fly aroun<add place="inline">'</add><del type="overstrike">d</del> fas'<lb> 
+enough to 'tend to him.<lb>  
+An' when dey talk<add place="supralinear">'</add><del type="overstrike">ed</del> back<lb>  
+at her, she up an' she<lb>  
+says, "Look-a-heah!"<lb>  
+<del type="overstrike"></del><lb> 
+<add place="supralinear">she says, "I want you niggers to understan'</add><lb>  
+<del type="overstrike"></del><lb> 
+<add place="supralinear">dat I wa'nt bawn in de mash to be fool' by</add><lb>  
+trash!--I's one o' de<lb>  
+ole Blue Hen's Chickens,<lb>  
+<emph rend="underline">I</emph> is!" an' den she clar'<lb>  
+dat kitchen an' bandage'<lb>  
+up de chile hers<del type="overstrike">'</del>e'f. So I <add place="supralinear">says dat word, too, when I's riled.</add></p> 
+ 
+   <p>"Well, bymeby my ole<lb>  
+ 
+   <pb n="9">  
+ 
+<figure entity="TwaTrue9"> 
+<figDesc> 
+Image of page 9 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+mistis say she's broke, an'<lb>  
+she got to sell all de <orig reg="niggers">nig-<lb> 
+gers</orig> on de place. An'<lb> 
+when I heah dat dey gwyne<lb>  
+to sell us all off at oction<lb>  
+in Richmon', O de good<lb>  
+<del type="overstrike">God</del> <add place="supralinear">gracious</add> I know what dat<lb>  
+mean!<del type="overstrike">"</del></p> 
+ 
+   <p>[Aunt Rachel had<lb>  
+gradually risen, while<lb>  
+she warmed to her <orig reg="subject">sub-<lb> 
+ject,</orig> &amp; now she towered<lb> 
+above us, <del type="overstrike">huge &and;</del> black<lb>  
+against the stars.]</p> 
+ 
+   <p><del type="overstrike">"</del>Dey put chains on<lb>  
+us an' put us on a stan'<lb>  
+ 
+   <pb n="10">  
+ 
+<figure entity="TwaTru10"> 
+<figDesc> 
+Image of page 10 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+as high as dis poach--<lb>  
+twenty foot high--an<lb>  
+all de people stood <orig reg="aroun'">a-<lb> 
+roun'</orig>--crowds an crowds.<lb>  
+An' dey'd come up dah<lb>  
+an' <del type="overstrike">'zamine</del> <add place="supralinear">look at</add> us all roun<add place="supralinear">'</add><del type="overstrike">d</del>,<lb>  
+an' squeeze our arm, an'<lb>  
+make us git up an' walk,<lb>  
+an' den say, "Dis one too<lb>  
+ole," or "Dis one lame," or<lb> 
+"Dis one don't 'mount to<lb>  
+much." An' dey sole my<lb>  
+ole man, an' took him<lb>  
+away, an' dey begin to sell<lb> 
+my chil'en an' take <emph rend="underline">dem</emph><lb>  
+away, an' I begin to cry;<lb>  
+ 
+   <pb n="11">  
+ 
+<figure entity="TwaTru11"> 
+<figDesc> 
+Image of page 11 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+an' de man say "Shet<lb>  
+up yo' darn blubberins,"<lb>  
+an hit me on de mouf<lb>  
+wid his han'. An' when<lb>  
+de las' one was gone but<lb>  
+my little Henry, I grab<add place="supralinear">'</add><del type="overstrike">bed</del><lb>  
+<emph rend="underline">him</emph> clos<del type="overstrike">e</del><add place="inline">t</add> up to my breas',<lb>  
+so, an' I ris up an' says,<lb>  
+"You shan't take him <orig reg="away">a-<lb> 
+way<add place="inline">!"</add></orig> I says; "I'll kill de<lb>  
+man dat tetches him!"<lb>  
+<add place="supralinear">I says.</add> But my little Henry <orig reg="whisper">whis-<lb> 
+per</orig> an' say, "I <del type="overstrike">gy</del> gwyne<lb>  
+to run away, an' den I<lb>  
+work an' buy yo' freedom."<lb>  
+O, bless de chile, <del type="overstrike">it mos'</del><lb>  
+ 
+   <pb n="12">  
+ 
+<figure entity="TwaTru12"> 
+<figDesc> 
+Image of page 12 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+<del type="overstrike">broke my heart, he so</del><lb> 
+<add place="supralinear">he always so</add> good. <add place="inline">But</add> dey got him--<lb>  
+dey got him, de men<lb>  
+did--but I took &amp; tear<lb>  
+<del type="overstrike"><unclear>de cloes most</unclear></del> <add place="supralinear">de cloes</add> mos' off<lb>  
+of 'em an' beat 'em over<lb>  
+de head wid my chain;<lb>  
+an' <emph rend="underline">dey</emph> give it to <emph rend="underline">me</emph>, too,<lb>  
+but I didn't min<del type="overstrike">d</del><add place="inline">e</add> <del type="overstrike"><add place="sublinear">mine</add></del> dat.</p> 
+ 
+   <p><del type="overstrike">"</del>Well, dah was my ole<lb>  
+man gone, an' all my<lb>  
+chil'en<add place="inline" hand="blue">,</add><del type="overstrike" hand="blue">--</del>all my seven<lb>  
+chil'en--an' six of 'em<lb>  
+I hain't set eyes on agin<lb>  
+to dis day<add place="inline" hand="blue">,</add><del type="overstrike" hand="blue">--</del>an' dats <orig reg="twenty-two">twenty-<lb> 
+two</orig> year<del type="overstrike">s</del> ago las' Easter.<lb>  
+ 
+   <pb n="13">  
+ 
+<figure entity="TwaTru13"> 
+<figDesc> 
+Image of page 13 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+De man dat bought me<lb>  
+b'long<add place="inline">'</add><del type="overstrike">ed</del> in <del type="overstrike"><unclear>Norfolk</unclear></del><lb>  
+Newbern, an' he took me<lb>  
+dah. Well, bymeby de<lb>  
+years roll on <del type="overstrike">&and; de</del><lb>  
+an' de waw come. My<lb> 
+marster he was a Confedrit<lb>  
+Colonel, an' I was his<lb>  
+family's cook. So when<lb>  
+de Unions took dat town,<lb>  
+dey all run away an'<lb>  
+lef' me all by myse<del type="overstrike">l</del><add place="inline">'</add>f<lb>  
+wid de other niggers in<lb>  
+dat mon'sus big house.<lb>  
+So de big Union officers<lb>  
+move in dah an' dey<lb>  
+ 
+   <pb n="14">  
+ 
+<figure entity="TwaTru14"> 
+<figDesc> 
+Image of page 14 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+ask me would I cook<lb>  
+for <emph rend="underline">dem</emph><del type="overstrike">,</del><add place="inline">.</add> <del type="overstrike">for money.</del><lb>  
+"Lord bless you," says<lb>  
+<del type="overstrike"></del><add place="supralinear">I, "dat's what<del type="overstrike">s</del> I's <emph rend="underline">for</emph>."</add></p> 
+ 
+<p><del type="overstrike">"</del>Dey wa'<add place="inline">nt</add><del type="overstrike"><unclear>nt</unclear></del> no <orig reg="small-fry">small-<lb> 
+fry</orig> officers, mine you,<lb>  
+dey was de biggest dey <emph rend="underline">is;</emph><lb>  
+an' <add place="supralinear">de</add> way dey made dem so<del type="overstrike"><unclear>g</unclear></del><add place="inline">j</add>ers<lb>  
+mosey roun'! <del type="overstrike">Well I<lb>  
+thinks</del> De Gen'l he tole<lb>  
+me to boss dat kitchen;<lb>  
+an' he say<del type="overstrike">s</del><add place="inline" hand="blue">,</add> <add place="inline" hand="blue">'</add><hi rend="triple underline">i</hi>f anybody<lb>  
+come<del type="overstrike">s</del> meddlin' wid you,<lb>  
+you jist <del type="overstrike">come an tell me;</del> <add place="supralinear">make 'em walk chalk;</add><lb>  
+don't you be afeard,<add place="inline" hand="blue">'</add> he say,<lb>  
+<add place="inline" hand="blue">'</add>you's 'mong frens, now.'</p> 
+ 
+   <pb n="15">  
+ 
+<p> 
+<figure entity="TwaTru15"> 
+<figDesc> 
+Image of page 15 of the manuscript. 
+</figDesc> 
+</figure> 
+</p> 
+ 
+<p><add place="supralinear">&para;</add>Well, I thinks to myself,<lb>  
+if my little Henry ever<lb>  
+<del type="overstrike">got an</del> <add place="supralinear">got</add> a chance to run<lb>  
+away, he'd ma<del type="overstrike"><unclear>d</unclear></del><add place="inline">k</add>e to de<lb> 
+Norf, o'course. So one<lb>  
+day I comes in dah whah<lb>  
+de big officers was, in<lb>  
+de parlor, an' I drops a<lb> 
+kurtchy, so, an' I <del type="overstrike">says,<lb>  
+to de Gen'l, says I,</del> 
+<add place="supralinear">up an'</add> tole 'em 'bout my Henry,<lb>  
+dey a listenin' <add place="supralinear">to my troubles</add> <del type="overstrike">jus</del> jist de<lb>  
+same as if I was white <add place="supralinear">folks;</add>;<lb>  
+an' I says, "What I come<lb>  
+for is <add place="supralinear">becase</add> <del type="overstrike">dat</del> if he got away<lb>  
+&amp; got up Norf whah you<lb> 
+ 
+   <pb n="16">  
+ 
+<figure entity="TwaTru16"> 
+<figDesc> 
+Image of page 16 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+gemmen comes from,<lb>  
+you might a seen him,<lb>  
+maybe, <del type="overstrike">&and;</del> <add place="supralinear">an'</add> could tell me so<lb>  
+as I could fine him agin;<lb> 
+<add place="supralinear">he was very little, an'</add> he had a sk-yar on his lef'<lb>  
+wris', an' at de top of his<lb>  
+forehead." Den dey look<lb> 
+mournful, &amp; de Gen'l say,<lb>  
+"How long sence you los' <del type="overstrike">him</del><lb>  
+him?" an' I say "Thirteen<lb>  
+year." Den de Gen'l say,<lb>  
+"He wouldn't be little no mo',<lb>  
+now--he's a man!"</p> 
+ 
+   <p><del type="overstrike">"</del><add place="inline">[</add>I never thought <del type="overstrike"><unclear>o</unclear></del> o' dat<lb>  
+<del type="overstrike"><unclear>befor</unclear></del> befo'! He was only<lb>  
+dat little feller to <emph rend="underline">me</emph>, yit.<lb>  
+I never thought 'bout him<lb>  
+ 
+   <pb n="17">  
+ 
+<figure entity="TwaTru17"> 
+<figDesc> 
+Image of page 17 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+growin' up an' bein' big.<lb>  
+<add place="supralinear">But I see it den.</add> None o' de gemmen had<lb>  
+run acrost him, so dey<lb> 
+couldn't do nothin' for me.<lb>  
+<del type="overstrike"><add place="marginleft">&para;</add></del>But all dat time, do' <emph rend="underline">I</emph><lb>  
+didn't know it, my Henry<lb>  
+<emph rend="underline">was</emph> run off to de Norf,<lb> 
+years &amp; years, an' he was<lb>  
+a barber, too, an' worked<lb>  
+for hisse'f. An<add place="inline">'</add><del type="overstrike">d</del> bymeby<lb>  
+when de waw come, he<lb>  
+ups an' he says, "I's done<lb>  
+barberin," he says; "I's<lb>  
+gwyne to fine my ole<lb>  
+mammy, less'n she's<lb>  
+dead." So he sole out an'<lb>  
+went to whah dey was <orig reg="recruitin'">re-<lb> 
+ 
+   <pb n="18">  
+ 
+ 
+cruitin',</orig> an' hired hisse'f<lb>  
+out to de Colonel for<lb>  
+his servant; an' den he<lb>  
+went all froo de battles<lb>  
+everywhah, huntin' for<lb>  
+his ole mammy; yes <orig reg="indeedy">in-<lb> 
+deedy,</orig> he'd hire to fust<lb>  
+one officer an' den <orig reg="another">an-<lb> 
+other,</orig> tell he'd ransacked<lb>  
+de whole Souf--but<lb>  
+you see <emph rend="underline">I</emph> didn't know<lb>  
+nuffin' 'bout <emph rend="underline">dis</emph>. How<lb>  
+<del type="overstrike">could <emph rend="underline">I</emph> know it.</del> <add place="supralinear">was <emph rend="underline">I</emph> gwyne to know it?</add></p> 
+ 
+<p> 
+<figure entity="TwaTru18"> 
+<figDesc> 
+Image of page 18 of the manuscript. 
+</figDesc> 
+</figure> 
+</p> 
+ 
+   <p><del type="overstrike">"</del>Well, one night, we<lb>  
+had a big sojer ball--  
+de sojers dah at <orig reg="Newbern">New-</orig><lb> 
+ 
+   <pb n="19">  
+ 
+<figure entity="TwaTru19"> 
+<figDesc> 
+Image of page 19 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+<orig reg="Newbern">bern</orig> was always havin'<lb>  
+balls an' carryin' on.<lb> 
+ Dey had 'em in my <orig reg="kitchen">kitch-<lb> 
+en,</orig> heaps o' times, 'case<lb>  
+it was so big. Mine you,<lb>  
+<del type="overstrike">I didn't</del><lb> 
+I was <emph rend="underline">down</emph> on sich doins;<lb>  
+becase my place was wid<lb>  
+de officers, an' it rasp'<lb>  
+me to have <add place="supralinear">dem</add> common<lb>  
+sojers cavortin' roun'<lb>  
+my kitchen like dat.<lb>  
+But I <del type="overstrike"><unclear>all</unclear></del> always stood<lb>  
+aroun' an' kep' things<lb> 
+straight, I did; an' <orig reg="sometimes">some-<lb> 
+times</orig> dey'd git my dander<lb>  
+up, an' den I'd make 'em<lb>  
+ 
+   <pb n="20">  
+ 
+<figure entity="TwaTru20"> 
+<figDesc> 
+Image of page 20 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+clar dat kitchen, mine<lb>  
+I <emph rend="underline">tell</emph> you!</p> 
+ 
+   <p><del type="overstrike">"</del>Well, one night--it<lb>  
+was a Friday night <del type="overstrike"><unclear>d</unclear></del><lb> 
+--dey comes a whole<lb>  
+plattoon <del type="overstrike">fr</del> f'm a <emph rend="underline">nigger</emph><lb> 
+ridgment dat was on<lb>  
+guard at de house--de<lb>  
+house was headquarters,<lb>  
+you know--an' den I<lb>  
+was jist a <emph rend="underline">bilin'!</emph> <add place="supralinear">Mad? <del type="overstrike">Well honey</del> I was jist a <emph rend="underline">boomin'!</emph></add> I<lb>  
+swelled aroun', an' swelled<lb>  
+aroun',--I jist was <add place="supralinear">a</add> itchin'<lb>  
+for 'em to do somefin'<lb>  
+for to start me. <emph rend="underline">An'</emph> dey<lb>  
+was a waltzin' an' a <orig reg="dancin'">dan-</orig><lb> 
+ 
+   <pb n="21">  
+ 
+<figure entity="TwaTru21"> 
+<figDesc> 
+Image of page 21 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+<orig reg="dancin'">cin'!</orig>--<emph rend="underline">my!</emph> but dey was<lb>  
+havin' a time!--an' I<lb>  
+jist a swellin' an' a swellin'<lb>  
+up! Pooty soon, 'long<lb> 
+comes <add place="supralinear"><emph rend="underline">sich</emph> a</add> <del type="overstrike">de</del> spruce<del type="overstrike">st</del> young<lb>  
+nigger a-sailin' down<lb>  
+de room wid a yaller<lb>  
+wench roun' de wais';<lb>  
+an' roun' an' roun' an'<lb>  
+roun' dey went, <add place="supralinear">enough</add> <del type="overstrike">'nuff</del> to<lb>  
+make a body drunk to<lb>  
+look at 'em; an' when<lb> 
+dey got abreas' o' me,<lb>  
+dey went to kin' o' <orig reg="balancin'">balan-<lb> 
+cin'</orig> aroun', fust on one<lb>  
+leg an' den on tother, an' 
+ 
+   <pb n="22">  
+ 
+<figure entity="TwaTru22"> 
+<figDesc> 
+Image of page 22 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+smilin' at my big red<lb>  
+turban, <add place="supralinear">an' makin' fun',</add> an' I <add place="supralinear">ups an'</add> says, "<emph rend="underline">Git</emph>  
+along wid you!--<orig reg="rubbage">rub-<lb> 
+bage!"</orig> De young man's<lb>  
+face kin' o' changed, all<lb>  
+of a sudden, for 'bout<lb>  
+a second, but den he went<lb>  
+to smilin' agin same<lb>  
+as he was befo'. Well, 'bout<lb>  
+dis time, in comes some<lb>  
+niggers dat played <orig reg="music">mu-<lb> 
+sic</orig> an' b'long' to de ban',<lb>  
+an dey <emph rend="underline">never</emph> could git<lb>  
+along widout puttin'<lb>  
+on airs. An' de very<lb>  
+fust air dey put on dat<lb>  
+ 
+   <pb n="23">  
+ 
+<figure entity="TwaTru23"> 
+<figDesc> 
+Image of page 23 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+night, I lit into 'em!<lb>  
+Dey laughed, an' dat<lb>  
+made me wuss. De<lb>  
+res' o' de niggers got to<lb>  
+laughin<add place="inline">'</add><del type="overstrike">g</del>, an' den my<lb>  
+soul <emph rend="underline">alive</emph> but I was<lb> 
+hot! My eye was jist<lb>  
+a blazin<add place="inline">'</add><del type="overstrike">g</del>! I jist <orig reg="straightened">straight-<lb> 
+ened</orig> myself up, so<add place="inline" hand="blue">,</add>--<lb>  
+jist as I <del type="overstrike">am</del> <add place="supralinear">is</add> now<add place="inline" hand="blue">,</add>--<lb> 
+plum to de ceilin', mos'<add place="inline" hand="blue">,</add><lb>  
+<del type="overstrike" hand="blue">--</del>an' <add place="supralinear">I digs my fists into my hips, an'</add> I says, "<orig reg="Look-a-heah">Look-a-<lb> 
+heah</orig>!" I says, "I want you<lb>  
+niggers to understan'<lb>  
+<del type="overstrike"><unclear>dat I ain't no houn'</unclear></del><lb> 
+<add place="sublinear">dat I wa'nt bawn in de mash to be fool'</add><lb>  
+ 
+   <pb n="24">  
+ 
+<figure entity="TwaTru24"> 
+<figDesc> 
+Image of page 24 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+<del type="overstrike"><unclear>dog mash to be trod<lb> 
+on by cousins o </unclear>
+</del>
+<del type="overstrike"><add place="supralinear">by</add></del> <unclear>trash</unclear>
+<add place="supralinear">by trash!</add> I's one o' de ole Blue<lb>  
+Hen's Chickens, <emph rend="underline">I</emph> is!"<lb>  
+<del type="overstrike" hand="blue">--</del>an' den I see dat young<lb>  
+man stan' a-starin' an'<lb>  
+stiff, <del type="overstrike">like</del> lookin' kin' o'<lb>  
+up at de ceilin' like<lb>  
+he fogot somefin', an'<lb>  
+couldn't 'member it no<lb>  
+mo'. Well<add place="inline" hand="blue">,</add> I jist march'<lb>  
+on dem niggers<add place="inline" hand="blue">,</add>--so,<del type="overstrike" hand="blue">--</del><lb>  
+lookin<add place="inline">'</add><del type="overstrike">g</del> like a Gen'l<add place="inline" hand="blue">,</add> <del type="overstrike"><add place="supralinear">a goin into battle--</add></del><lb>  
+an' dey jist cave' away<lb>  
+befo' me an' out at de<lb>  
+do'. An' as dis young<lb>  
+ 
+   <pb n="25">  
+ 
+<figure entity="TwaTru25"> 
+<figDesc> 
+Image of page 25 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+man <add place="supralinear">was a goin'</add> <del type="overstrike">went</del> out, I heah<lb> 
+him say to another <orig reg="nigger">nig-<lb> 
+ger,</orig> "Jim," he says, "you<lb>  
+go 'long an' tell de Cap'n<lb>  
+I be on han' 'bout eight<lb>  
+o'clock in de mawnin';<lb> 
+dey's somefin on my<lb>  
+mine," he says; "I don't<lb>  
+sleep no mo' dis night.<del type="overstrike">'</del><lb>  
+You go 'long," he says,<lb>  
+"an' leave me by my own<lb>  
+se'f."</p> 
+ 
+   <p><del type="overstrike">"</del>Dis was 'bout one<lb>  
+o'clock in de mawnin'.<lb>  
+Well, 'bout seven I was<lb>  
+up an' on han', gittin'<del type="overstrike"></del> de<lb> 
+ 
+   <pb n="26">  
+ 
+<figure entity="TwaTru26"> 
+<figDesc> 
+Image of page 26 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+officers' breakfast. I<lb>  
+was a<add place="inline" hand="blue">-</add>stoopin' down by<lb>  
+de stove<add place="inline" hand="blue">,</add>--jist so<add place="inline" hand="blue">,</add><del type="overstrike" hand="blue">--</del>same<lb>  
+as if yo' foot was de<lb>  
+stove<add place="inline" hand="blue">,</add>--an' I'd opened<lb>  
+de stove do' wid my<lb>  
+right han',--so, pushin'<lb>  
+it back, jist as I pushes<lb>  
+yo' foot<add place="inline" hand="blue">,</add>--an' I'd jist<lb>  
+got de pan o' hot biscuits<lb>  
+in my han' an' was 'bout<lb>  
+to raise up, when I see<lb>  
+a black face come<lb> 
+aroun' under <del type="overstrike">my</del> mine,<lb>  
+an' de eyes a<add place="inline" hand="blue">-</add>lookin' up<lb>  
+ 
+   <pb n="27">  
+ 
+<figure entity="TwaTru27"> 
+<figDesc> 
+Image of page 27 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+into mine, jist as I'<add place="supralinear">s</add><del type="overstrike">m</del> a<lb> 
+lookin' up clost under<lb>  
+yo' face now<add place="inline" hand="blue">;</add>
+<del type="overstrike" hand="blue">--</del>an' I<lb>  
+jist stopped <emph rend="underline">right dah</emph>, an'<lb>  
+never budged!<del type="overstrike" hand="blue">--</del>jist gazed,<lb>  
+an' gazed,<del type="overstrike" hand="blue">--</del>so<add place="inline" hand="blue">;</add><del type="overstrike" hand="blue">--</del>an' de<lb>  
+pan begin to tremble,<lb>  
+an' all of a sudden I<lb>  
+<emph rend="underline">knowed!</emph> De pan<lb>  
+drop' on de flo' an' I<lb>  
+grab his lef' han' an'<lb>  
+shove back his sleeve<add place="inline" hand="blue">,</add><lb>  
+--jist so, as I'<add place="supralinear">s</add><del type="overstrike">m</del> doin'<lb>  
+to you<add place="inline" hand="blue">,</add>--an' den I <del type="overstrike">went</del><lb>  
+ 
+   <pb n="28">  
+ 
+<figure entity="TwaTru28"> 
+<figDesc> 
+Image of page 28 of the manuscript. 
+</figDesc> 
+</figure> 
+ 
+<add place="supralinear">goes</add> for his forehead an'<lb> 
+push de hair back<add place="inline" hand="blue">,</add><lb>  
+<del type="overstrike" hand="blue">--</del>so<add place="inline" hand="blue">,</add><del type="overstrike" hand="blue">--</del>an' "Boy!" I says,<lb>  
+"if you ain't my Henry,<lb>  
+what is you doin' wid<lb>  
+dis welt on yo' wris'<lb>  
+an' dat sk-yar on yo'<lb>  
+forehead!<del type="overstrike" hand="blue">--</del><hi rend="triple underline">d</hi>e Lord God<lb>  
+<del type="overstrike">of</del> ob Heaven be praise',<lb>  
+I got my own agin!"</p> 
+ 
+   <pb n="29">  
+ 
+<p> 
+<figure entity="TwaTru29"> 
+<figDesc> 
+Image of page 29 of the manuscript. 
+</figDesc> 
+</figure> 
+</p> 
+ 
+<p>"O, no, <add place="supralinear">Mr. C.,</add> <emph rend="underline">I</emph> ain't had no<lb>  
+trouble. An' no <emph rend="underline">joy!</emph>"</p> 
+ 
+<closer> 
+<signed>Mark Twain.</signed> 
+</closer> 
+ 
+</div1> 
+ 
+   
+ 
+</body> 
+</text> 
+</TEI.2> 
+ 

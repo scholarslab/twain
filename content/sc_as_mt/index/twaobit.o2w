@@ -1,0 +1,73 @@
+<TagNames>
+<wrapper>div0</wrapper>
+<work>text</work>
+<title>head</title>
+<author></author>
+<createdt></createdt>
+
+</TagNames>
+
+<DataDict>
+   <Title>Mark Twain Obituaries</Title> 
+   <Path>/lv6/workspace/railton/sc_as_mt/index/TwaObit.dd</Path>
+   <Pat>/lv1/ot/ot5.0/bin/pat50</Pat>
+</DataDict>
+
+<Regions>
+
+
+   <Region>
+      <Name>body</Name>
+      <Label>All entries</Label>
+   </Region>
+
+   <Region>
+      <Name>head</Name>
+      <Label>Headlines only</Label>
+   </Region>
+
+</Regions>
+
+<Searching>
+   <Default>
+      <Region>div0</Region>
+      <HtmlFilter>/web/bin/etcbin/modeng.pl</HtmlFilter>
+   </Default>
+   <Kwic>
+
+      <Link>
+         <ID>ref</ID>
+         <Label>item</Label>
+         <File>twaobit-links</File>
+      </Link>
+      <Size>70</Size>
+      <Num>100</Num>
+      <Max>1000</Max>
+      <!Region>item</Region>
+      <Filter>/web/bin/etcbin/modeng.pl</Filter>
+
+   </Kwic>
+   <Surround>
+
+<Link>
+
+        <Region>text</Region>
+         <Label>View All Obituaries (220 K)</Label>
+          <Filter>/web/bin/etcbin/modeng.pl</Filter>
+</Link>
+
+      <Text>
+ <Region>div0</Region>      
+        <Size></Size>
+      </Text>
+   <Surround>
+</Searching>
+
+<Permissions>
+</Permissions>
+ 
+<Display>
+   <Body>bgcolor="#E9C2A6"</Body>
+   <Header></Header>
+   <Footer>obitfoot.html</Footer>
+</Display>
