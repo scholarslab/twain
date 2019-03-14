@@ -9,9 +9,7 @@ $results = false;
 
 //$server = 'twain.lib.virginia.edu';
 $server = 'twain.internal.lib.virginia.edu';
-#$port = 8080;
-#$path = '/solr/twain';
-$port = '80';
+$port = '443'; # this is removed in lib/Service.php anyway
 $path = '/solr/tcore';
 
 if ($query) {
@@ -159,7 +157,6 @@ function previousLink($start, $rows)
     </style>
 </head>
 <body>
-DEVELOPMENT!!
 
     <div id="content">
 
