@@ -15,7 +15,8 @@ services:
             - "traefik.docker.network=thenetwork"
             - "traefik.port=80"
             - "traefik.backend=twain_proxy"
-            - "traefik.frontend.rule=Host:twain.internal.lib.virginia.edu"
+            # - "traefik.frontend.rule=Host:twain.internal.lib.virginia.edu"
+            - "traefik.frontend.rule=Host:twain.lib.virginia.edu"
 
     twain_solr:
         image: solr:7

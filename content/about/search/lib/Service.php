@@ -331,8 +331,8 @@ class Apache_Solr_Service
 	{
 		$httpTransport = $this->getHttpTransport();
         //var_dump($httpTransport);
-
 		$httpResponse = $httpTransport->performGetRequest($url, $timeout);
+	//echo $url;
         //var_dump($httpResponse);
 		$solrResponse = new Apache_Solr_Response($httpResponse, $this->_createDocuments, $this->_collapseSingleValueArrays);
 

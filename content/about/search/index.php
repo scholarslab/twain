@@ -1,4 +1,6 @@
 <?php
+error_reporting(E_ERROR | E_PARSE);
+
 /* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
 header('Content-Type: text/html; charset=utf-8');
 
@@ -7,8 +9,8 @@ $rows = 20;
 $query = isset($_REQUEST['q']) ? $_REQUEST['q'] : false;
 $results = false;
 
-//$server = 'twain.lib.virginia.edu';
-$server = 'twain.internal.lib.virginia.edu';
+$server = 'twain.lib.virginia.edu';
+//$server = 'twain.internal.lib.virginia.edu';
 $port = '443'; # this is removed in lib/Service.php anyway
 $path = '/solr/tcore';
 
@@ -35,7 +37,6 @@ if ($query) {
     if (isset($_REQUEST['start'])) {
         $start = $_REQUEST['start'];
     }
-
     try {
         $results = $solr->search('section:'.$query, $start, $rows, $additionalParameters);
     } catch (Exception $e) {
@@ -47,7 +48,6 @@ function displayResults($results, $start, $rows)
 {
 
     $html = '';
-
     if ($results) {
         $total = (int) $results->response->numFound;
         $start = min($start+1, $total);
@@ -173,7 +173,6 @@ function previousLink($start, $rows)
                     <input type="text" name="q" class="input-xlarge search-query" id="q" value="<?php echo htmlspecialchars($query, ENT_QUOTES, 'utf-8'); ?>" />
                     <button class="btn" type="submit">Search</button>
                 </form>
-
                 <?php echo displayResults($results, $start, $rows); ?>
                 <?php if (!$results): ?>
                     <div class="intro">
