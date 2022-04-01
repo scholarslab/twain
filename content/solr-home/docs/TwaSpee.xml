@@ -5,10 +5,10 @@
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
 <!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
 <!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
-<!ENTITY TwSpFcv SYSTEM "uva-lib:492893" NDATA uvaHighRes> 
-<!ENTITY TwSpSpn SYSTEM "uva-lib:492894" NDATA uvaHighRes> 
-<!ENTITY TwSpFtp SYSTEM "uva-lib:492895" NDATA uvaHighRes> 
-]> 
+<!ENTITY TwSpFcv SYSTEM "uva-lib:492893" NDATA uvaHighRes>
+<!ENTITY TwSpSpn SYSTEM "uva-lib:492894" NDATA uvaHighRes>
+<!ENTITY TwSpFtp SYSTEM "uva-lib:492895" NDATA uvaHighRes>
+]>
 <TEI.2 id="TwaSpee">
  <teiHeader type="migrated" creator="Etext">
   <fileDesc>
@@ -7512,6 +7512,7 @@
      sinking sun with a contented heart.</p>
 
    </div1>
-  </body>
+  <!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
  </text>
 </TEI.2>

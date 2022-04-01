@@ -1,603 +1,603 @@
-<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
- 
-<!NOTATION jpg SYSTEM "JPEG"> 
- 
-<!ENTITY Twa1Toa1 SYSTEM "Twa1Toa1.jpg" NDATA jpg> 
-<!ENTITY Twa1Toa2 SYSTEM "Twa1Toa2.jpg" NDATA jpg> 
-<!ENTITY Twa1Toa3 SYSTEM "Twa1Toa3.jpg" NDATA jpg> 
-<!ENTITY Twa1Toa4 SYSTEM "Twa1Toa4.jpg" NDATA jpg> 
-<!ENTITY Twa1Toa5 SYSTEM "Twa1Toa5.jpg" NDATA jpg> 
-<!ENTITY Twa1Toa6 SYSTEM "Twa1Toa6.jpg" NDATA jpg> 
-<!ENTITY Twa1Toa7 SYSTEM "Twa1Toa7.jpg" NDATA jpg> 
-<!ENTITY Twa1Toa8 SYSTEM "Twa1Toa8.jpg" NDATA jpg> 
-<!ENTITY Twa1Toa9 SYSTEM "Twa1Toa9.jpg" NDATA jpg> 
-<!ENTITY Twa1To10 SYSTEM "Twa1To10.jpg" NDATA jpg> 
-<!ENTITY Twa1To11 SYSTEM "Twa1To11.jpg" NDATA jpg> 
-<!ENTITY Twa1To12 SYSTEM "Twa1To12.jpg" NDATA jpg> 
-<!ENTITY Twa1To13 SYSTEM "Twa1To13.jpg" NDATA jpg> 
-<!ENTITY Twa1To14 SYSTEM "Twa1To14.jpg" NDATA jpg> 
-<!ENTITY Twa1To15 SYSTEM "Twa1To15.jpg" NDATA jpg> 
-<!ENTITY Twa1To16 SYSTEM "Twa1To16.jpg" NDATA jpg> 
- 
-<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
-<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
-<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
-<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
-<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
-]> 
- 
-<TEI.2 id="Twa1Toa"> 
-<teiHeader> 
-<fileDesc> 
-<titleStmt> 
-<title>The Regular Toast.  Woman--God Bless Her [a machine-readable transcription] 
-</title>  
-<author>Twain, Mark, 1835-1910 
-</author>  
-<respStmt> 
-<resp>Creation of machine-readable version:  
-</resp>  
-<name>Stephen Railton 
-</name>  
-<resp>Creation of digital images:  
-</resp>  
-<name>Special Collections, University of Virginia Library 
-</name>  
-<resp>Conversion to TEI.2-conformant markup:  
-</resp>  
-<name>University of Virginia Library Electronic Text Center. 
-</name>  
-</respStmt>  
-</titleStmt>  
-<extent>ca. 20 kilobytes</extent>  
-<publicationStmt> 
-<publisher>University of Virginia Library. 
-</publisher>  
-<pubPlace>Charlottesville, Va. 
-</pubPlace>  
-<idno>Modern English, Twa1Toa</idno>  
-<availability> 
-<p>Publicly-accessible 
-</p>  
-<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html 
-</p>  
-</availability>  
-<date>1997 
-</date>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note>Images of the manuscript pages have been included. 
-</note>  
-</notesStmt>  
-<sourceDesc> 
-<biblFull> 
-<titleStmt> 
-<title>The Regular Toast.  Woman--God Bless Her 
-</title>  
-<author>Mark Twain, pseud. Samuel Langhorne Clemens 
-</author>  
-<respStmt> 
-<resp> 
-</resp>  
-<name> 
-</name>  
-</respStmt>  
-</titleStmt>  
-<editionStmt> 
-<p> 
-</p>  
-</editionStmt>  
-<extent> 
-</extent>  
-<publicationStmt> 
-<publisher> 
-</publisher>  
-<pubPlace> 
-</pubPlace>  
-<date> 
-</date>  
-<idno>Print copy consulted: Original manuscript in Special Collections,  
-University of Virginia Library: Papers of Mark Twain 1862-1946,  
-bulk 1872-1910; 6314; AMs 1891 May. 
-</idno>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note>This toast was delivered at the Annual Dinner of the 
-New England Society of New York, at Delmonico's,  
-on 22 December 1882.  Twain added the signature  
-at the end of the manuscript, with the unusual  
-complete use of Langhorne, almost ten years after  
-giving this toast, presumably when he made  
-a present of the manuscript to someone. 
-</note> 
-<note> 
-On several pages (6-9, 13, 15-16) Twain has crossed out the original 
-page number at the top of the page, and added a corrected page number. 
-</note>
-<note> 
-The first page of the manuscript contains pencilled annotations in 
-an unidentified hand -- apparently bookseller's markings.   
-</note> 
-</notesStmt>  
-</biblFull>  
-</sourceDesc>  
-</fileDesc>  
-<encodingDesc> 
-<projectDesc> 
-<p>Prepared for the University of Virginia Library Electronic Text Center. 
-</p>  
-</projectDesc>  
-<editorialDecl> 
-<p>All quotation marks retained as data. 
-</p>  
-<p>The lineation of the manuscript has been preserved. 
-</p>  
-<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
-</p>  
-<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
-</p>  
-</editorialDecl>  
-<refsDecl> 
-<p> 
-</p>  
-</refsDecl>  
-<classDecl> 
-<taxonomy> 
-<bibl> 
-<title>Library of Congress Subject Headings 
-</title>  
-</bibl>  
-</taxonomy>  
-</classDecl>  
-</encodingDesc>  
-<profileDesc> 
-<creation> 
-<date>1882 
-</date>  
-</creation>  
-<langUsage> 
-<language>English 
-</language>  
-</langUsage>  
-<textClass> 
-<keywords> 
-<term>prose; non-fiction 
-</term>  
-</keywords>  
-<keywords> 
-<term>LCSH 
-</term>  
-</keywords>  
-</textClass>  
-</profileDesc>  
-<revisionDesc> 
-<change> 
-<date>June 1997 
-</date>  
-<respStmt> 
-<resp>corrector 
-</resp>  
-<name>Christine Ruotolo 
-</name>  
-</respStmt>  
-<item>Added TEI header and tags. 
-</item>  
-</change>  
-</revisionDesc>  
-</teiHeader>  
- 
-<text id="Twa1ToaT"> 
- 
- 
-<body> 
- <pb n="1">  
-<div1 type="toast"> 
-<head> 
-Delivered at <add place="supralinear">New England</add> Dinner Dec 20/82. 
-<lb><lb>
--- <hi rend="sup">th</hi> Regular Toast. 
-<lb> <lb>
-Woman    &mdash;    God bless her. 
-</head> 
- 
-<p> <figure entity="Twa1Toa1"> 
-<figDesc> Image of page 1 of the manuscript. </figDesc> 
-</figure> </p> 
- 
-<p> 
-<del type="overstrike"></del>The toast includes<lb> 
-the sex, universally: it is to Woman,<lb> 
-comprehensively, wheresoever<lb>  
-she may be found.  Let us <orig reg="consider">con-<lb> 
-sider</orig> her ways.  First, comes the<lb> 
-matter of dress.  This is a most<lb>  
-important consideration, in a<lb>  
- 
-  <pb n="2">  
- 
-<figure entity="Twa1Toa2"> 
-<figDesc>Image of page 2 of the manuscript.</figDesc> 
-</figure> 
- 
-subject of this nature, &amp; must<lb>  
-be disposed of before we can<lb>  
-<add place="supralinear">intelligently</add> proceed to examine the profounder<lb>  
-depths of the theme.  For text, let<lb>  
-us take the dress of two antipodal<lb>  
-types    &mdash;    the savage woman of<lb>  
-<hi rend="triple underline">C</hi>entral Africa, &amp; the cultivated<lb>  
-daughter of our high modern<lb>  
-civilization. Among the<lb>  
-Fans, a great negro tribe, a woman,<lb>  
-when dressed for <del type="overstrike">breakfast, or</del><lb> 
-<add place="infralinear">home, or to go to market, or go out</add><lb>  
+<!DOCTYPE TEI.2 system 'teilite.dtd'[
 
-<del type="overstrike">a pick-up dinner, or to sit at home,<lb> 
-or to go out calling, or <unclear>to a simple</unclear> or to take a simple tea with<lb> 
-friends &amp; neighbors, or to go out</del><lb> 
-calling, does not wear anything<lb>  
- 
-   <pb n="3">  
- 
-<figure entity="Twa1Toa3"> 
-<figDesc>Image of page 3 of the manuscript.</figDesc> 
-</figure> 
- 
-at all but just her complexion.<lb>   
-That is all; that is her entire<lb>  
-outfit.  It is the lightest <orig reg="costume">cos-<lb> 
-tume</orig> in the world, but is made<lb>  
-of the darkest material.  It has<lb>  
-often been mistaken for mourning.<lb>   
-It is the trimmest, &amp; neatest, &amp; <orig reg="gracefulest">grace-<lb> 
-fulest</orig> costume that is now in<lb>  
-fashion; it wears well, is fast<lb>  
-colors, doesn't show dirt; you<lb>  
-don't have to send it down town<lb>  
-to wash, &amp; have some of it come<lb>  
-back scorched with the flat-iron, &amp;<lb>  
-some of it with the buttons ironed<lb>  
-off, &amp; some of it petrified with<lb>  
-starch, &amp; some of it chewed by the<lb>  
- 
-   <pb n="4">  
- 
-<figure entity="Twa1Toa4"> 
-<figDesc>Image of page 4 of the manuscript.</figDesc> 
-</figure> 
- 
-calf, &amp; some of it rotted with<lb> 
-acids, &amp; some of it exchanged<lb>  
-for other customers' things that <del type="overstrike"></del><lb> 
-<add place="supralinear">haven't any virtue but holiness,</add><lb> 
-<del type="overstrike"></del><del type="overstrike">&amp; don't fit you anyhow,</del><lb> 
-&amp; ten-twelfths of the pieces <orig reg="overcharged">over-<lb> 
-charged</orig> for, &amp; the rest of the dozen<lb>  
-<del type="overstrike">stolen</del><add place="supralinear">"mislaid."</add>  And it always fits; it is the<lb>  
-perfection of a fit.  And it is the<lb>  
-handiest dress in the whole realm<lb>  
-of fashion.  It is always ready, <add place="supralinear">always "done up."</add><lb>   
-When you call on a Fan lady &amp;<lb>  
-send up your card, the hired<lb> 
-girl never says, "Please take<lb>  
-a seat, madam is dressing    &mdash;    <lb>  
-she will be down in three-quarters<lb>  
-of an hour."  No, madam is<lb>  
-always dressed, always ready<lb>  
- 
-   <pb n="5">  
- 
-<figure entity="Twa1Toa5"> 
-<figDesc>Image of page 5 of the manuscript.</figDesc> 
-</figure> 
- 
-to receive; &amp; before you can get<lb>  
-the door-mat before your eyes, she<lb>  
-is in your midst. <del type="overstrike"><unclear>And the hired<lb> 
-girl never has to say to a lady<lb>  
-visitor, "Please excuse madam,<lb> 
-she is undressing;" &amp; even if<lb> 
-she ever had to bring such an<lb> 
-excuse at all, she wouldn't say<lb> 
-it in that way: she would say,<lb> 
-"Please excuse madam, she's skins,<lb> 
-not herself!"</unclear></del>  Then again, the<lb>  
-Fan ladies don't go to church to<lb>  
-see what each other has got on;<lb>  
-&amp; they don't go back home &amp; describe<lb>  
-it &amp; slander it.  <del type="overstrike">The farthest they<lb> 
-ever go is to say some little biting<lb> 
-thing about the ultra fashionables</del></p> 
- 
-   <pb n="6">  
- 
-<p> 
-<figure entity="Twa1Toa6"> 
-<figDesc>Image of page 6 of the manuscript. </figDesc> 
-</figure> 
-</p> 
- 
-<p> 
-   Such is the dark child of<lb>  
-savagery, as to every-day<lb>  
-toilette; &amp; <del type="overstrike"></del> thus, curiously<lb>  
-enough, she finds a point of<lb>  
-contact with the fair daughter<lb>  
-of civilization &amp; high fashion<lb>  
-   &mdash;    who has often has "nothing to wear;"<lb>  
-&amp; thus these widely separated types<lb>  
-of the sex meet upon common<lb>  
-ground.  Yes, such is the Fan<lb>  
-woman, as she appears in her<lb>  
-simple, unostentatious <orig reg="every-day">every-<lb> 
-day</orig> toilette.  But on state<lb>  
-occasions she is more dressy.<lb>   
-<del type="overstrike">much more dressy.</del>  At a<lb> 
-banquet she <del type="overstrike">wears</del> <add place="supralinear">wears</add> bracelets; at<lb>  
-a lecture she wears earrings &amp; a<lb>  
-belt; at a ball she wears stockings    &mdash;    <lb> 
- 
-   <pb n="7">  
- 
-<figure entity="Twa1Toa7"> 
-<figDesc> Image of page 7 of the manuscript. </figDesc> 
-</figure> 
- 
-&amp; with the true feminine fondness<lb>  
-for display, she wears them on her<lb>  
-arms; at a funeral she wears a<lb>  
-jacket of tar &amp; ashes; at a <orig reg="wedding">wed-<lb> 
-ding</orig> the bride who can afford<lb>  
-it puts on pantaloons.  Thus the<lb>  
-dark child of savagery &amp; the<lb>  
-fair daughter of civilization<lb> 
-meet once more upon <orig reg="common">com-<lb> 
-mon</orig> ground; &amp; these two<lb>  
-touches of nature make<lb>  
-their whole world kin. 
-</p> 
- 
-<p> 
-     Now we will consider<lb>  
-the dress of our other type.  A<lb>  
-large part of the daughter of<lb>  
-civilization is her dress    &mdash;    as<lb>  
-it should be.  Some civilized<lb>  
- 
-   <pb n="8">  
- 
-<figure entity="Twa1Toa8"> 
-<figDesc> 
-Image of page 8 of the manuscript. 
-</figDesc> 
-</figure> 
- 
-women would lose half their<lb>  
-charm without dress; &amp; some<lb>  
-would lose all of it.  The daughter<lb>  
-of modern civilization, dressed<lb>  
-at her utmost best, is a marvel<lb>  
-of exquisite &amp; beautiful art, &amp; <orig reg="expense">ex-<lb> 
-pense.</orig>  All the lands, all the climes,<lb>  
-&amp; all the arts are laid under tribute<lb>  
-to furnish her forth.  Her linen<lb>  
-is from <del type="overstrike"></del><add place="supralinear">Belfast,</add> her robe is<lb>  
-from Paris, her lace is from<lb>  
-Venice, or Spain, or France;<lb>  
-her feathers are from the remote<lb>  
-regions of Southern Africa,<lb>  
-her furs from the remoter<lb>  
-home of the iceberg &amp; the <orig reg="aurora">au-<lb> 
-rora;</orig> her fan from Japan,<lb>  
- 
-   <pb n="9">  
- 
-<figure entity="Twa1Toa9"> 
-<figDesc> 
-Image of page 9 of the manuscript. 
-</figDesc> 
-</figure> 
- 
-her diamonds from Brazil,<lb>  
-her bracelets from California,<lb>  
-her pearls from Ceylon, her<lb>  
-cameos from Rome; she has<lb>  
-<del type="overstrike"><unclear>glass</unclear></del> gems &amp; trinkets from<lb>  
-buried Pompeii; &amp; others<lb>  
-that graced comely Egyptian<lb>  
-forms that have been dust &amp;<lb>  
-ashes, now, for forty centuries;<lb>  
-her watch is from Geneva, her<lb>  
-card-case is from China,<lb>  
-her hair is from    &mdash;    from    &mdash;    <del type="overstrike">I</del><lb> 
-<del type="overstrike">from the store, I believe. That</del><lb>  
-<add place="supralinear">I don't know where her hair is from; I 
+<!NOTATION jpg SYSTEM "JPEG">
+
+<!ENTITY Twa1Toa1 SYSTEM "Twa1Toa1.jpg" NDATA jpg>
+<!ENTITY Twa1Toa2 SYSTEM "Twa1Toa2.jpg" NDATA jpg>
+<!ENTITY Twa1Toa3 SYSTEM "Twa1Toa3.jpg" NDATA jpg>
+<!ENTITY Twa1Toa4 SYSTEM "Twa1Toa4.jpg" NDATA jpg>
+<!ENTITY Twa1Toa5 SYSTEM "Twa1Toa5.jpg" NDATA jpg>
+<!ENTITY Twa1Toa6 SYSTEM "Twa1Toa6.jpg" NDATA jpg>
+<!ENTITY Twa1Toa7 SYSTEM "Twa1Toa7.jpg" NDATA jpg>
+<!ENTITY Twa1Toa8 SYSTEM "Twa1Toa8.jpg" NDATA jpg>
+<!ENTITY Twa1Toa9 SYSTEM "Twa1Toa9.jpg" NDATA jpg>
+<!ENTITY Twa1To10 SYSTEM "Twa1To10.jpg" NDATA jpg>
+<!ENTITY Twa1To11 SYSTEM "Twa1To11.jpg" NDATA jpg>
+<!ENTITY Twa1To12 SYSTEM "Twa1To12.jpg" NDATA jpg>
+<!ENTITY Twa1To13 SYSTEM "Twa1To13.jpg" NDATA jpg>
+<!ENTITY Twa1To14 SYSTEM "Twa1To14.jpg" NDATA jpg>
+<!ENTITY Twa1To15 SYSTEM "Twa1To15.jpg" NDATA jpg>
+<!ENTITY Twa1To16 SYSTEM "Twa1To16.jpg" NDATA jpg>
+
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;
+]>
+
+<TEI.2 id="Twa1Toa">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Regular Toast.  Woman--God Bless Her [a machine-readable transcription]
+</title>
+<author>Twain, Mark, 1835-1910
+</author>
+<respStmt>
+<resp>Creation of machine-readable version:
+</resp>
+<name>Stephen Railton
+</name>
+<resp>Creation of digital images:
+</resp>
+<name>Special Collections, University of Virginia Library
+</name>
+<resp>Conversion to TEI.2-conformant markup:
+</resp>
+<name>University of Virginia Library Electronic Text Center.
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 20 kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library.
+</publisher>
+<pubPlace>Charlottesville, Va.
+</pubPlace>
+<idno>Modern English, Twa1Toa</idno>
+<availability>
+<p>Publicly-accessible
+</p>
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html
+</p>
+</availability>
+<date>1997
+</date>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>Images of the manuscript pages have been included.
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Regular Toast.  Woman--God Bless Her
+</title>
+<author>Mark Twain, pseud. Samuel Langhorne Clemens
+</author>
+<respStmt>
+<resp>
+</resp>
+<name>
+</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>
+</p>
+</editionStmt>
+<extent>
+</extent>
+<publicationStmt>
+<publisher>
+</publisher>
+<pubPlace>
+</pubPlace>
+<date>
+</date>
+<idno>Print copy consulted: Original manuscript in Special Collections,
+University of Virginia Library: Papers of Mark Twain 1862-1946,
+bulk 1872-1910; 6314; AMs 1891 May.
+</idno>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>This toast was delivered at the Annual Dinner of the
+New England Society of New York, at Delmonico's,
+on 22 December 1882.  Twain added the signature
+at the end of the manuscript, with the unusual
+complete use of Langhorne, almost ten years after
+giving this toast, presumably when he made
+a present of the manuscript to someone.
+</note>
+<note>
+On several pages (6-9, 13, 15-16) Twain has crossed out the original
+page number at the top of the page, and added a corrected page number.
+</note>
+<note>
+The first page of the manuscript contains pencilled annotations in
+an unidentified hand -- apparently bookseller's markings.
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.
+</p>
+<p>The lineation of the manuscript has been preserved.
+</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.
+</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.
+</p>
+</editorialDecl>
+<refsDecl>
+<p>
+</p>
+</refsDecl>
+<classDecl>
+<taxonomy>
+<bibl>
+<title>Library of Congress Subject Headings
+</title>
+</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date>1882
+</date>
+</creation>
+<langUsage>
+<language>English
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>prose; non-fiction
+</term>
+</keywords>
+<keywords>
+<term>LCSH
+</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>June 1997
+</date>
+<respStmt>
+<resp>corrector
+</resp>
+<name>Christine Ruotolo
+</name>
+</respStmt>
+<item>Added TEI header and tags.
+</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="Twa1ToaT">
+
+
+<body>
+ <pb n="1">
+<div1 type="toast">
+<head>
+Delivered at <add place="supralinear">New England</add> Dinner Dec 20/82.
+<lb><lb>
+-- <hi rend="sup">th</hi> Regular Toast.
+<lb> <lb>
+Woman    &mdash;    God bless her.
+</head>
+
+<p> <figure entity="Twa1Toa1">
+<figDesc> Image of page 1 of the manuscript. </figDesc>
+</figure> </p>
+
+<p>
+<del type="overstrike"></del>The toast includes<lb>
+the sex, universally: it is to Woman,<lb>
+comprehensively, wheresoever<lb>
+she may be found.  Let us <orig reg="consider">con-<lb>
+sider</orig> her ways.  First, comes the<lb>
+matter of dress.  This is a most<lb>
+important consideration, in a<lb>
+
+  <pb n="2">
+
+<figure entity="Twa1Toa2">
+<figDesc>Image of page 2 of the manuscript.</figDesc>
+</figure>
+
+subject of this nature, &amp; must<lb>
+be disposed of before we can<lb>
+<add place="supralinear">intelligently</add> proceed to examine the profounder<lb>
+depths of the theme.  For text, let<lb>
+us take the dress of two antipodal<lb>
+types    &mdash;    the savage woman of<lb>
+<hi rend="triple underline">C</hi>entral Africa, &amp; the cultivated<lb>
+daughter of our high modern<lb>
+civilization. Among the<lb>
+Fans, a great negro tribe, a woman,<lb>
+when dressed for <del type="overstrike">breakfast, or</del><lb>
+<add place="infralinear">home, or to go to market, or go out</add><lb>
+
+<del type="overstrike">a pick-up dinner, or to sit at home,<lb>
+or to go out calling, or <unclear>to a simple</unclear> or to take a simple tea with<lb>
+friends &amp; neighbors, or to go out</del><lb>
+calling, does not wear anything<lb>
+
+   <pb n="3">
+
+<figure entity="Twa1Toa3">
+<figDesc>Image of page 3 of the manuscript.</figDesc>
+</figure>
+
+at all but just her complexion.<lb>
+That is all; that is her entire<lb>
+outfit.  It is the lightest <orig reg="costume">cos-<lb>
+tume</orig> in the world, but is made<lb>
+of the darkest material.  It has<lb>
+often been mistaken for mourning.<lb>
+It is the trimmest, &amp; neatest, &amp; <orig reg="gracefulest">grace-<lb>
+fulest</orig> costume that is now in<lb>
+fashion; it wears well, is fast<lb>
+colors, doesn't show dirt; you<lb>
+don't have to send it down town<lb>
+to wash, &amp; have some of it come<lb>
+back scorched with the flat-iron, &amp;<lb>
+some of it with the buttons ironed<lb>
+off, &amp; some of it petrified with<lb>
+starch, &amp; some of it chewed by the<lb>
+
+   <pb n="4">
+
+<figure entity="Twa1Toa4">
+<figDesc>Image of page 4 of the manuscript.</figDesc>
+</figure>
+
+calf, &amp; some of it rotted with<lb>
+acids, &amp; some of it exchanged<lb>
+for other customers' things that <del type="overstrike"></del><lb>
+<add place="supralinear">haven't any virtue but holiness,</add><lb>
+<del type="overstrike"></del><del type="overstrike">&amp; don't fit you anyhow,</del><lb>
+&amp; ten-twelfths of the pieces <orig reg="overcharged">over-<lb>
+charged</orig> for, &amp; the rest of the dozen<lb>
+<del type="overstrike">stolen</del><add place="supralinear">"mislaid."</add>  And it always fits; it is the<lb>
+perfection of a fit.  And it is the<lb>
+handiest dress in the whole realm<lb>
+of fashion.  It is always ready, <add place="supralinear">always "done up."</add><lb>
+When you call on a Fan lady &amp;<lb>
+send up your card, the hired<lb>
+girl never says, "Please take<lb>
+a seat, madam is dressing    &mdash;    <lb>
+she will be down in three-quarters<lb>
+of an hour."  No, madam is<lb>
+always dressed, always ready<lb>
+
+   <pb n="5">
+
+<figure entity="Twa1Toa5">
+<figDesc>Image of page 5 of the manuscript.</figDesc>
+</figure>
+
+to receive; &amp; before you can get<lb>
+the door-mat before your eyes, she<lb>
+is in your midst. <del type="overstrike"><unclear>And the hired<lb>
+girl never has to say to a lady<lb>
+visitor, "Please excuse madam,<lb>
+she is undressing;" &amp; even if<lb>
+she ever had to bring such an<lb>
+excuse at all, she wouldn't say<lb>
+it in that way: she would say,<lb>
+"Please excuse madam, she's skins,<lb>
+not herself!"</unclear></del>  Then again, the<lb>
+Fan ladies don't go to church to<lb>
+see what each other has got on;<lb>
+&amp; they don't go back home &amp; describe<lb>
+it &amp; slander it.  <del type="overstrike">The farthest they<lb>
+ever go is to say some little biting<lb>
+thing about the ultra fashionables</del></p>
+
+   <pb n="6">
+
+<p>
+<figure entity="Twa1Toa6">
+<figDesc>Image of page 6 of the manuscript. </figDesc>
+</figure>
+</p>
+
+<p>
+   Such is the dark child of<lb>
+savagery, as to every-day<lb>
+toilette; &amp; <del type="overstrike"></del> thus, curiously<lb>
+enough, she finds a point of<lb>
+contact with the fair daughter<lb>
+of civilization &amp; high fashion<lb>
+   &mdash;    who has often has "nothing to wear;"<lb>
+&amp; thus these widely separated types<lb>
+of the sex meet upon common<lb>
+ground.  Yes, such is the Fan<lb>
+woman, as she appears in her<lb>
+simple, unostentatious <orig reg="every-day">every-<lb>
+day</orig> toilette.  But on state<lb>
+occasions she is more dressy.<lb>
+<del type="overstrike">much more dressy.</del>  At a<lb>
+banquet she <del type="overstrike">wears</del> <add place="supralinear">wears</add> bracelets; at<lb>
+a lecture she wears earrings &amp; a<lb>
+belt; at a ball she wears stockings    &mdash;    <lb>
+
+   <pb n="7">
+
+<figure entity="Twa1Toa7">
+<figDesc> Image of page 7 of the manuscript. </figDesc>
+</figure>
+
+&amp; with the true feminine fondness<lb>
+for display, she wears them on her<lb>
+arms; at a funeral she wears a<lb>
+jacket of tar &amp; ashes; at a <orig reg="wedding">wed-<lb>
+ding</orig> the bride who can afford<lb>
+it puts on pantaloons.  Thus the<lb>
+dark child of savagery &amp; the<lb>
+fair daughter of civilization<lb>
+meet once more upon <orig reg="common">com-<lb>
+mon</orig> ground; &amp; these two<lb>
+touches of nature make<lb>
+their whole world kin.
+</p>
+
+<p>
+     Now we will consider<lb>
+the dress of our other type.  A<lb>
+large part of the daughter of<lb>
+civilization is her dress    &mdash;    as<lb>
+it should be.  Some civilized<lb>
+
+   <pb n="8">
+
+<figure entity="Twa1Toa8">
+<figDesc>
+Image of page 8 of the manuscript.
+</figDesc>
+</figure>
+
+women would lose half their<lb>
+charm without dress; &amp; some<lb>
+would lose all of it.  The daughter<lb>
+of modern civilization, dressed<lb>
+at her utmost best, is a marvel<lb>
+of exquisite &amp; beautiful art, &amp; <orig reg="expense">ex-<lb>
+pense.</orig>  All the lands, all the climes,<lb>
+&amp; all the arts are laid under tribute<lb>
+to furnish her forth.  Her linen<lb>
+is from <del type="overstrike"></del><add place="supralinear">Belfast,</add> her robe is<lb>
+from Paris, her lace is from<lb>
+Venice, or Spain, or France;<lb>
+her feathers are from the remote<lb>
+regions of Southern Africa,<lb>
+her furs from the remoter<lb>
+home of the iceberg &amp; the <orig reg="aurora">au-<lb>
+rora;</orig> her fan from Japan,<lb>
+
+   <pb n="9">
+
+<figure entity="Twa1Toa9">
+<figDesc>
+Image of page 9 of the manuscript.
+</figDesc>
+</figure>
+
+her diamonds from Brazil,<lb>
+her bracelets from California,<lb>
+her pearls from Ceylon, her<lb>
+cameos from Rome; she has<lb>
+<del type="overstrike"><unclear>glass</unclear></del> gems &amp; trinkets from<lb>
+buried Pompeii; &amp; others<lb>
+that graced comely Egyptian<lb>
+forms that have been dust &amp;<lb>
+ashes, now, for forty centuries;<lb>
+her watch is from Geneva, her<lb>
+card-case is from China,<lb>
+her hair is from    &mdash;    from    &mdash;    <del type="overstrike">I</del><lb>
+<del type="overstrike">from the store, I believe. That</del><lb>
+<add place="supralinear">I don't know where her hair is from; I
 never</add> <lb>
-<add place="supralinear">could find out.  That</add> is, her other hair 
+<add place="supralinear">could find out.  That</add> is, her other hair
    &mdash;    her public<lb>
-hair, her Sunday hair; I don't<lb>  
-mean the hair she goes to bed with.<lb>  
- 
-   <pb n="10">  
- 
-<figure entity="Twa1To10"> 
-<figDesc> 
-Image of page 10 of the manuscript. 
-</figDesc> 
-</figure> 
- 
-Why, you <del type="overstrike">ought to</del> <add place="supralinear">ought to</add> know the hair<lb>  
-I mean; it's that thing which<lb> 
-she calls a switch, &amp; which<lb>  
-resembles a switch as<lb>  
-much as it resembles a<lb>  
-brickbat, or a shotgun,<lb> 
-or any other thing which<lb>  
-you correct people with.<lb>   
-It's that thing which she<lb>  
-twists, &amp; then coils round<lb>  
-&amp; round her head, <orig reg="beehive-fashion">beehive-<lb> 
-fashion,</orig> &amp; then tucks the end<lb>  
-in under the hive &amp; harpoons<lb> 
-it with a hairpin.  And that<lb>  
-reminds me of a trifle: any<lb>  
-<del type="overstrike">time</del> time you want to, you<lb> 
- 
-   <pb n="11">  
- 
-<figure entity="Twa1To11"> 
-<figDesc> 
-Image of page 11 of the manuscript. 
-</figDesc> 
-</figure> 
- 
-<del type="overstrike"></del>can glance around the<lb>  
-carpet of a Pullman<lb>  
-car &amp; go &amp; pick up a<lb>  
-hairpin; but not to<lb>  
-save your life can you<lb>  
-get any woman in that<lb>  
-car to acknowledge that<lb> 
-hairpin.  Now isn't<lb>  
-that strange?  But it's<lb>  
-true.  The woman who<lb>  
-has never swerved from<lb>  
-cast-iron veracity &amp; <orig reg="fidelity">fi-<lb> 
-delity</orig> in her whole life, will,<lb>  
-when confronted with this<lb>  
-crucial test, deny her <orig reg="hair-pin">hair-</orig><lb>  
- 
-   <pb n="12">  
- 
-<figure entity="Twa1To12"> 
-<figDesc> 
-Image of page 12 of the manuscript. 
-</figDesc> 
-</figure> 
- 
-<orig reg="hair-pin">pin.</orig>  She will deny that<lb>  
-hairpin before a hundred<lb>  
-witnesses.  I have <add place="supralinear">stupidly</add> got<lb>  
-into more trouble, &amp; more<lb>  
-hot water trying to<lb>  
-hunt up the owner<lb>  
-of a hairpin in a<lb>  
-Pullman car than by<lb>  
-any other <orig reg="indiscretion">indiscre-<lb> 
-tion</orig> of my life. 
-</p> 
- 
-   <pb n="13">  
- 
-<p> 
-<figure entity="Twa1To13"> 
-<figDesc> 
-Image of page 13 of the manuscript. 
-</figDesc> 
-</figure> 
-</p> 
- 
-<p> 
-     Well, you can see what the <orig reg="daughter">daugh-<lb> 
-ter</orig> of civilization is, when she<lb>  
-is dressed; &amp; you have seen what<lb>  
-the daughter of savagery is<lb>  
-when she isn't.  Such is Woman,<lb>  
-as to costume.  I come, now,<lb>  
-to consider her in her higher &amp;<lb>  
-nobler aspects    &mdash;    as <del type="overstrike">sister,</del> 
-mother, <del type="overstrike">sweetheart,</del> <del type="overstrike"><add place="supralinear">sister, daughter</add></del> wife, widow,<lb>  
-<del type="overstrike">neighbor, poor relation</del> <add place="supralinear">grass-widow,</add> <orig reg="mother-in-law">mother-<lb> 
-in-law,</orig> <del type="overstrike">woman's-rights <orig reg="skirmisher">skir-<lb> 
-misher,</orig> platform-reader, actress,</del><lb> 
-<del type="overstrike"></del> hired girl, <orig reg="telegraph">tele-<lb> 
-graph</orig> operator, telephone helloer,<lb>  
-<del type="overstrike">store clerk, washer-woman, <orig reg="school-marm">school-<lb> 
-marm,</orig> queen,</del> <add place="supralinear">queen,</add> book-agent, <orig reg="wet-nurse">wet-</orig><lb>  
- 
-   <pb n="14">  
- 
-<figure entity="Twa1To14"> 
-<figDesc> 
-Image of page 14 of the manuscript. 
-</figDesc> 
-</figure> 
- 
-<orig reg="wet-nurse">nurse,</orig> step-mother, boss, <orig reg="professional">pro-<lb> 
-fessional</orig> fat woman, <orig reg="professional">pro-<lb> 
-fessional</orig> double-headed<lb>  
-woman, professional beauty,<lb>  
-&amp; so forth &amp; so on. 
-</p> 
- 
-<p> 
-     We will simply discuss<lb>  
-these few    &mdash;    let the rest of the<lb>  
-sex <del type="overstrike">wait</del> <add place="supralinear">tarry in Jericho till we come again.</add>  First in the list, of<lb>  
-right, &amp; first in  
- 
-   <pb n="15">  
- 
-<figure entity="Twa1To15"> 
-<figDesc> 
-Image of page 15 of the manuscript. 
-</figDesc> 
-</figure> 
- 
-our gratitude, comes a woman <add place="supralinear">who    &mdash;   </add> <add place="supralinear">why,</add><lb> 
-<del type="overstrike">without whom, I ask you, where<lb> 
-would be those priceless treasures<lb> 
-without which are all that make<lb> 
-our lives worth the living.  Yes,<lb> 
-where would be our wives &amp; <orig reg="children">chil-<lb> 
-dren</orig> if there hadn't been any<lb> 
-mother-in-law?  She    &mdash;    why,</del> 
-<del type="overstrike"></del> 
-<add place="supralinear">dear me, I've been talking three-quarters of an<lb> 
-hour!</add>  I beg a thousand pardons.  But<lb>  
-you see, yourselves, that I had a<lb>  
+hair, her Sunday hair; I don't<lb>
+mean the hair she goes to bed with.<lb>
+
+   <pb n="10">
+
+<figure entity="Twa1To10">
+<figDesc>
+Image of page 10 of the manuscript.
+</figDesc>
+</figure>
+
+Why, you <del type="overstrike">ought to</del> <add place="supralinear">ought to</add> know the hair<lb>
+I mean; it's that thing which<lb>
+she calls a switch, &amp; which<lb>
+resembles a switch as<lb>
+much as it resembles a<lb>
+brickbat, or a shotgun,<lb>
+or any other thing which<lb>
+you correct people with.<lb>
+It's that thing which she<lb>
+twists, &amp; then coils round<lb>
+&amp; round her head, <orig reg="beehive-fashion">beehive-<lb>
+fashion,</orig> &amp; then tucks the end<lb>
+in under the hive &amp; harpoons<lb>
+it with a hairpin.  And that<lb>
+reminds me of a trifle: any<lb>
+<del type="overstrike">time</del> time you want to, you<lb>
+
+   <pb n="11">
+
+<figure entity="Twa1To11">
+<figDesc>
+Image of page 11 of the manuscript.
+</figDesc>
+</figure>
+
+<del type="overstrike"></del>can glance around the<lb>
+carpet of a Pullman<lb>
+car &amp; go &amp; pick up a<lb>
+hairpin; but not to<lb>
+save your life can you<lb>
+get any woman in that<lb>
+car to acknowledge that<lb>
+hairpin.  Now isn't<lb>
+that strange?  But it's<lb>
+true.  The woman who<lb>
+has never swerved from<lb>
+cast-iron veracity &amp; <orig reg="fidelity">fi-<lb>
+delity</orig> in her whole life, will,<lb>
+when confronted with this<lb>
+crucial test, deny her <orig reg="hair-pin">hair-</orig><lb>
+
+   <pb n="12">
+
+<figure entity="Twa1To12">
+<figDesc>
+Image of page 12 of the manuscript.
+</figDesc>
+</figure>
+
+<orig reg="hair-pin">pin.</orig>  She will deny that<lb>
+hairpin before a hundred<lb>
+witnesses.  I have <add place="supralinear">stupidly</add> got<lb>
+into more trouble, &amp; more<lb>
+hot water trying to<lb>
+hunt up the owner<lb>
+of a hairpin in a<lb>
+Pullman car than by<lb>
+any other <orig reg="indiscretion">indiscre-<lb>
+tion</orig> of my life.
+</p>
+
+   <pb n="13">
+
+<p>
+<figure entity="Twa1To13">
+<figDesc>
+Image of page 13 of the manuscript.
+</figDesc>
+</figure>
+</p>
+
+<p>
+     Well, you can see what the <orig reg="daughter">daugh-<lb>
+ter</orig> of civilization is, when she<lb>
+is dressed; &amp; you have seen what<lb>
+the daughter of savagery is<lb>
+when she isn't.  Such is Woman,<lb>
+as to costume.  I come, now,<lb>
+to consider her in her higher &amp;<lb>
+nobler aspects    &mdash;    as <del type="overstrike">sister,</del>
+mother, <del type="overstrike">sweetheart,</del> <del type="overstrike"><add place="supralinear">sister, daughter</add></del> wife, widow,<lb>
+<del type="overstrike">neighbor, poor relation</del> <add place="supralinear">grass-widow,</add> <orig reg="mother-in-law">mother-<lb>
+in-law,</orig> <del type="overstrike">woman's-rights <orig reg="skirmisher">skir-<lb>
+misher,</orig> platform-reader, actress,</del><lb>
+<del type="overstrike"></del> hired girl, <orig reg="telegraph">tele-<lb>
+graph</orig> operator, telephone helloer,<lb>
+<del type="overstrike">store clerk, washer-woman, <orig reg="school-marm">school-<lb>
+marm,</orig> queen,</del> <add place="supralinear">queen,</add> book-agent, <orig reg="wet-nurse">wet-</orig><lb>
+
+   <pb n="14">
+
+<figure entity="Twa1To14">
+<figDesc>
+Image of page 14 of the manuscript.
+</figDesc>
+</figure>
+
+<orig reg="wet-nurse">nurse,</orig> step-mother, boss, <orig reg="professional">pro-<lb>
+fessional</orig> fat woman, <orig reg="professional">pro-<lb>
+fessional</orig> double-headed<lb>
+woman, professional beauty,<lb>
+&amp; so forth &amp; so on.
+</p>
+
+<p>
+     We will simply discuss<lb>
+these few    &mdash;    let the rest of the<lb>
+sex <del type="overstrike">wait</del> <add place="supralinear">tarry in Jericho till we come again.</add>  First in the list, of<lb>
+right, &amp; first in
+
+   <pb n="15">
+
+<figure entity="Twa1To15">
+<figDesc>
+Image of page 15 of the manuscript.
+</figDesc>
+</figure>
+
+our gratitude, comes a woman <add place="supralinear">who    &mdash;   </add> <add place="supralinear">why,</add><lb>
+<del type="overstrike">without whom, I ask you, where<lb>
+would be those priceless treasures<lb>
+without which are all that make<lb>
+our lives worth the living.  Yes,<lb>
+where would be our wives &amp; <orig reg="children">chil-<lb>
+dren</orig> if there hadn't been any<lb>
+mother-in-law?  She    &mdash;    why,</del>
+<del type="overstrike"></del>
+<add place="supralinear">dear me, I've been talking three-quarters of an<lb>
+hour!</add>  I beg a thousand pardons.  But<lb>
+you see, yourselves, that I had a<lb>
 large contract.  I have <orig reg="accomplished">accom- <lb>
-plished</orig> something, anyway: I<lb>  
-have introduced my subject; &amp; if I<lb>  
-had till next Forefather<del type="overstrike">'</del>s' Day, I am<lb>  
-satisfied that I could discuss it as<lb>  
-adequately &amp; appreciatively as a<lb> 
- 
-   <pb n="16">  
- 
-<figure entity="Twa1To16"> 
-<figDesc> 
-Image of page 16 of the manuscript. 
-</figDesc> 
-</figure> 
- 
-so gracious &amp; noble a theme <orig reg="deserves">de-<lb> 
-serves.</orig>  But as the matter stands,<lb>  
-now, let us finish as we began<lb>  
-   &mdash;    &amp; say, without jesting, but with<lb>  
-all sincerity, "Woman    &mdash;    God<lb>  
-bless her!" 
-</p> 
- 
-<closer> 
-<signed rend="center"> 
-Mark Twain<lb> 
-Samuel Langhorne Clemens<lb> 
-</signed> 
+plished</orig> something, anyway: I<lb>
+have introduced my subject; &amp; if I<lb>
+had till next Forefather<del type="overstrike">'</del>s' Day, I am<lb>
+satisfied that I could discuss it as<lb>
+adequately &amp; appreciatively as a<lb>
+
+   <pb n="16">
+
+<figure entity="Twa1To16">
+<figDesc>
+Image of page 16 of the manuscript.
+</figDesc>
+</figure>
+
+so gracious &amp; noble a theme <orig reg="deserves">de-<lb>
+serves.</orig>  But as the matter stands,<lb>
+now, let us finish as we began<lb>
+   &mdash;    &amp; say, without jesting, but with<lb>
+all sincerity, "Woman    &mdash;    God<lb>
+bless her!"
+</p>
+
+<closer>
+<signed rend="center">
+Mark Twain<lb>
+Samuel Langhorne Clemens<lb>
+</signed>
 <dateline><name type="place">Hartford,</name> <date n="91-05-00">May 1891.</date> </dateline>
-</closer> 
- 
- 
-</div1> 
-</body> 
-</text> 
-</TEI.2> 
- 
+</closer>
+
+
+</div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
+</text>
+</TEI.2>

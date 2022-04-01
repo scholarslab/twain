@@ -24,11 +24,11 @@
 </resp>
 <name>
 </name>
-<resp>Creation of machine-readable version: 
+<resp>Creation of machine-readable version:
 </resp>
 <name>Steve Railton
 </name>
-<resp>Conversion to TEI.2-conformant markup: 
+<resp>Conversion to TEI.2-conformant markup:
 </resp>
 <name>J. Nathaniel Goldsmith, University of Virginia Library Electronic Text Center.
 </name>
@@ -95,7 +95,7 @@
 </pubPlace>
 <date>
 </date>
-<idno type="callNo">Source copy consulted: 
+<idno type="callNo">Source copy consulted:
 </idno>
 </publicationStmt>
 <seriesStmt>
@@ -186,8 +186,8 @@
 <div1 type="speech">
 
 <div2 type="editorial comment">
-<p>[<hi>The text below is Fred W. Lorch's composite, from</hi> The Trouble Begins at Eight<hi>.  
-Assembled mainly from newspaper accounts, it represents 
+<p>[<hi>The text below is Fred W. Lorch's composite, from</hi> The Trouble Begins at Eight<hi>.
+Assembled mainly from newspaper accounts, it represents
 the lecture as MT gave it during his 1869-1870 tour of the northeast.</hi>]</p>
 </div2>
 
@@ -629,6 +629,7 @@ believe it--concluded Morgan--although that poor fellow was not gone more than f
 yet that mean company docked him for the loss of time.</p>
 </div2>
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 </text>
 </TEI.2>

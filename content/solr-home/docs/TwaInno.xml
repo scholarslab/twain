@@ -12,15 +12,15 @@
 <!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
 <!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
 <!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
-<!ENTITY TwaInno23 SYSTEM "uva-lib:492360" NDATA uvaHighRes>   
-<!ENTITY TwaInno54 SYSTEM "uva-lib:492361" NDATA uvaHighRes>   
-<!ENTITY TwaInno119 SYSTEM "uva-lib:492362" NDATA uvaHighRes>   
-<!ENTITY TwaInno189 SYSTEM "uva-lib:492363" NDATA uvaHighRes>   
-<!ENTITY TwaInno197 SYSTEM "uva-lib:492364" NDATA uvaHighRes>   
-<!ENTITY TwaInno279 SYSTEM "uva-lib:492365" NDATA uvaHighRes>   
-<!ENTITY TwaInno280 SYSTEM "uva-lib:492366" NDATA uvaHighRes>   
-]> 
- 
+<!ENTITY TwaInno23 SYSTEM "uva-lib:492360" NDATA uvaHighRes>
+<!ENTITY TwaInno54 SYSTEM "uva-lib:492361" NDATA uvaHighRes>
+<!ENTITY TwaInno119 SYSTEM "uva-lib:492362" NDATA uvaHighRes>
+<!ENTITY TwaInno189 SYSTEM "uva-lib:492363" NDATA uvaHighRes>
+<!ENTITY TwaInno197 SYSTEM "uva-lib:492364" NDATA uvaHighRes>
+<!ENTITY TwaInno279 SYSTEM "uva-lib:492365" NDATA uvaHighRes>
+<!ENTITY TwaInno280 SYSTEM "uva-lib:492366" NDATA uvaHighRes>
+]>
+
 <TEI.2 id="TwaInno">
  <teiHeader type="migrated" creator="Etext">
   <fileDesc>
@@ -13817,6 +13817,7 @@
 
 
    </div1>
-  </body>
+  <!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
  </text>
 </TEI.2>

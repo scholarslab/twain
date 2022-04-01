@@ -1,421 +1,421 @@
-<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
-<!NOTATION jpg SYSTEM "JPEG"> 
-<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg> 
-<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
-<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
-<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
-<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
-<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
-]> 
-<TEI.2 id="TwaHowt"> 
-<teiHeader> 
-<fileDesc> 
-<titleStmt> 
-<title>How to Tell a Story [a machine-readable transcription] 
-</title>  
-<author>Twain, Mark, 1835-1910 
-</author>  
-<respStmt> 
-<resp>Creation of machine-readable version:  
-</resp>  
-<name>Stephen Railton 
-</name>  
-<resp>  
-</resp>  
-<name> 
-</name>  
-<resp>Conversion to TEI.2-conformant markup:  
-</resp>  
-<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Jennifer 
+<!DOCTYPE TEI.2 system 'teilite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;
+]>
+<TEI.2 id="TwaHowt">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>How to Tell a Story [a machine-readable transcription]
+</title>
+<author>Twain, Mark, 1835-1910
+</author>
+<respStmt>
+<resp>Creation of machine-readable version:
+</resp>
+<name>Stephen Railton
+</name>
+<resp>
+</resp>
+<name>
+</name>
+<resp>Conversion to TEI.2-conformant markup:
+</resp>
+<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Jennifer
 Easley for the University of Virginia Library Electronic Text Center.
-</name>  
-</respStmt>  
-</titleStmt>  
-<extent>ca. 15 kilobytes  
-</extent>  
-<publicationStmt> 
-<publisher>University of Virginia Library. 
-</publisher>  
-<pubPlace>Charlottesville, Virginia 
-</pubPlace>  
-<idno>Modern English, TwaHowt 
-</idno>  
-<availability> 
-<p>Publicly-accessible 
-</p>  
-<p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html 
-</p>  
-<p> 
-</p>  
-<p> 
-</p>  
-</availability>  
-<date>1997 
-</date>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note> 
-</note>  
-<note> 
-</note>  
-</notesStmt>  
-<sourceDesc> 
-<biblFull> 
-<titleStmt> 
-<title>How to Tell a Story 
-</title>  
-<title level="m"> 
-</title>  
-<author>Mark Twain, pseud. Samuel Langhorne Clemens 
-</author>  
-<respStmt> 
-<resp> 
-</resp>  
-<name> 
-</name>  
-</respStmt>  
-</titleStmt>  
-<editionStmt> 
-<p> 
-</p>  
-</editionStmt>  
-<extent> 
-</extent>  
-<publicationStmt> 
-<publisher> 
-</publisher>  
-<pubPlace> 
-</pubPlace>  
-<date> 
-</date>  
-<idno>Print copy consulted:  
-</idno>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note> 
-</note>  
-<note> 
-</note>  
-</notesStmt>  
-</biblFull>  
-</sourceDesc>  
-</fileDesc>  
-<encodingDesc> 
-<projectDesc> 
-<p>Prepared for the University of Virginia Library Electronic Text Center. 
-</p>  
-</projectDesc>  
-<editorialDecl> 
-<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line. 
-</p>  
-<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
-</p>  
-<p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
-</p>  
-</editorialDecl>  
-<refsDecl> 
-<p> 
-</p>  
-</refsDecl>  
-<classDecl> 
-<taxonomy> 
-<bibl> 
-<title>Library of Congress Subject Headings 
-</title>  
-</bibl>  
-</taxonomy>  
-</classDecl>  
-</encodingDesc>  
-<profileDesc> 
-<creation> 
-<date>1895 
-</date>  
-</creation>  
-<langUsage> 
-<language id="en">English 
-</language>  
-</langUsage>  
-<textClass> 
-<keywords> 
-<term>prose; non-fiction 
-</term>  
-</keywords>  
-<keywords> 
-<term>LCSH 
-</term>  
-</keywords>  
-<keywords> 
-<term type="artist"> 
-</term>  
-<term type="visual work"> 
-</term>  
-<term type="format"> 
-</term>  
-</keywords>  
-</textClass>  
-</profileDesc>  
-<revisionDesc> 
-<change> 
-<date>September, 1997 
-</date>  
-<respStmt> 
-<resp>corrector 
-</resp>  
-<name>Jennifer Easley, Electronic Text Center 
-</name>  
-</respStmt>  
-<item>Added TEI header and tags. 
-</item>  
-</change>  
-</revisionDesc>  
-</teiHeader>  
- 
-<text id="TwaHowtT"> 
- 
-<body> 
- 
-<div1 type="essay"> 
-<head> 
-How to Tell a Story<lb> 
-THE HUMOROUS STORY AN AMERICAN<lb> 
-DEVELOPMENT.--IT'S DIFFERENCE<lb> 
-FROM COMIC AND WITTY STORIES. 
-</head> 
- 
-<div2 type="section"> 
-<head> 
-</head> 
-<p> 
-I do not claim that I can tell a story as it ought to be told. I only 
-claim to know how a story ought to be told, for I have been almost daily 
-in the company of the most expert storytellers for many years. 
-</p><p> 
-There are several kinds of stories, but only one difficult kind--the 
-humorous. I will talk mainly about that one. The humorous story is 
-American, the comic story is English, the witty story is French. The 
-humorous story depends for its effect upon the <hi>manner</hi> of the 
-telling; the comic story and the witty story upon the <hi>matter</hi>. 
-</p><p> 
-The humorous story may be spun out to great length, and may 
-wander around as much as it pleases, and arrive nowhere in 
-particular; but the comic and witty stories must be brief and end with 
-a point. The humorous story bubbles gently along, the others burst. 
-</p><p> 
-The humorous story is strictly a work of art,--high and delicate 
-art,--and only an artist can tell it; but no art is necessary in telling 
-the comic and the witty story; anybody can do it. The art of telling a 
-humorous story--understand, I mean by word of mouth, not print--was 
-created in America, and has remained at home. 
-</p><p> 
-The humorous story is told gravely; the teller does his best to 
-conceal the fact that he even dimly suspects that there is anything 
-funny about it; but the teller of the comic story tells you beforehand 
-that it is one of the funniest things he has ever heard, then tells it 
-with eager delight, and is the first person to laugh when he gets 
-through. And sometimes, if he has had good success, he is so glad and 
-happy that he will repeat the "nub" of it and glance around from face to 
-face, collecting applause, and then repeat it again. It is a pathetic 
-thing to see. 
-</p><p> 
-Very often, of course, the rambling and disjointed humorous story 
-finishes with a nub, point, snapper, or whatever you like to call it. 
-Then the listener must be alert, for in many cases the teller will 
-divert attention from that nub by dropping it in a carefully casual and 
-indifferent way, with the pretense that he does not know it is a nub. 
-</p><p> 
-Artemus Ward used that trick a good deal; then when the belated 
-audience presently caught the joke he would look up with innocent 
-surprise, as if wondering what they had found to laugh at.  Dan Setchell 
-used it before him, Nye and Riley and others use it to-day. 
-</p><p> 
-But the teller of the comic story does not slur the nub; he shouts at 
-you--every time. And when he prints it, in England, France, Germany and 
-Italy, he italicises it, puts some whooping exclamation-points after it, 
-and sometimes explains it in a parenthesis. All of which is very 
-depressing, and makes one want to renounce joking and lead a better 
-life. 
-</p><p> 
-Let me set down an instance of the comic method, using an anecdote 
-which has been popular all over the world for twelve or fifteen hundred 
-years. The teller tells it in this way:  
-</p> 
-</div2> 
- 
-<div2 type="story"> 
-<head>THE WOUNDED SOLDIER</head> 
-<p> 
-In the course of a certain battle a soldier whose leg had been shot 
-off appealed to another soldier who was hurrying by to carry him to the 
-rear, informing him at the same time of the loss which he had sustained; 
-whereupon the generous son of Mars, shouldering the unfortunate, 
-proceeded to carry out his desire. The bullets and cannon-balls were 
-flying in all directions, and presently one of the latter took the 
-wounded man's head off--without, however, his deliverer being aware of 
-it. In no long time he was hailed by an officer, who said: 
-</p><p> 
-"Where are you going with that carcass?" 
-</p><p> 
-"To the rear, sir--he's lost his leg!" 
-</p><p> 
-"His leg, forsooth?" responded the astonished officer; "you mean his 
-head, you booby." 
-</p><p> 
-Whereupon the soldier dispossessed himself of his burden, and stood 
-looking down upon it in great perplexity. At length he said: 
-</p><p> 
-"It is true, sir, just as you have said." Then after a pause he 
-added, "<hi>But he</hi> TOLD <hi>me</hi> IT WAS HIS LEG!!!!!" 
-</p> 
-</div2> 
- 
-<div2 type="section"> 
-<head> 
-</head> 
-<p> 
-Here the narrator bursts into explosion after explosion of thunderous 
-horse-laughter, repeating that nub from time to time through his 
-gaspings and shriekings and suffocatings. 
-</p><p> 
-It takes only a minute and a half to tell that in its comic-story 
-form; and isn't worth the telling, after all. Put into the 
-humorous-story form it takes ten minutes, and is about the funniest 
-thing I have ever listened to--as James Whitcomb Riley tells it. 
-</p><p> 
-He tells it in the character of a dull-witted old farmer who has just 
-heard it for the first time, thinks it unspeakably funny, and is trying 
-to repeat it to a neighbor. But he can't remember it; so he gets it all 
-mixed up and wanders helplessly round and round, putting in tedious 
-details that don't belong in the tale and only retard it; taking them 
-out conscientiously and putting in others that are just as useless; 
-making minor mistakes now and then and stopping to correct them and 
-explain how he came to make them; remembering things which he forgot to 
-put in in their proper place and going back to put them in there; 
-stopping his narrative a good while in order to try to recall the name 
-of the soldier that was hurt, and finally remembering that the soldier's 
-name was not mentioned, and remarking placidly that the name is of no 
-real importance, after all,--and so on, and so on, and so on. 
-</p><p> 
-The teller is innocent and happy and pleased with himself, and has to 
-stop every little while to hold himself in and keep from laughing 
-outright; and does hold in, but his body quakes in a jelly-like way with 
-interior chuckles; and at the end of the ten minutes the audience have 
-laughed until they are exhausted, and the tears are running down their 
-faces. 
-</p><p> 
-The simplicity and innocence and sincerity and unconsciousness of the 
-old farmer are perfectly simulated, and the result is a performance 
-which is thoroughly charming and delicious. This is art--and fine and 
-beautiful, and only a master can compass it; but a machine could tell 
-the other story. 
-</p><p> 
-To string incongruities and absurdities together in a wandering and 
-sometimes purposeless way, and seem innocently unaware that they are 
-absurdities, is the basis of the American art, if my position is 
-correct. Another feature is the slurring of the point. A third is the 
-dropping of a studied remark apparently without knowing it, as if one 
-were thinking aloud. The fourth and last is the pause. 
-</p><p> 
-Artemus Ward dealt in numbers three and four a good deal. He would 
-begin to tell with great animation something which he seemed to think 
-was wonderful; then lose confidence, and after an apparently 
-absent-minded pause add an incongruous remark in a soliloquizing way; 
-and that was the remark intended to explode the mine--and it did. 
-</p><p> 
-For instance, he would say eagerly, excitedly, "I once knew a man in 
-New Zealand who hadn't a tooth in his head"--here his animation would 
-die out; a silent, reflective pause would follow, then he would say 
-dreamily, and as if to himself, "and yet that man could beat a drum 
-better than any man I ever saw." 
-</p><p> 
-The pause is an exceedingly important feature in any kind of story, 
-and a frequently recurring feature, too. It is a dainty thing, and 
-delicate, and also uncertain and treacherous; for it must be exactly the 
-right length--no more and no less--or it fails of its purpose and makes 
-trouble. If the pause is too short the impressive point is passed, and 
-the audience have had time to divine that a surprise is intended--and 
-then you can't surprise them, of course. 
-</p><p> 
-On the platform I used to tell a negro ghost story that had a pause 
-in front of the snapper on the end, and that pause was the most 
-important thing in the whole story. If I got it the right length 
-precisely, I could spring the finishing ejaculation with effect enough 
-to make some impressionable girl deliver a startled little yelp and jump 
-out of her seat--and that was what I was after. This story was called 
-"The Golden Arm," and was told in this fashion. You can practise with it 
-yourself--and mind you look out for the pause and get it right. 
-</p> 
-</div2> 
- 
-<div2 type="story"> 
-<head>THE GOLDEN ARM</head> 
-<p> 
-Once 'pon a time dey wuz a monsus mean man, en he live 'way out in de 
-prairie all 'lone by hisself, 'cep'n he had a wife. En bimeby she died, 
-en he tuck en toted her way out dah in de prairie en buried her. Well, 
-she had a golden arm--all solid gold, fum de shoulder down. He wuz 
-pow'ful mean--pow'ful; en dat night he couldn't sleep, caze he want dat 
-golden arm so bad. 
-</p><p> 
-When it come midnight he couldn't stan' it no mo'; so he git up, he 
-did, en tuck his lantern en shoved out thoo de storm en dug her up en 
-got de golden arm; en he bent his head down 'gin de win', en plowed en 
-plowed en plowed thoo de snow. Den all on a sudden he stop (make a 
-considerable pause here, and look startled, and take a listening 
-attitude) en say: "My <hi>lan'</hi>, what's dat!" 
-</p><p> 
-En he listen--en listen--en de win' say (set your teeth together and 
-imitate the wailing and wheezing singsong of the wind), "Bzzz-z-zzz"--en 
-den, way back yonder what de grave is, he hear a <hi>voice!</hi>--he hear 
-a voice all mix' up in de win'--can't hardly tell 'em 
-'part--"Bzzz-zzz--W-h-o--g-o-t--m-y--g-o-l-d-e-n--<hi>arm?</hi>--zzz--zzz--W-h-o 
-g-o-t m-y g-o-l-d-e-n <hi>arm?</hi>" (You must begin to shiver violently 
-now.) 
-</p><p> 
-En he begin to shiver en shake, en say, "Oh, my! <hi>Oh</hi>, my lan'!" 
-en de win' blow de lantern out, en de snow en sleet blow in his face en 
-mos' choke him, en he start a-plowin' knee-deep toward home mos' dead, 
-he so sk'yerd--en pooty soon he hear de voice agin, en (pause) it 'us 
-comin' <hi>after</hi> him! "Bzzz--zzz--zzz--W-h-o--g-o-t--m-y 
-g-o-l-d-e-n--<hi>arm?</hi>" 
-</p><p> 
-When he git to de pasture he hear it agin--closter now, en 
-a-<hi>comin'!</hi>--a-comin' back dah in de dark en de storm--(repeat the 
-wind and the voice). When he git to de house he rush up-stairs en jump 
-in de bed en kiver up, head and years, en lay dah shiverin' en 
-shakin'--en den way out dah he hear it <hi>again!</hi>--en 
-a-<hi>comin'!</hi> En bimeby he hear (pause--awed, listening 
-attitude)--pat--pat--pat--<hi>hit's a-comin' up-stairs!</hi> Den he hear 
-de latch, en he <hi>know</hi> it's in de room! 
-</p><p> 
-Den pooty soon he know it's a-<hi>stannin' by de bed!</hi> (Pause.) 
-Den--he know it's a--<hi>bendin' down over him</hi>--en he cain't skasely 
-git his breath! Den--den--he seem to feel someth'n <hi>c-o-l-d</hi>, right 
-down 'most agin his head! (Pause.) 
-</p><p> 
-Den de voice say, <hi>right at his 
-year</hi>--"W-h-o--g-o-t--m-y--g-o-l-d-e-n <hi>arm?</hi>" (You must wail it 
-out very plaintively and accusingly; then you stare steadily and 
-impressively into the face of the farthest-gone auditor,--a girl, 
-preferably,--and let that awe-inspiring pause begin to build itself in 
-the deep hush. When it has reached exactly the right length, jump 
-suddenly at that girl and yell, "<hi>You've</hi> got it!" 
-</p><p> 
-If you've got the <hi>pause</hi> right, she'll fetch a dear little yelp 
-and spring right out of her shoes.  But you <hi>must</hi> get the pause 
-right; and you will find it the most troublesome and aggravating and 
-uncertain thing you ever undertook.) 
-</p> 
-</div2> 
-</div1> 
-</body> 
-</text> 
-</TEI.2> 
- 
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes
+</extent>
+<publicationStmt>
+<publisher>University of Virginia Library.
+</publisher>
+<pubPlace>Charlottesville, Virginia
+</pubPlace>
+<idno>Modern English, TwaHowt
+</idno>
+<availability>
+<p>Publicly-accessible
+</p>
+<p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html
+</p>
+<p>
+</p>
+<p>
+</p>
+</availability>
+<date>1997
+</date>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>
+</note>
+<note>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>How to Tell a Story
+</title>
+<title level="m">
+</title>
+<author>Mark Twain, pseud. Samuel Langhorne Clemens
+</author>
+<respStmt>
+<resp>
+</resp>
+<name>
+</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>
+</p>
+</editionStmt>
+<extent>
+</extent>
+<publicationStmt>
+<publisher>
+</publisher>
+<pubPlace>
+</pubPlace>
+<date>
+</date>
+<idno>Print copy consulted:
+</idno>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>
+</note>
+<note>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.
+</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.
+</p>
+<p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.
+</p>
+</editorialDecl>
+<refsDecl>
+<p>
+</p>
+</refsDecl>
+<classDecl>
+<taxonomy>
+<bibl>
+<title>Library of Congress Subject Headings
+</title>
+</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date>1895
+</date>
+</creation>
+<langUsage>
+<language id="en">English
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>prose; non-fiction
+</term>
+</keywords>
+<keywords>
+<term>LCSH
+</term>
+</keywords>
+<keywords>
+<term type="artist">
+</term>
+<term type="visual work">
+</term>
+<term type="format">
+</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>September, 1997
+</date>
+<respStmt>
+<resp>corrector
+</resp>
+<name>Jennifer Easley, Electronic Text Center
+</name>
+</respStmt>
+<item>Added TEI header and tags.
+</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="TwaHowtT">
+
+<body>
+
+<div1 type="essay">
+<head>
+How to Tell a Story<lb>
+THE HUMOROUS STORY AN AMERICAN<lb>
+DEVELOPMENT.--IT'S DIFFERENCE<lb>
+FROM COMIC AND WITTY STORIES.
+</head>
+
+<div2 type="section">
+<head>
+</head>
+<p>
+I do not claim that I can tell a story as it ought to be told. I only
+claim to know how a story ought to be told, for I have been almost daily
+in the company of the most expert storytellers for many years.
+</p><p>
+There are several kinds of stories, but only one difficult kind--the
+humorous. I will talk mainly about that one. The humorous story is
+American, the comic story is English, the witty story is French. The
+humorous story depends for its effect upon the <hi>manner</hi> of the
+telling; the comic story and the witty story upon the <hi>matter</hi>.
+</p><p>
+The humorous story may be spun out to great length, and may
+wander around as much as it pleases, and arrive nowhere in
+particular; but the comic and witty stories must be brief and end with
+a point. The humorous story bubbles gently along, the others burst.
+</p><p>
+The humorous story is strictly a work of art,--high and delicate
+art,--and only an artist can tell it; but no art is necessary in telling
+the comic and the witty story; anybody can do it. The art of telling a
+humorous story--understand, I mean by word of mouth, not print--was
+created in America, and has remained at home.
+</p><p>
+The humorous story is told gravely; the teller does his best to
+conceal the fact that he even dimly suspects that there is anything
+funny about it; but the teller of the comic story tells you beforehand
+that it is one of the funniest things he has ever heard, then tells it
+with eager delight, and is the first person to laugh when he gets
+through. And sometimes, if he has had good success, he is so glad and
+happy that he will repeat the "nub" of it and glance around from face to
+face, collecting applause, and then repeat it again. It is a pathetic
+thing to see.
+</p><p>
+Very often, of course, the rambling and disjointed humorous story
+finishes with a nub, point, snapper, or whatever you like to call it.
+Then the listener must be alert, for in many cases the teller will
+divert attention from that nub by dropping it in a carefully casual and
+indifferent way, with the pretense that he does not know it is a nub.
+</p><p>
+Artemus Ward used that trick a good deal; then when the belated
+audience presently caught the joke he would look up with innocent
+surprise, as if wondering what they had found to laugh at.  Dan Setchell
+used it before him, Nye and Riley and others use it to-day.
+</p><p>
+But the teller of the comic story does not slur the nub; he shouts at
+you--every time. And when he prints it, in England, France, Germany and
+Italy, he italicises it, puts some whooping exclamation-points after it,
+and sometimes explains it in a parenthesis. All of which is very
+depressing, and makes one want to renounce joking and lead a better
+life.
+</p><p>
+Let me set down an instance of the comic method, using an anecdote
+which has been popular all over the world for twelve or fifteen hundred
+years. The teller tells it in this way:
+</p>
+</div2>
+
+<div2 type="story">
+<head>THE WOUNDED SOLDIER</head>
+<p>
+In the course of a certain battle a soldier whose leg had been shot
+off appealed to another soldier who was hurrying by to carry him to the
+rear, informing him at the same time of the loss which he had sustained;
+whereupon the generous son of Mars, shouldering the unfortunate,
+proceeded to carry out his desire. The bullets and cannon-balls were
+flying in all directions, and presently one of the latter took the
+wounded man's head off--without, however, his deliverer being aware of
+it. In no long time he was hailed by an officer, who said:
+</p><p>
+"Where are you going with that carcass?"
+</p><p>
+"To the rear, sir--he's lost his leg!"
+</p><p>
+"His leg, forsooth?" responded the astonished officer; "you mean his
+head, you booby."
+</p><p>
+Whereupon the soldier dispossessed himself of his burden, and stood
+looking down upon it in great perplexity. At length he said:
+</p><p>
+"It is true, sir, just as you have said." Then after a pause he
+added, "<hi>But he</hi> TOLD <hi>me</hi> IT WAS HIS LEG!!!!!"
+</p>
+</div2>
+
+<div2 type="section">
+<head>
+</head>
+<p>
+Here the narrator bursts into explosion after explosion of thunderous
+horse-laughter, repeating that nub from time to time through his
+gaspings and shriekings and suffocatings.
+</p><p>
+It takes only a minute and a half to tell that in its comic-story
+form; and isn't worth the telling, after all. Put into the
+humorous-story form it takes ten minutes, and is about the funniest
+thing I have ever listened to--as James Whitcomb Riley tells it.
+</p><p>
+He tells it in the character of a dull-witted old farmer who has just
+heard it for the first time, thinks it unspeakably funny, and is trying
+to repeat it to a neighbor. But he can't remember it; so he gets it all
+mixed up and wanders helplessly round and round, putting in tedious
+details that don't belong in the tale and only retard it; taking them
+out conscientiously and putting in others that are just as useless;
+making minor mistakes now and then and stopping to correct them and
+explain how he came to make them; remembering things which he forgot to
+put in in their proper place and going back to put them in there;
+stopping his narrative a good while in order to try to recall the name
+of the soldier that was hurt, and finally remembering that the soldier's
+name was not mentioned, and remarking placidly that the name is of no
+real importance, after all,--and so on, and so on, and so on.
+</p><p>
+The teller is innocent and happy and pleased with himself, and has to
+stop every little while to hold himself in and keep from laughing
+outright; and does hold in, but his body quakes in a jelly-like way with
+interior chuckles; and at the end of the ten minutes the audience have
+laughed until they are exhausted, and the tears are running down their
+faces.
+</p><p>
+The simplicity and innocence and sincerity and unconsciousness of the
+old farmer are perfectly simulated, and the result is a performance
+which is thoroughly charming and delicious. This is art--and fine and
+beautiful, and only a master can compass it; but a machine could tell
+the other story.
+</p><p>
+To string incongruities and absurdities together in a wandering and
+sometimes purposeless way, and seem innocently unaware that they are
+absurdities, is the basis of the American art, if my position is
+correct. Another feature is the slurring of the point. A third is the
+dropping of a studied remark apparently without knowing it, as if one
+were thinking aloud. The fourth and last is the pause.
+</p><p>
+Artemus Ward dealt in numbers three and four a good deal. He would
+begin to tell with great animation something which he seemed to think
+was wonderful; then lose confidence, and after an apparently
+absent-minded pause add an incongruous remark in a soliloquizing way;
+and that was the remark intended to explode the mine--and it did.
+</p><p>
+For instance, he would say eagerly, excitedly, "I once knew a man in
+New Zealand who hadn't a tooth in his head"--here his animation would
+die out; a silent, reflective pause would follow, then he would say
+dreamily, and as if to himself, "and yet that man could beat a drum
+better than any man I ever saw."
+</p><p>
+The pause is an exceedingly important feature in any kind of story,
+and a frequently recurring feature, too. It is a dainty thing, and
+delicate, and also uncertain and treacherous; for it must be exactly the
+right length--no more and no less--or it fails of its purpose and makes
+trouble. If the pause is too short the impressive point is passed, and
+the audience have had time to divine that a surprise is intended--and
+then you can't surprise them, of course.
+</p><p>
+On the platform I used to tell a negro ghost story that had a pause
+in front of the snapper on the end, and that pause was the most
+important thing in the whole story. If I got it the right length
+precisely, I could spring the finishing ejaculation with effect enough
+to make some impressionable girl deliver a startled little yelp and jump
+out of her seat--and that was what I was after. This story was called
+"The Golden Arm," and was told in this fashion. You can practise with it
+yourself--and mind you look out for the pause and get it right.
+</p>
+</div2>
+
+<div2 type="story">
+<head>THE GOLDEN ARM</head>
+<p>
+Once 'pon a time dey wuz a monsus mean man, en he live 'way out in de
+prairie all 'lone by hisself, 'cep'n he had a wife. En bimeby she died,
+en he tuck en toted her way out dah in de prairie en buried her. Well,
+she had a golden arm--all solid gold, fum de shoulder down. He wuz
+pow'ful mean--pow'ful; en dat night he couldn't sleep, caze he want dat
+golden arm so bad.
+</p><p>
+When it come midnight he couldn't stan' it no mo'; so he git up, he
+did, en tuck his lantern en shoved out thoo de storm en dug her up en
+got de golden arm; en he bent his head down 'gin de win', en plowed en
+plowed en plowed thoo de snow. Den all on a sudden he stop (make a
+considerable pause here, and look startled, and take a listening
+attitude) en say: "My <hi>lan'</hi>, what's dat!"
+</p><p>
+En he listen--en listen--en de win' say (set your teeth together and
+imitate the wailing and wheezing singsong of the wind), "Bzzz-z-zzz"--en
+den, way back yonder what de grave is, he hear a <hi>voice!</hi>--he hear
+a voice all mix' up in de win'--can't hardly tell 'em
+'part--"Bzzz-zzz--W-h-o--g-o-t--m-y--g-o-l-d-e-n--<hi>arm?</hi>--zzz--zzz--W-h-o
+g-o-t m-y g-o-l-d-e-n <hi>arm?</hi>" (You must begin to shiver violently
+now.)
+</p><p>
+En he begin to shiver en shake, en say, "Oh, my! <hi>Oh</hi>, my lan'!"
+en de win' blow de lantern out, en de snow en sleet blow in his face en
+mos' choke him, en he start a-plowin' knee-deep toward home mos' dead,
+he so sk'yerd--en pooty soon he hear de voice agin, en (pause) it 'us
+comin' <hi>after</hi> him! "Bzzz--zzz--zzz--W-h-o--g-o-t--m-y
+g-o-l-d-e-n--<hi>arm?</hi>"
+</p><p>
+When he git to de pasture he hear it agin--closter now, en
+a-<hi>comin'!</hi>--a-comin' back dah in de dark en de storm--(repeat the
+wind and the voice). When he git to de house he rush up-stairs en jump
+in de bed en kiver up, head and years, en lay dah shiverin' en
+shakin'--en den way out dah he hear it <hi>again!</hi>--en
+a-<hi>comin'!</hi> En bimeby he hear (pause--awed, listening
+attitude)--pat--pat--pat--<hi>hit's a-comin' up-stairs!</hi> Den he hear
+de latch, en he <hi>know</hi> it's in de room!
+</p><p>
+Den pooty soon he know it's a-<hi>stannin' by de bed!</hi> (Pause.)
+Den--he know it's a--<hi>bendin' down over him</hi>--en he cain't skasely
+git his breath! Den--den--he seem to feel someth'n <hi>c-o-l-d</hi>, right
+down 'most agin his head! (Pause.)
+</p><p>
+Den de voice say, <hi>right at his
+year</hi>--"W-h-o--g-o-t--m-y--g-o-l-d-e-n <hi>arm?</hi>" (You must wail it
+out very plaintively and accusingly; then you stare steadily and
+impressively into the face of the farthest-gone auditor,--a girl,
+preferably,--and let that awe-inspiring pause begin to build itself in
+the deep hush. When it has reached exactly the right length, jump
+suddenly at that girl and yell, "<hi>You've</hi> got it!"
+</p><p>
+If you've got the <hi>pause</hi> right, she'll fetch a dear little yelp
+and spring right out of her shoes.  But you <hi>must</hi> get the pause
+right; and you will find it the most troublesome and aggravating and
+uncertain thing you ever undertook.)
+</p>
+</div2>
+</div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
+</text>
+</TEI.2>

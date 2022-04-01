@@ -1,475 +1,475 @@
-<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
-<!NOTATION jpg SYSTEM "JPEG"> 
-<!ENTITY TwaBabi1 SYSTEM "TwaBabi1.jpg" NDATA jpg> 
-<!ENTITY TwaBabi2 SYSTEM "TwaBabi2.jpg" NDATA jpg> 
-<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
-<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
-<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
-<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
-<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
-]> 
-<TEI.2 id="TwaBabi"> 
-<teiHeader> 
-<fileDesc> 
-<titleStmt> 
-<title>The Babies [a machine-readable transcription] 
-</title>  
-<author>Twain, Mark, 1835-1910 
-</author>  
-<respStmt> 
-<resp>Creation of machine-readable version:  
-</resp>  
-<name>Stephen Railton 
-</name>  
-<resp>Creation of digital images:  
-</resp>  
-<name>Stephen Railton 
-</name>  
-<resp>Conversion to TEI.2-conformant markup:  
-</resp>  
-<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Jennifer 
+<!DOCTYPE TEI.2 system 'teilite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY TwaBabi1 SYSTEM "TwaBabi1.jpg" NDATA jpg>
+<!ENTITY TwaBabi2 SYSTEM "TwaBabi2.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;
+]>
+<TEI.2 id="TwaBabi">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Babies [a machine-readable transcription]
+</title>
+<author>Twain, Mark, 1835-1910
+</author>
+<respStmt>
+<resp>Creation of machine-readable version:
+</resp>
+<name>Stephen Railton
+</name>
+<resp>Creation of digital images:
+</resp>
+<name>Stephen Railton
+</name>
+<resp>Conversion to TEI.2-conformant markup:
+</resp>
+<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Jennifer
 Easley for the University of Virginia Library Electronic Text Center.
-</name>  
-</respStmt>  
-</titleStmt>  
-<extent>ca. 20 kilobytes  
-</extent>  
-<publicationStmt> 
-<publisher>University of Virginia Library. 
-</publisher>  
-<pubPlace>Charlottesville, Virginia 
-</pubPlace>  
-<idno>Modern English, TwaBabi</idno>  
-<availability> 
-<p>Publicly-accessible 
-</p>  
-<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html 
-</p>  
-<p> 
-</p>  
-<p> 
-</p>  
-</availability>  
-<date>1997 
-</date>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note> 
-</note>  
-<note> 
-</note>  
-</notesStmt>  
-<sourceDesc> 
-<biblFull> 
-<titleStmt> 
-<title>The Babies 
-</title>  
-<title level="m">Mark Twain's Speeches 
-</title>  
-<author>Mark Twain, pseud. Samuel Langhorne Clemens 
-</author>  
-<respStmt> 
-<resp> 
-</resp>  
-<name> 
-</name>  
-</respStmt>  
-</titleStmt>  
-<editionStmt> 
-<p> 
-</p>  
-</editionStmt>  
-<extent> 
-</extent>  
-<publicationStmt> 
-<publisher>Harper & Brothers 
-</publisher>  
-<pubPlace>New York 
-</pubPlace>  
-<date>1910 
-</date>  
-<idno>Print copy consulted: PS1322.S5 1910  
-</idno>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note> 
-</note>  
-<note> 
-</note>  
-</notesStmt>  
-</biblFull>  
-</sourceDesc>  
-</fileDesc>  
-<encodingDesc> 
-<projectDesc> 
-<p>Prepared for the University of Virginia Library Electronic Text Center. 
-</p>  
-</projectDesc>  
-<editorialDecl> 
-<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line. 
-</p>  
-<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
-</p>  
-<p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
-</p>  
-</editorialDecl>  
-<refsDecl> 
-<p> 
-</p>  
-</refsDecl>  
-<classDecl> 
-<taxonomy> 
-<bibl> 
-<title>Library of Congress Subject Headings 
-</title>  
-</bibl>  
-</taxonomy>  
-</classDecl>  
-</encodingDesc>  
-<profileDesc> 
-<creation> 
-<date>1879 
-</date>  
-</creation>  
-<langUsage> 
-<language id="en">English 
-</language>  
-</langUsage>  
-<textClass> 
-<keywords> 
-<term>prose; non-fiction 
-</term>  
-</keywords>  
-<keywords> 
-<term>LCSH 
-</term>  
-</keywords>  
-<keywords> 
-<term type="artist"> 
-</term>  
-<term type="visual work"> 
-</term>  
-<term type="format"> 
-</term>  
-</keywords>  
-</textClass>  
-</profileDesc>  
-<revisionDesc> 
-<change> 
-<date>September, 1997 
-</date>  
-<respStmt> 
-<resp>corrector 
-</resp>  
-<name>Jennifer Easley, Electronic Text Center 
-</name>  
-</respStmt>  
-<item>Added TEI header and tags. 
-</item>  
-</change>  
-</revisionDesc>  
-</teiHeader>  
- 
-<text id="TwaBabiT"> 
-<front> 
-<div1 type="preface"> 
-<head><hi rend="bold">Breaking Up General Grant</hi></head> 
- 
-<p><hi>Many times MT told his family and friends that he would 
-stop "speechifying" and save the time and energy these performances 
-cost him.  Invariably he went back to the banquet scene for another 
-dose of the elated sense of mastery that he gained whenever a room 
-full of well-dressed notables loved him.  In the fall of 1879 he went 
-all the way to Chicago, to speak at a dinner in Grant's honor, because, 
-he wrote Howells in early October, "My sluggish soul needs a fierce 
-upstirring."  He got it.  To him, the toast he delivered "To the Babies" 
-was his greatest triumph as an after-dinner speaker.</hi> 
-</p><p> 
-<hi>Below is the text of MT's toast, from Paine's edition of his 
-</hi>Speeches<hi>, and a brief account of the context, including 
-MT's written (and ecstatic) accounts of his performance.  The speech was 
-widely reprinted -- it was even reprinted as a pamphlet by "George B. 
-Harfield, chemist," who obviously used it as advertising; this version 
-of text includes [audience reactions].</hi>   
- 
-<figure entity="TwaBabi1"> 
-<head> 
-</head> 
-<figDesc> 
-Image of a reprint of "The Babies" that includes audience reactions.  
-</figDesc> 
-</figure> 
- 
-<hi>The banquet was also widely reported in the papers. The Tribune's 
-coverage of the banquet filled up three pages of the paper. The paper 
-even published a detailed seating chart showing the places assigned 
-to all 500 diners.</hi>  
- 
-<figure entity="TwaBabi2" rend="noinline"> 
-<head> 
-</head> 
-<figDesc> 
-Detail of the seating chart published in The Chicago Tribune on 
-November 14, 1879. 
-</figDesc> 
-</figure> 
- 
-<hi>The raised dais where Grant sat is at the right. MT is listed as "Saml. L. 
-Clemens" and his place is marked in blue.</hi> 
-</p><p> 
-<hi>The account went into equal detail about the lavish menu, which began with 
-"Blue Point Oysters on the Shell" and a "Sauterne," and ended, many courses 
-later, with "Celery," "Coffee," "Cognac," and "Cigars."  The "weary 
-correspondent" stayed until after 2 a.m. to take down in shorthand all 
-fifteen speeches. MT's came last, and was not treated as more 
-newsworthy than most of the rest.</hi> 
-</p><p> 
-<hi>Probably the main emphasis of the Tribune's account was the "Stag" 
-nature of the banquet. It took the reader into the dinner with a long 
-description of "the amusing feature" of "the singular contrast" between 
-"the stern masculinity of the line of banqueters and the almost exclusively 
-feminine character of the groups of spectators who enclosed them on both 
-sides" as they marched into the dining room, from which all women were 
-excluded. "Taken altogether," the reporter said, "the sight was one which 
-would make a woman's-right's advocate boil over with righteous 
-indignation." If someone like Elizabeth Cady Stanton or Susan B. 
-Anthony had been there, "she would have got points enough in ten 
-minutes to supply the basis of half a dozen lectures on the evil and 
-immoral tendency of that vile remnant of barbarism which mars modern 
-civilization under the villainously suggestive name of the 'Stag 
-party.'"</hi> 
-</p><p> 
-<hi>When the account gets to "THE TOASTS," it picks up the theme of male 
-saturnalia: "At 10:45 p.m. Gen. Sherman, the President of the meeting, 
-arose and began the arduous task of quieting the tumult and general 
-conviviality resulting from a superabundance of empty wine glasses and a 
-plentiful supply of cigars."</hi> 
-</p><p> 
-<hi>"Woman" was represented in the hall by the regular toast. After MT 
-turned down the topic, it was assigned to Gen. Thomas C. Fletcher, 
-who began: "The only real magic of nature is the 
-power possessed by a woman over the man who loves her, -- whether it be 
-his mother, his wife, his sister, or his sweetheart." According to this 
-account, the biggest crowd response was produced by this line: "The fires 
-were kept by them bright upon the altar of home for those who 
-never came back. The flag of their country covers their mouldering ashes 
-in the National Cemetery; and the strong fatherly arm of the Government 
-for which they died protects their dear old mother, or their widow, or 
-orphan children; and, comrades, while we live and they live, 
-the Government we fought for shall continue to do so. [Cheers and 
-applause.]"</hi> 
-</p><p> 
-<hi>In the letter he wrote Livy hours after the banquet, MT called 
-Fletcher's performance the "flattest, insipidest, silliest" response 
-to "Woman" he'd ever heard.</hi> 
-</p> 
-</div1> 
- 
-<div1 type="context"> 
-<head> 
-<hi rend="bold">CONTEXT</hi> 
-</head> 
-<p> 
-<hi>When U.S. Grant and his family returned in 1879 from a 
-two-year journey around the world, Chicago decided to throw a huge 
-welcome home party.  It lasted three days, and included a parade 
-with over 80,000 Civil War veterans.  MT attended all the festivities, 
-and his speech felt like the climax of the whole event.  It was the 
-fifteenth and last speech delivered at the banquet at the Palmer House 
-on November 14, the last day of the celebration.  At around 2 a.m. MT 
-stood on a table amidst 500 men who had been eating, drinking and listening 
-to oratory for more than six hours, and gave this toast.  The topic was his 
-own idea.  He'd been asked to respond to "The Ladies," but turned that down as 
-too familiar to his audiences, and proposed "The Babies" instead.</hi> 
-</p><p> 
-<hi>He wrote this to Livy several hours after the event, while the shouts 
-and laughter of the crowd were obviously still ringing in his 
-ears:</hi> 
-</p><p> 
-<q>A little after 5 in the <hi>morning</hi>.</q> 
-</p><p> 
-<q>I've just come to my room, Livy darling, I guess this was the 
-memorable night of my life.  By George, I never was so stirred since I 
-was born.  I heard four speeches which I can never forget.  One by Emory 
-Storrs, one by Gen. Vilas (O, wasn't it wonderful!) one by Gen. Logan 
-(mighty stirring), one by somebody whose name escapes me, and one by 
-that splendid old soul, Col. Bob Ingersoll, -- oh, it was just the 
-supremest combination of English words that was ever put together since 
-the world began.  My soul, how handsome he looked, as he stood on that 
-table, in the midst of those 500 shouting men, and poured the molten 
-silver from his lips!  Lord, what an organ is human speech when it is 
-played by a master!  All these speeches may look dull in print, but how 
-the lightning glared around them when they were uttered, and how the 
-crowd roared in response!  It was a great night, a memorable night.  I 
-am so richly repaid for my journey -- and how I did wish with all my 
-whole heart that you were there to be lifted into the very seventh 
-heaven of enthusiasm, as I was.  The army songs, the military music, the 
-crashing applause -- Lord bless me, it was unspeakable.</q> 
-</p><p> 
-<q>Out of compliment they placed me last in the list -- No. 15 -- I was 
-to "hold the crowd" -- and bless my life I was in awful terror when No. 
-14 rose, at 2 o'clock this morning and killed <hi>all</hi> the enthusiasm 
-by delivering the flattest, insipidest, silliest of all responses to 
-"Woman" that ever a wearied multitude listened to.  Then Gen. Sherman 
-(chairman) announced my toast, and the crowd gave me a good round of 
-applause as I mounted on top of the dinner table, but it was only on 
-account of my name, nothing more -- they were all tired and wretched. 
-They let my first sentence go in silence, till I paused and added "we 
-stand on common ground" -- then they burst forth like a hurricane and I 
-saw that I <hi>had</hi> them!  From that time on, I stopped at the end of 
-each sentence, and let the tornado of applause and laughter sweep around 
-me -- and when I closed with "And if the child is but the prophecy of 
-the man, there are mighty few who will doubt that he succeeded," I say 
-it who oughtn't to say it, the house came down with a crash.  For two 
-hours and a half, now, I've been shaking hands and listening to 
-congratulations.  Gen.  Sherman said, "Lord bless me, my boy, I don't 
-know how you do it -- it's a secret that's beyond me -- but it was great 
--- give me your hand again."</q> 
-</p><p> 
-<q>And do you know, Gen. Grant sat through fourteen speeches like a 
-graven image, but I fetched him!  I broke him up, utterly!  He told me 
-he laughed till the tears came and every bone in his body ached.  (And 
-do you know, the biggest part of the success of the speech lay in the 
-fact that the audience <hi>saw</hi> that for once in his life he had been 
-knocked out of his iron serenity.)</q> 
-</p><p> 
-<q>Bless your soul, 'twas immense.  I was never so proud in my life. 
-Lots and lots of people -- hundreds I might say -- told me my speech was 
-the triumph of the evening -- which was a lie.  Ladies, Tom, Dick and 
-Harry -- even the policemen -- captured me in the halls and shook hands, 
-and scores of army officers said "We shall always be grateful to you for 
-coming."</q> 
-</p><p> 
-<hi>MT was back in Hartford on November 17 when he wrote Howells about 
-the event, but his sense of triumph remained vivid.  He was especially 
-proud of the way he had cracked up Ulysses S. Grant:</hi> 
-</p><p> 
-<q>Grand times, my boy, grand times.  Gen. Grant sat at the banquet like 
-a statue of iron & listened without the faintest suggestion of emotion 
-to fourteen speeches which tore other people all to shreds, but when I 
-lit in with the fifteenth & last, his time was come!  I shook him up 
-like dynamite & he sat there fifteen minutes & laughed & cried like the 
-mortalest of mortals.  But bless you I had measured this unconquerable 
-conqueror, & went at my work with the confidence of conviction, for I 
-knew I could lick him.  He told me he had shaken hands with 15,000 
-people that day & come out of it without an ache or pain, but that my 
-truths had racked all the bones of his body apart.</q> 
-</p> 
-</div1> 
-</front> 
- 
-<body> 
-<div1 type="speech"> 
-<head> 
-<hi rend="bold">TEXT</hi> 
-</head> 
-<p> 
-<hi>The fifteenth regular toast was "The Babies. -- As they comfort us 
-in our sorrows, let us not forget them in our festivities."</hi> 
-</p><p> 
-I LIKE that.  We have not all had the good 
-fortune to be ladies.  We have not all been generals, or poets, or 
-statesmen; but when the toast works down to the babies, we stand on 
-common ground.  It is a shame that for a thousand years the world's 
-banquets have utterly ignored the baby, as if he didn't amount to 
-anything.  If you will stop and think a minute -- if you will go back 
-fifty or one hundred years to your early married life and recontemplate 
-your first baby -- you will remember that he amounted to a good deal, 
-and even something over.  You soldiers all know that when that little 
-fellow arrived at family headquarters you had to hand in your 
-resignation.  He took entire command.  You became his lackey, his mere 
-body-servant, and you had to stand around too.  He was not a commander 
-who made allowances for time, distance, weather, or anything else.  You 
-had to execute his order whether it was possible or not.  And there was 
-only one form of marching in his manual of tactics, and that was the 
-double-quick.  He treated you with every sort of insolence and 
-disrespect, and the bravest of you didn't dare to say a word.  You could 
-face the death-storm at Donelson and Vicksburg, and give back blow for 
-blow; but when he clawed your whiskers, and pulled your hair, and 
-twisted your nose, you had to take it.  When the thunders of war were 
-sounding in your ears you set your faces toward the batteries, and 
-advanced with steady tread; but when he turned on the terrors of his 
-war-whoop, you advanced in the other direction, and mighty glad of the 
-chance, too.  When he called for soothing syrup, did you venture to 
-throw out any side-remarks about certain services being unbecoming an 
-officer and a gentleman?  No.  You got up and <hi>got</hi> it.  When he 
-ordered his pap bottle and it was not warm, did you talk back?  Not you. 
-You went to work and <hi>warmed</hi> it.  You ever descended so far in 
-your menial office as to take a suck at that warm, insipid stuff 
-yourself, to see if it was right -- three parts water to one of milk, a 
-touch of sugar to modify the colic, and a drop of peppermint to kill 
-those immortal hiccoughs.  I can taste that stuff yet.  And how many 
-things you learned as you went along!  Sentimental young folks still 
-take stock in that beautiful saying that when a baby smiles in his 
-sleep, it is because the angels are whispering to him.  Very pretty, but 
-too thin -- simply wind on the stomach, my friends.  If the baby 
-proposed to take a walk at his usual hour, two o'clock in the morning, 
-didn't you rise up promptly and remark, with a mental addition which 
-would not improve a Sunday-school book <hi>much</hi>, that that was the 
-very thing you were about to propose yourself?  Oh! you were under good 
-discipline, and as you went fluttering up and down the room in your 
-undress uniform, you not only prattled undignified baby talk, but even 
-tuned up your martial voices and tried to <hi>sing! -- Rock-a-by Baby in 
-the Tree-top</hi>, for instance.  What a spectacle for an Army of the 
-Tennessee!  And what an affliction for the neighbors, too; for it is not 
-everybody within a mile around that likes military music at three in the 
-morning.  And when you had been keeping this sort of thing up two or 
-three hours, and your little velvet-head intimated that nothing suited 
-him like exercise and noise, what did you do?  You simply <hi>went</hi> on 
-until you dropped in the last ditch.  The idea that a <hi>baby</hi> 
-doesn't <hi>amount</hi> to anything!  Why, <hi>one</hi> baby is just a house 
-and a front yard by itself. <hi>One</hi> baby can furnish more business 
-than you and your whole Interior Department can attend to.  He is 
-enterprising, irrepressible, brimful of lawless activities.  Do what you 
-please, you can't make him stay on the reservation.  Sufficient unto the 
-day is one baby.  As long as you are in your right mind, don't you ever 
-pray for twins.  Twins amount to a permanent riot.  And there ain't any 
-real difference between triplets and an insurrection. 
-</p><p> 
-Yes, it was high time for a toast-master to recognize the importance 
-of the babies.  Think what is in store for the present crop!  Fifty 
-years from now we shall all be dead, I trust, and then this flag, if it 
-still survive (and let us hope it may), will be floating over a Republic 
-numbering 200,000,000 souls, according to the 
-settled laws of our increase.  Our present schooner of State will have 
-grown into a political leviathan -- a <hi>Great Eastern</hi>.  The cradled 
-babies of today will be on deck.  Let them be well trained, for we are 
-going to leave a big contract on their hands.  Among the three or four 
-millions cradles now rocking in the land are some which this nation 
-would preserve for ages as sacred things, if we could know which ones 
-they are.  In one of those cradles the unconscious Farragut of the 
-future is at this moment teething -- think of it! -- and putting in a 
-world of dead earnest, unarticulated, but perfectly justifiable 
-profanity over it, too.  In another the future renowned astronomer is 
-blinking at the shining Milky Way with but a languid interest -- poor 
-little chap! -- and wondering what has become of that other one they 
-call the wet-nurse.  In another the future great historian is lying -- 
-and doubtless will continue to lie until his earthly mission is ended. 
-In another the future President is busying himself with no profounder 
-problem of state than what the mischief has become of his hair so early; 
-and in a mighty array of other cradles there are now some 
-60,000 future office-seekers, getting ready to furnish 
-him with occasion to grapple with that same old problem a second time. 
-And in still one more cradle, somewhere under the flag, the future 
-illustrious commander-in-chief of the American armies is so little 
-burdened with his approaching grandeurs and responsibilities as to be 
-giving his whole strategic mind at this moment to trying to find out 
-some way to get his big toe into his mouth -- an achievement which, 
-meaning no disrespect, the illustrious guest of this evening turned 
-<hi>his</hi> entire attention to some fifty-six years ago; and if the 
-child is but a prophecy of the man, there are mighty few who will doubt 
-that he <hi>succeeded</hi>. 
-</p> 
-</div1> 
-</body> 
-</text> 
-</TEI.2> 
- 
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 20 kilobytes
+</extent>
+<publicationStmt>
+<publisher>University of Virginia Library.
+</publisher>
+<pubPlace>Charlottesville, Virginia
+</pubPlace>
+<idno>Modern English, TwaBabi</idno>
+<availability>
+<p>Publicly-accessible
+</p>
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html
+</p>
+<p>
+</p>
+<p>
+</p>
+</availability>
+<date>1997
+</date>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>
+</note>
+<note>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Babies
+</title>
+<title level="m">Mark Twain's Speeches
+</title>
+<author>Mark Twain, pseud. Samuel Langhorne Clemens
+</author>
+<respStmt>
+<resp>
+</resp>
+<name>
+</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>
+</p>
+</editionStmt>
+<extent>
+</extent>
+<publicationStmt>
+<publisher>Harper & Brothers
+</publisher>
+<pubPlace>New York
+</pubPlace>
+<date>1910
+</date>
+<idno>Print copy consulted: PS1322.S5 1910
+</idno>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>
+</note>
+<note>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.
+</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.
+</p>
+<p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.
+</p>
+</editorialDecl>
+<refsDecl>
+<p>
+</p>
+</refsDecl>
+<classDecl>
+<taxonomy>
+<bibl>
+<title>Library of Congress Subject Headings
+</title>
+</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date>1879
+</date>
+</creation>
+<langUsage>
+<language id="en">English
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>prose; non-fiction
+</term>
+</keywords>
+<keywords>
+<term>LCSH
+</term>
+</keywords>
+<keywords>
+<term type="artist">
+</term>
+<term type="visual work">
+</term>
+<term type="format">
+</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>September, 1997
+</date>
+<respStmt>
+<resp>corrector
+</resp>
+<name>Jennifer Easley, Electronic Text Center
+</name>
+</respStmt>
+<item>Added TEI header and tags.
+</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="TwaBabiT">
+<front>
+<div1 type="preface">
+<head><hi rend="bold">Breaking Up General Grant</hi></head>
+
+<p><hi>Many times MT told his family and friends that he would
+stop "speechifying" and save the time and energy these performances
+cost him.  Invariably he went back to the banquet scene for another
+dose of the elated sense of mastery that he gained whenever a room
+full of well-dressed notables loved him.  In the fall of 1879 he went
+all the way to Chicago, to speak at a dinner in Grant's honor, because,
+he wrote Howells in early October, "My sluggish soul needs a fierce
+upstirring."  He got it.  To him, the toast he delivered "To the Babies"
+was his greatest triumph as an after-dinner speaker.</hi>
+</p><p>
+<hi>Below is the text of MT's toast, from Paine's edition of his
+</hi>Speeches<hi>, and a brief account of the context, including
+MT's written (and ecstatic) accounts of his performance.  The speech was
+widely reprinted -- it was even reprinted as a pamphlet by "George B.
+Harfield, chemist," who obviously used it as advertising; this version
+of text includes [audience reactions].</hi>
+
+<figure entity="TwaBabi1">
+<head>
+</head>
+<figDesc>
+Image of a reprint of "The Babies" that includes audience reactions.
+</figDesc>
+</figure>
+
+<hi>The banquet was also widely reported in the papers. The Tribune's
+coverage of the banquet filled up three pages of the paper. The paper
+even published a detailed seating chart showing the places assigned
+to all 500 diners.</hi>
+
+<figure entity="TwaBabi2" rend="noinline">
+<head>
+</head>
+<figDesc>
+Detail of the seating chart published in The Chicago Tribune on
+November 14, 1879.
+</figDesc>
+</figure>
+
+<hi>The raised dais where Grant sat is at the right. MT is listed as "Saml. L.
+Clemens" and his place is marked in blue.</hi>
+</p><p>
+<hi>The account went into equal detail about the lavish menu, which began with
+"Blue Point Oysters on the Shell" and a "Sauterne," and ended, many courses
+later, with "Celery," "Coffee," "Cognac," and "Cigars."  The "weary
+correspondent" stayed until after 2 a.m. to take down in shorthand all
+fifteen speeches. MT's came last, and was not treated as more
+newsworthy than most of the rest.</hi>
+</p><p>
+<hi>Probably the main emphasis of the Tribune's account was the "Stag"
+nature of the banquet. It took the reader into the dinner with a long
+description of "the amusing feature" of "the singular contrast" between
+"the stern masculinity of the line of banqueters and the almost exclusively
+feminine character of the groups of spectators who enclosed them on both
+sides" as they marched into the dining room, from which all women were
+excluded. "Taken altogether," the reporter said, "the sight was one which
+would make a woman's-right's advocate boil over with righteous
+indignation." If someone like Elizabeth Cady Stanton or Susan B.
+Anthony had been there, "she would have got points enough in ten
+minutes to supply the basis of half a dozen lectures on the evil and
+immoral tendency of that vile remnant of barbarism which mars modern
+civilization under the villainously suggestive name of the 'Stag
+party.'"</hi>
+</p><p>
+<hi>When the account gets to "THE TOASTS," it picks up the theme of male
+saturnalia: "At 10:45 p.m. Gen. Sherman, the President of the meeting,
+arose and began the arduous task of quieting the tumult and general
+conviviality resulting from a superabundance of empty wine glasses and a
+plentiful supply of cigars."</hi>
+</p><p>
+<hi>"Woman" was represented in the hall by the regular toast. After MT
+turned down the topic, it was assigned to Gen. Thomas C. Fletcher,
+who began: "The only real magic of nature is the
+power possessed by a woman over the man who loves her, -- whether it be
+his mother, his wife, his sister, or his sweetheart." According to this
+account, the biggest crowd response was produced by this line: "The fires
+were kept by them bright upon the altar of home for those who
+never came back. The flag of their country covers their mouldering ashes
+in the National Cemetery; and the strong fatherly arm of the Government
+for which they died protects their dear old mother, or their widow, or
+orphan children; and, comrades, while we live and they live,
+the Government we fought for shall continue to do so. [Cheers and
+applause.]"</hi>
+</p><p>
+<hi>In the letter he wrote Livy hours after the banquet, MT called
+Fletcher's performance the "flattest, insipidest, silliest" response
+to "Woman" he'd ever heard.</hi>
+</p>
+</div1>
+
+<div1 type="context">
+<head>
+<hi rend="bold">CONTEXT</hi>
+</head>
+<p>
+<hi>When U.S. Grant and his family returned in 1879 from a
+two-year journey around the world, Chicago decided to throw a huge
+welcome home party.  It lasted three days, and included a parade
+with over 80,000 Civil War veterans.  MT attended all the festivities,
+and his speech felt like the climax of the whole event.  It was the
+fifteenth and last speech delivered at the banquet at the Palmer House
+on November 14, the last day of the celebration.  At around 2 a.m. MT
+stood on a table amidst 500 men who had been eating, drinking and listening
+to oratory for more than six hours, and gave this toast.  The topic was his
+own idea.  He'd been asked to respond to "The Ladies," but turned that down as
+too familiar to his audiences, and proposed "The Babies" instead.</hi>
+</p><p>
+<hi>He wrote this to Livy several hours after the event, while the shouts
+and laughter of the crowd were obviously still ringing in his
+ears:</hi>
+</p><p>
+<q>A little after 5 in the <hi>morning</hi>.</q>
+</p><p>
+<q>I've just come to my room, Livy darling, I guess this was the
+memorable night of my life.  By George, I never was so stirred since I
+was born.  I heard four speeches which I can never forget.  One by Emory
+Storrs, one by Gen. Vilas (O, wasn't it wonderful!) one by Gen. Logan
+(mighty stirring), one by somebody whose name escapes me, and one by
+that splendid old soul, Col. Bob Ingersoll, -- oh, it was just the
+supremest combination of English words that was ever put together since
+the world began.  My soul, how handsome he looked, as he stood on that
+table, in the midst of those 500 shouting men, and poured the molten
+silver from his lips!  Lord, what an organ is human speech when it is
+played by a master!  All these speeches may look dull in print, but how
+the lightning glared around them when they were uttered, and how the
+crowd roared in response!  It was a great night, a memorable night.  I
+am so richly repaid for my journey -- and how I did wish with all my
+whole heart that you were there to be lifted into the very seventh
+heaven of enthusiasm, as I was.  The army songs, the military music, the
+crashing applause -- Lord bless me, it was unspeakable.</q>
+</p><p>
+<q>Out of compliment they placed me last in the list -- No. 15 -- I was
+to "hold the crowd" -- and bless my life I was in awful terror when No.
+14 rose, at 2 o'clock this morning and killed <hi>all</hi> the enthusiasm
+by delivering the flattest, insipidest, silliest of all responses to
+"Woman" that ever a wearied multitude listened to.  Then Gen. Sherman
+(chairman) announced my toast, and the crowd gave me a good round of
+applause as I mounted on top of the dinner table, but it was only on
+account of my name, nothing more -- they were all tired and wretched.
+They let my first sentence go in silence, till I paused and added "we
+stand on common ground" -- then they burst forth like a hurricane and I
+saw that I <hi>had</hi> them!  From that time on, I stopped at the end of
+each sentence, and let the tornado of applause and laughter sweep around
+me -- and when I closed with "And if the child is but the prophecy of
+the man, there are mighty few who will doubt that he succeeded," I say
+it who oughtn't to say it, the house came down with a crash.  For two
+hours and a half, now, I've been shaking hands and listening to
+congratulations.  Gen.  Sherman said, "Lord bless me, my boy, I don't
+know how you do it -- it's a secret that's beyond me -- but it was great
+-- give me your hand again."</q>
+</p><p>
+<q>And do you know, Gen. Grant sat through fourteen speeches like a
+graven image, but I fetched him!  I broke him up, utterly!  He told me
+he laughed till the tears came and every bone in his body ached.  (And
+do you know, the biggest part of the success of the speech lay in the
+fact that the audience <hi>saw</hi> that for once in his life he had been
+knocked out of his iron serenity.)</q>
+</p><p>
+<q>Bless your soul, 'twas immense.  I was never so proud in my life.
+Lots and lots of people -- hundreds I might say -- told me my speech was
+the triumph of the evening -- which was a lie.  Ladies, Tom, Dick and
+Harry -- even the policemen -- captured me in the halls and shook hands,
+and scores of army officers said "We shall always be grateful to you for
+coming."</q>
+</p><p>
+<hi>MT was back in Hartford on November 17 when he wrote Howells about
+the event, but his sense of triumph remained vivid.  He was especially
+proud of the way he had cracked up Ulysses S. Grant:</hi>
+</p><p>
+<q>Grand times, my boy, grand times.  Gen. Grant sat at the banquet like
+a statue of iron & listened without the faintest suggestion of emotion
+to fourteen speeches which tore other people all to shreds, but when I
+lit in with the fifteenth & last, his time was come!  I shook him up
+like dynamite & he sat there fifteen minutes & laughed & cried like the
+mortalest of mortals.  But bless you I had measured this unconquerable
+conqueror, & went at my work with the confidence of conviction, for I
+knew I could lick him.  He told me he had shaken hands with 15,000
+people that day & come out of it without an ache or pain, but that my
+truths had racked all the bones of his body apart.</q>
+</p>
+</div1>
+</front>
+
+<body>
+<div1 type="speech">
+<head>
+<hi rend="bold">TEXT</hi>
+</head>
+<p>
+<hi>The fifteenth regular toast was "The Babies. -- As they comfort us
+in our sorrows, let us not forget them in our festivities."</hi>
+</p><p>
+I LIKE that.  We have not all had the good
+fortune to be ladies.  We have not all been generals, or poets, or
+statesmen; but when the toast works down to the babies, we stand on
+common ground.  It is a shame that for a thousand years the world's
+banquets have utterly ignored the baby, as if he didn't amount to
+anything.  If you will stop and think a minute -- if you will go back
+fifty or one hundred years to your early married life and recontemplate
+your first baby -- you will remember that he amounted to a good deal,
+and even something over.  You soldiers all know that when that little
+fellow arrived at family headquarters you had to hand in your
+resignation.  He took entire command.  You became his lackey, his mere
+body-servant, and you had to stand around too.  He was not a commander
+who made allowances for time, distance, weather, or anything else.  You
+had to execute his order whether it was possible or not.  And there was
+only one form of marching in his manual of tactics, and that was the
+double-quick.  He treated you with every sort of insolence and
+disrespect, and the bravest of you didn't dare to say a word.  You could
+face the death-storm at Donelson and Vicksburg, and give back blow for
+blow; but when he clawed your whiskers, and pulled your hair, and
+twisted your nose, you had to take it.  When the thunders of war were
+sounding in your ears you set your faces toward the batteries, and
+advanced with steady tread; but when he turned on the terrors of his
+war-whoop, you advanced in the other direction, and mighty glad of the
+chance, too.  When he called for soothing syrup, did you venture to
+throw out any side-remarks about certain services being unbecoming an
+officer and a gentleman?  No.  You got up and <hi>got</hi> it.  When he
+ordered his pap bottle and it was not warm, did you talk back?  Not you.
+You went to work and <hi>warmed</hi> it.  You ever descended so far in
+your menial office as to take a suck at that warm, insipid stuff
+yourself, to see if it was right -- three parts water to one of milk, a
+touch of sugar to modify the colic, and a drop of peppermint to kill
+those immortal hiccoughs.  I can taste that stuff yet.  And how many
+things you learned as you went along!  Sentimental young folks still
+take stock in that beautiful saying that when a baby smiles in his
+sleep, it is because the angels are whispering to him.  Very pretty, but
+too thin -- simply wind on the stomach, my friends.  If the baby
+proposed to take a walk at his usual hour, two o'clock in the morning,
+didn't you rise up promptly and remark, with a mental addition which
+would not improve a Sunday-school book <hi>much</hi>, that that was the
+very thing you were about to propose yourself?  Oh! you were under good
+discipline, and as you went fluttering up and down the room in your
+undress uniform, you not only prattled undignified baby talk, but even
+tuned up your martial voices and tried to <hi>sing! -- Rock-a-by Baby in
+the Tree-top</hi>, for instance.  What a spectacle for an Army of the
+Tennessee!  And what an affliction for the neighbors, too; for it is not
+everybody within a mile around that likes military music at three in the
+morning.  And when you had been keeping this sort of thing up two or
+three hours, and your little velvet-head intimated that nothing suited
+him like exercise and noise, what did you do?  You simply <hi>went</hi> on
+until you dropped in the last ditch.  The idea that a <hi>baby</hi>
+doesn't <hi>amount</hi> to anything!  Why, <hi>one</hi> baby is just a house
+and a front yard by itself. <hi>One</hi> baby can furnish more business
+than you and your whole Interior Department can attend to.  He is
+enterprising, irrepressible, brimful of lawless activities.  Do what you
+please, you can't make him stay on the reservation.  Sufficient unto the
+day is one baby.  As long as you are in your right mind, don't you ever
+pray for twins.  Twins amount to a permanent riot.  And there ain't any
+real difference between triplets and an insurrection.
+</p><p>
+Yes, it was high time for a toast-master to recognize the importance
+of the babies.  Think what is in store for the present crop!  Fifty
+years from now we shall all be dead, I trust, and then this flag, if it
+still survive (and let us hope it may), will be floating over a Republic
+numbering 200,000,000 souls, according to the
+settled laws of our increase.  Our present schooner of State will have
+grown into a political leviathan -- a <hi>Great Eastern</hi>.  The cradled
+babies of today will be on deck.  Let them be well trained, for we are
+going to leave a big contract on their hands.  Among the three or four
+millions cradles now rocking in the land are some which this nation
+would preserve for ages as sacred things, if we could know which ones
+they are.  In one of those cradles the unconscious Farragut of the
+future is at this moment teething -- think of it! -- and putting in a
+world of dead earnest, unarticulated, but perfectly justifiable
+profanity over it, too.  In another the future renowned astronomer is
+blinking at the shining Milky Way with but a languid interest -- poor
+little chap! -- and wondering what has become of that other one they
+call the wet-nurse.  In another the future great historian is lying --
+and doubtless will continue to lie until his earthly mission is ended.
+In another the future President is busying himself with no profounder
+problem of state than what the mischief has become of his hair so early;
+and in a mighty array of other cradles there are now some
+60,000 future office-seekers, getting ready to furnish
+him with occasion to grapple with that same old problem a second time.
+And in still one more cradle, somewhere under the flag, the future
+illustrious commander-in-chief of the American armies is so little
+burdened with his approaching grandeurs and responsibilities as to be
+giving his whole strategic mind at this moment to trying to find out
+some way to get his big toe into his mouth -- an achievement which,
+meaning no disrespect, the illustrious guest of this evening turned
+<hi>his</hi> entire attention to some fifty-six years ago; and if the
+child is but a prophecy of the man, there are mighty few who will doubt
+that he <hi>succeeded</hi>.
+</p>
+</div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
+</text>
+</TEI.2>

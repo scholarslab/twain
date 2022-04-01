@@ -469,7 +469,7 @@
  <pb entity="DSSR_000002931_0005" n="Bottom Edge"/>
  <pb entity="DSSR_000002931_0006" n="Front Edge"/>
 
- <div1 type="book-plate" id="d3"> 
+ <div1 type="book-plate" id="d3">
  <pb entity="DSSR_000002931_0007"/>
   <div2 type="article" id="d4">
 
@@ -608,7 +608,7 @@
   <figure entity="DSSR_000002931_0007" rend="block"/>
   Clifton Waller Barrett
  </p>
- 
+
  <pb entity="DSSR_000002931_0008"/>
  <pb entity="DSSR_000002931_0009"/>
  <pb entity="DSSR_000002931_0010"/>
@@ -6303,7 +6303,8 @@ it will do:</p>
 <l>And cold must be mine eyes, and heart, and t&ecirc;te,</l>
 <l rend="indent">When, dear Alabama! they turn cold on thee!</l>
 </lg>
-</div1></body></text></q>
+</div1><!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body></text></q>
 <p>There were very few there who knew what "<hi rend="italic">t&ecirc;te</hi>" meant, but the poem was <lb/>
 very satisfactory, nevertheless.</p>
 <p>Next appeared a dark complexioned, black eyed, black haired young lady, <lb/>
@@ -6330,7 +6331,8 @@ soft was her step, it failed to make even a sound, and but for the magical thril
 genial touch, as other unobtrusive beauties, she would have glided away unperceived&mdash;unsought. <lb/>
 A strange sadness rested upon her features, like icy tears upon the robe of December, as she <lb/>
 pointed to the contending elements without, and bade me contemplate the two beings presented.</p>
-</div1></body></text></q>
+</div1><!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body></text></q>
 <figure id="f97" rend="block" entity="DSSR_000002931_0188">
 <head><hi rend="small-caps">prize authors.</hi></head>
 </figure>
@@ -9200,6 +9202,7 @@ therefore it will be wisest not to reveal any of that part of their lives at pre
 <p><hi rend="small-caps">the end.</hi></p>
 <pb entity="DSSR_000002931_0291"/>
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 <back id="t1-back">
 <div1 type="advertisement" id="d54">

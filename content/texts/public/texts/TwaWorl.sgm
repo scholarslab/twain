@@ -26,11 +26,11 @@
 </resp>
 <name>
 </name>
-<resp>Creation of machine-readable version: 
+<resp>Creation of machine-readable version:
 </resp>
 <name>Steve Railton
 </name>
-<resp>Conversion to TEI.2-conformant markup: 
+<resp>Conversion to TEI.2-conformant markup:
 </resp>
 <name>M. Eleanor Culley, University of Virginia Library Electronic Text Center.
 </name>
@@ -93,7 +93,7 @@
 </pubPlace>
 <date>
 </date>
-<idno type="callNo">Source copy consulted: 
+<idno type="callNo">Source copy consulted:
 </idno>
 </publicationStmt>
 <seriesStmt>
@@ -185,7 +185,7 @@
 Tour," taken down by a reporter for the Cleveland <hi>Plain Dealer</hi>, which printed it 19 July
 1895. It is clearly incomplete -- the introduction to the blue jay story is here, for example, but the
 story itself (usually referred to in accounts of the lectures as "He Bit Off More Than He Could
-Chew") is omitted -- but it provides a clear sense of lecture that MT's American audiences heard.  
+Chew") is omitted -- but it provides a clear sense of lecture that MT's American audiences heard.
 By designing it as a comic version of a sermon, MT could vary it at each performance, though the
 "moral illustrations" he elaborates here were among his most frequently used.  I don't think MT
 himself ever gave it a title.  The one below was supplied by Fred W. Lorch.]</p>
@@ -422,6 +422,7 @@ revolutionizing the morals of the globe as I go round and I wish to say that I h
 the work which I have undertaken.</p>
 
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 </text>
 </TEI.2>

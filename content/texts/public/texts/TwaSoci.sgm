@@ -1,371 +1,371 @@
-<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
-<!NOTATION jpg SYSTEM "JPEG"> 
-<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg> 
-<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
-<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
-<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
-<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
-<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
-]> 
-<TEI.2 id="TwaSoci"> 
-<teiHeader> 
-<fileDesc> 
-<titleStmt> 
-<title>Sociable Jimmy [a machine-readable transcription] 
-</title>  
-<author>Twain, Mark, 1835-1910 
-</author>  
-<respStmt> 
-<resp>Creation of machine-readable version:  
-</resp>  
-<name>Stephen Railton 
-</name>  
-<resp>Conversion to TEI.2-conformant markup:  
-</resp>  
-<name>University of Virginia Library Electronic Text Center. 
-</name>  
-</respStmt>  
-</titleStmt>  
-<extent>ca. 15 kilobytes  
-</extent>  
-<publicationStmt> 
-<publisher>University of Virginia Library. 
-</publisher>  
-<pubPlace>Charlottesville, Va. 
-</pubPlace>  
-<idno>Modern English, TwaSoci 
-</idno>  
-<availability> 
-<p>Publicly-accessible 
-</p>  
-<p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html 
-</p>  
-</availability>  
-<date>1997 
-</date>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note> 
-</note>  
-</notesStmt>  
-<sourceDesc> 
-<biblFull> 
-<titleStmt> 
-<title>Sociable Jimmy 
-</title>  
-<title level="j">The New York Times 
-</title>  
-<author>Mark Twain, pseud. Samuel Langhorne Clemens 
-</author>  
-<respStmt> 
-<resp> 
-</resp>  
-<name> 
-</name>  
-</respStmt>  
-</titleStmt>  
-<editionStmt> 
-<p> 
-</p>  
-</editionStmt>  
-<extent>p. 7 
-</extent>  
-<publicationStmt> 
-<publisher>H.J. Raymond & Co. 
-</publisher>  
-<pubPlace>New York 
-</pubPlace>  
-<date>November 29, 1874 
-</date>  
-<idno>Print copy consulted: UVa Library MicFilm N-US NY-2 
-</idno>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note> 
-</note>  
-</notesStmt>  
-</biblFull>  
-</sourceDesc>  
-</fileDesc>  
-<encodingDesc> 
-<projectDesc> 
-<p>Prepared for the University of Virginia Library Electronic Text Center. 
-</p>  
-</projectDesc>  
-<editorialDecl> 
-<p>All quotation marks retained as data. 
-</p>  
-<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line. 
-</p>  
-<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
-</p>  
-</editorialDecl>  
-<refsDecl> 
-<p> 
-</p> 
-</refsDecl>  
-<classDecl> 
-<taxonomy> 
-<bibl> 
-<title>Library of Congress Subject Headings 
-</title>  
-</bibl>  
-</taxonomy>  
-</classDecl>  
-</encodingDesc>  
-<profileDesc> 
-<creation> 
-<date>1874 
-</date>  
-</creation>  
-<langUsage> 
-<language>English 
-</language>  
-</langUsage>  
-<textClass> 
-<keywords> 
-<term>prose; fiction 
-</term>  
-</keywords>  
-<keywords> 
-<term>LCSH 
-</term>  
-</keywords>  
-<keywords> 
-<term type="artist"> 
-</term>  
-<term type="visual work"> 
-</term>  
-<term type="format"> 
-</term>  
-</keywords>  
-</textClass>  
-</profileDesc>  
-<revisionDesc> 
-<change> 
-<date>June 1997 
-</date>  
-<respStmt> 
-<resp>corrector 
-</resp>  
-<name>Christine Ruotolo 
-</name>  
-</respStmt>  
-<item>Added TEI header and tags. 
-</item>  
-</change>  
-</revisionDesc>  
-</teiHeader>  
- 
-<text id="TwaSociT"> 
-<body> 
- 
- <pb n="7">  
- 
-<div1 type="story"> 
-<head> 
-Sociable Jimmy.<lb> 
-BY MARK TWAIN. 
-</head> 
- 
-<p>[I sent the following home in a private letter some  
-time ago from a certain little village. It was in 
-the days when I was a public lecturer. I did it because  
-I wished to preserve the memory of the 
-most artless, sociable, and exhaustless talker I ever  
-came across. He did not tell me a single 
-remarkable thing, or one that was worth remembering;  
-and yet he was himself so interested in his 
-small marvels, and they flowed so naturally and comfortably  
-from his lips that his talk got the 
-upper hand of my interest, too, and I listened as one who  
-receives a revelation. I took down what 
-he had to say, just as he said it--without  
-altering a word or adding one.] 
- 
-</p><p>I had my supper in my room this evening (as usual),  
-and they sent up a bright, simple, guileless 
-little darky boy to wait on me--ten years old--a wide-eyed,  
-observant little chap. I said: 
- 
-</p><p>"What is your name, my boy?"  
- 
-</p><p>"Dey calls me Jimmy, sah, but my right name's James, sah." 
- 
-</p><p>I said, "Sit down there, Jimmy -- I'll not want you just yet." 
- 
-</p><p>He sat down in a big arm chair, hung both his legs over one  
-of the arms, and looked 
-comfortable and conversational. I said: 
- 
-</p><p>"Did you have a pleasant Christmas, Jimmy?" 
- 
-</p><p>"No, sah -- not zackly. I was kind o' sick den.  
-But de res' o' de people <hi>dey</hi> had a good 
-time -- mos' all uv 'em had a good time. Dey all  
-got drunk. Dey all gits drunk heah, every 
-Christmas, and carries on and has awful good times." 
- 
-</p><p>"So you were sick and lost it all. But unless  
-you were very sick I should think that if 
-you had asked the doctor he might have let you get--get--a  
-<hi>little</hi> drunk--and--" 
- 
-</p><p>"Oh, no, sah--I don' never git drunk--it's de  
-white folks--dem's de ones I mean. Pa 
-used to git drunk, but dat was befo' I was big--but  
-he's done quit. He don' git drunk no mo' now. 
-Jis' takes one sip in de mawnin', now, cuz his stomach  
-riles up, he sleeps so soun'. Jis' one sip--over to  
-de s'loon--every mawnin'. He's powerful sickly--powerful--sometimes  
-he can't hardly git aroun', he can't. He goes to de doctor  
-every week--over to Ragtown. An' one time he tuck 
-some stuff, you know, an' it mighty near <hi>fetched</hi> him.  
-Ain't it dish yer blue vittles dat's pison?--ain't dat  
-it?--truck what you pisons cats wid?" 
- 
-</p><p>"Yes, blue vittles [vitriol] is a very  
-convincing article with a cat." 
- 
-</p><p>"Well, den, dat was it. De ole man, he tuck de  
-bottle and shuck it, and shuck it--he seed it was blue,  
-and he didn't know but it was blue mass, which he tuck  
-mos always--blue mass pills--but den he 'spected maybe  
-dish yer truck might be some other kin' o' blue stuff; and so he 
-sot de bottle down, and drat it if it wa'n't blue vittles, sho'  
-nuf when de doctor come. An' de doctor he say if he'd a  
-tuck dat blue vittles it would a highsted him, sho. People can't be too 
-particlar 'bout sich things. Yes, in<hi>deedy!</hi> 
- 
-</p><p>"We ain't got no cats heah, 'bout dis hotel. Bill he  
-don't like 'em. He can't stan' a cat no 
-way. Ef he was to ketch one he'd slam it outen de winder  
-in a minute. Yes he would. Bill's down 
-on cats. So is de gals -- waiter gals. When dey ketches a 
-cat bummin' aroun' heah, dey jis' <hi>scoops</hi> 
-him--'deed dey do. Dey snake him into de cistern--dey's  
-been cats drownded in dat water dat's in yo' pitcher. I seed a cat  
-in dere yistiddy--all swelled up like a pudd'n. I bet you dem gals done 
-dat. Ma says if dey was to drownd a cat for <hi>her</hi>, de fust one of 'em  
-she ketched she'd jam her into de cistern 'long wid de cat. Ma  
-wouldn't <hi>do</hi> dat, I don't reckon, but 'deed an' double, she <hi>said</hi> she  
-would. I can't kill a chicken -- well, I kin wring its neck off, cuz  
-dat don't make 'em no sufferin' scacely; but I can't take and chop  
-dey heads off, like some people kin. It makes me feel so--so--well,  
-I kin see dat chicken nights so's I can't sleep. Mr. Dunlap, he's de  
-richest man in dis town. Some people says dey's fo' thousan' people  
-in dis town -- dis city. But Bill says dey ain't but 'bout thirty-three  
-hund'd. And Bill he knows, cuz he's lived heah all his life, do' dey <hi>do</hi> say he won't 
-never set de river on fire. I don't know how dey fin' out--<hi>I</hi> wouldn't like  
-to count all dem people. Some folks says dis town would be considerable  
-bigger if it wa'n't on accounts of so much lan' all roun' it dat ain't got  
-no houses on it." [This in perfect seriousness--dense simplicity--no 
-idea of a joke.] "I reckon you seed dat church as you come along up  
-street. Dat's an awful big church--awful high steeple. An' it's all  
-solid stone, excep' jes de top part--de steeple, I means--dat's wood.  
-It falls off when de win' blows pooty hard, an' one time it stuck in a cow's 
-back and busted de cow all to de mischief. It's gwine to kill somebody yit,  
-dat steeple is. A man--big man, he was--bigger'n what Bill is--he tuck it  
-up dere and fixed it again--an' he didn't look no bigger'n a boy, he was  
-so high up. Dat steeple's awful high. If you look out de winder you  
-kin see it." [I looked out, and was speechless with awe and admiration--which  
-gratified Jimmy beyond expression. The wonderful steeple was some sixty  
-or seventy feet high, and had a clock-face on it.] "You see dat arrer on top  
-o' dat steeple? Well, sah, dat arrer is pooty nigh as big as dis do' [door].  
-I seed it when dey pulled it outen de cow. It mus' be awful to stan' in dat steeple when 
-de clock is strikin' -- dey say it is. Booms and jars so's you think the world's a  
-comin' to an end. <hi>I</hi> wouldn't like to be up dere when de clock's a strikin'. Dat  
-clock ain't just a <hi>striker</hi>, like dese common clocks. It's a <hi>bell</hi>--jist a  
-reglar <hi>bell</hi>--and it's a buster. You can hear dat bell all over dis 
-city. You ought to hear it boom, boom, boom, when dey's a fire. My  
-sakes! Dey ain't got no bell like dat in Ragtown. <hi>I</hi> ben to Ragtown, and I  
-ben mos' halfway to Dockery [thirty miles]. De bell in Ragtown's got  
-so old now she don't make no soun' scacely." 
- 
-</p><p>[Enter the landlord--a kindly man, verging toward fifty. My small friend, 
-without changing position, says]: 
- 
-</p><p>"Bill, didn't you say dat dey was only thirty-three hund'd people in dis 
-city?" 
- 
-</p><p>"Yes, about thirty-three hundred is the population now." 
- 
-</p><p>"Well, some folks says dey's fo' thousan'." 
- 
-</p><p>"Yes, I know they do; but it isn't correct." 
- 
-</p><p>"Bill, I don't think this gen'lman kin eat a whole prairie  
-chicken, but de <hi>tole</hi> me to fetch it all up." 
- 
-</p><p>"Yes, that's all right--he ordered it." 
- 
-</p><p>[Exit "Bill," leaving me comfortable; for I had been perishing to know who 
-"Bill" was.] 
- 
-</p><p>"Bill, he's de oldest. And he's de bes', too. Dey's fo'teen  
-in dis fam'ly--all boys an' gals. Bill he suppo'ts 'em  
-all--an' he don' never complain--he's <hi>real</hi> good, Bill is.  
-All dem brothers an' sisters o' his'n ain't no 'count--all  
-ceptin' dat little teeny one dat fetched in dat milk. 
-Dat's Kit, sah. She ain't only nine year ole. But she's  
-de mos' lady-like one in de whole bilin'. You don't never  
-see Kit a-rairin' an' a chargin' aroun' an' kickin' up her  
-heels like de res' o' de gals in dis fam'ly does gen'ally.  
-Dat was Nan dat you hearn a cuttin' dem shines on de pi-anah while 
-ago. An' sometimes ef she don't rastle dat pi-anah when she gits  
-started! <hi>Tab</hi> can't hole a candle to <hi>her</hi>, but Tab kin <hi>sing</hi>  
-like de very nation. She's de only one in dis fam'ly dat can sing. You 
-don't never hear a yelp outen Nan. Nan can't sing for shucks. I'd  
-jes lieves hear a tom-cat dat's got scalded. Dey's fo'teen in  
-dis fam'ly 'sides de ole man and de ole 'ooman--all brothers an'  
-sisters. But some of 'em don't live heah--do' Bill he suppo'ts  
-'em--lends 'em money, an' pays dey debts an' he'ps 'em along.  
-I tell you Bill he's <hi>real</hi> good. Dey all gits drunk--all 'cep  
-Bill. De ole man he gits drunk, too, same as de res' uv 'em.  
-Bob, he don't git drunk much--jes' sloshes roun' de 
-s'loons some, an' takes a dram sometimes. Bob he's  
-next to Bill---bout forty year old. Dey's all married--all  
-de fam'ly's married--cep' some of de gals. Dere's fo'teen.  
-It's de biggest fam'ly in dese parts, dey say. Dere's  
-Bill--Bill Nubbles--Nubbles is de name; Bill, an' Grig,  
-an' Duke, an' Bob, an' Nan, an' Tab, an' Kit, an' Sol,  
-an' Si, an' Phil, an' Puss, an'Jake, an' Sal--Sal she's 
-married an' got chil'en as big as I is--an' Hoss Nubbles,  
-he's de las'. Hoss is what dey mos' always calls him, but  
-he's got another name dat I somehow disremember, it's so  
-kind o' hard to git de hang of it." [Then, observing that  
-I had been taking down the extraordinary list of 
-nicknames for adults, he said]: "But in de mawnin'  
-I can ask Bill what's Hoss's other name, an' den I'll  
-come up an' tell you when I fetches yo' breakfast. An'  
-maybe I done got some o' dem names mixed up, but Bill,  
-he kin tell me. Dey's fo'teen." 
- 
-</p><p>By this time he was starting off with the waiter  
-(and a pecuniary consideration for his sociability), and,  
-as he went out, he paused a moment and said: 
- 
-</p><p>"Dad fetch it, somehow dat other name don't come.  
-But, anyways, you jes read dem names over and see if dey's  
-fo'teen." [I read the list from the flyleaf of Longfellow's <hi>New 
-England Tragedies</hi>.] "Dat's right, sah. Dey's all down. I'll  
-fetch up Hoss's other name in the mawnin', sah. Don't you  
-be oneasy." 
- 
-</p><p>[Exit whistling "Listen to the Mocking Bird."]</p> 
- 
-   
- 
-</div1> 
-</body> 
-</text> 
-</TEI.2> 
- 
+<!DOCTYPE TEI.2 system 'teilite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;
+]>
+<TEI.2 id="TwaSoci">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Sociable Jimmy [a machine-readable transcription]
+</title>
+<author>Twain, Mark, 1835-1910
+</author>
+<respStmt>
+<resp>Creation of machine-readable version:
+</resp>
+<name>Stephen Railton
+</name>
+<resp>Conversion to TEI.2-conformant markup:
+</resp>
+<name>University of Virginia Library Electronic Text Center.
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes
+</extent>
+<publicationStmt>
+<publisher>University of Virginia Library.
+</publisher>
+<pubPlace>Charlottesville, Va.
+</pubPlace>
+<idno>Modern English, TwaSoci
+</idno>
+<availability>
+<p>Publicly-accessible
+</p>
+<p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html
+</p>
+</availability>
+<date>1997
+</date>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>Sociable Jimmy
+</title>
+<title level="j">The New York Times
+</title>
+<author>Mark Twain, pseud. Samuel Langhorne Clemens
+</author>
+<respStmt>
+<resp>
+</resp>
+<name>
+</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>
+</p>
+</editionStmt>
+<extent>p. 7
+</extent>
+<publicationStmt>
+<publisher>H.J. Raymond & Co.
+</publisher>
+<pubPlace>New York
+</pubPlace>
+<date>November 29, 1874
+</date>
+<idno>Print copy consulted: UVa Library MicFilm N-US NY-2
+</idno>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.
+</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.
+</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.
+</p>
+</editorialDecl>
+<refsDecl>
+<p>
+</p>
+</refsDecl>
+<classDecl>
+<taxonomy>
+<bibl>
+<title>Library of Congress Subject Headings
+</title>
+</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date>1874
+</date>
+</creation>
+<langUsage>
+<language>English
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>prose; fiction
+</term>
+</keywords>
+<keywords>
+<term>LCSH
+</term>
+</keywords>
+<keywords>
+<term type="artist">
+</term>
+<term type="visual work">
+</term>
+<term type="format">
+</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>June 1997
+</date>
+<respStmt>
+<resp>corrector
+</resp>
+<name>Christine Ruotolo
+</name>
+</respStmt>
+<item>Added TEI header and tags.
+</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="TwaSociT">
+<body>
+
+ <pb n="7">
+
+<div1 type="story">
+<head>
+Sociable Jimmy.<lb>
+BY MARK TWAIN.
+</head>
+
+<p>[I sent the following home in a private letter some
+time ago from a certain little village. It was in
+the days when I was a public lecturer. I did it because
+I wished to preserve the memory of the
+most artless, sociable, and exhaustless talker I ever
+came across. He did not tell me a single
+remarkable thing, or one that was worth remembering;
+and yet he was himself so interested in his
+small marvels, and they flowed so naturally and comfortably
+from his lips that his talk got the
+upper hand of my interest, too, and I listened as one who
+receives a revelation. I took down what
+he had to say, just as he said it--without
+altering a word or adding one.]
+
+</p><p>I had my supper in my room this evening (as usual),
+and they sent up a bright, simple, guileless
+little darky boy to wait on me--ten years old--a wide-eyed,
+observant little chap. I said:
+
+</p><p>"What is your name, my boy?"
+
+</p><p>"Dey calls me Jimmy, sah, but my right name's James, sah."
+
+</p><p>I said, "Sit down there, Jimmy -- I'll not want you just yet."
+
+</p><p>He sat down in a big arm chair, hung both his legs over one
+of the arms, and looked
+comfortable and conversational. I said:
+
+</p><p>"Did you have a pleasant Christmas, Jimmy?"
+
+</p><p>"No, sah -- not zackly. I was kind o' sick den.
+But de res' o' de people <hi>dey</hi> had a good
+time -- mos' all uv 'em had a good time. Dey all
+got drunk. Dey all gits drunk heah, every
+Christmas, and carries on and has awful good times."
+
+</p><p>"So you were sick and lost it all. But unless
+you were very sick I should think that if
+you had asked the doctor he might have let you get--get--a
+<hi>little</hi> drunk--and--"
+
+</p><p>"Oh, no, sah--I don' never git drunk--it's de
+white folks--dem's de ones I mean. Pa
+used to git drunk, but dat was befo' I was big--but
+he's done quit. He don' git drunk no mo' now.
+Jis' takes one sip in de mawnin', now, cuz his stomach
+riles up, he sleeps so soun'. Jis' one sip--over to
+de s'loon--every mawnin'. He's powerful sickly--powerful--sometimes
+he can't hardly git aroun', he can't. He goes to de doctor
+every week--over to Ragtown. An' one time he tuck
+some stuff, you know, an' it mighty near <hi>fetched</hi> him.
+Ain't it dish yer blue vittles dat's pison?--ain't dat
+it?--truck what you pisons cats wid?"
+
+</p><p>"Yes, blue vittles [vitriol] is a very
+convincing article with a cat."
+
+</p><p>"Well, den, dat was it. De ole man, he tuck de
+bottle and shuck it, and shuck it--he seed it was blue,
+and he didn't know but it was blue mass, which he tuck
+mos always--blue mass pills--but den he 'spected maybe
+dish yer truck might be some other kin' o' blue stuff; and so he
+sot de bottle down, and drat it if it wa'n't blue vittles, sho'
+nuf when de doctor come. An' de doctor he say if he'd a
+tuck dat blue vittles it would a highsted him, sho. People can't be too
+particlar 'bout sich things. Yes, in<hi>deedy!</hi>
+
+</p><p>"We ain't got no cats heah, 'bout dis hotel. Bill he
+don't like 'em. He can't stan' a cat no
+way. Ef he was to ketch one he'd slam it outen de winder
+in a minute. Yes he would. Bill's down
+on cats. So is de gals -- waiter gals. When dey ketches a
+cat bummin' aroun' heah, dey jis' <hi>scoops</hi>
+him--'deed dey do. Dey snake him into de cistern--dey's
+been cats drownded in dat water dat's in yo' pitcher. I seed a cat
+in dere yistiddy--all swelled up like a pudd'n. I bet you dem gals done
+dat. Ma says if dey was to drownd a cat for <hi>her</hi>, de fust one of 'em
+she ketched she'd jam her into de cistern 'long wid de cat. Ma
+wouldn't <hi>do</hi> dat, I don't reckon, but 'deed an' double, she <hi>said</hi> she
+would. I can't kill a chicken -- well, I kin wring its neck off, cuz
+dat don't make 'em no sufferin' scacely; but I can't take and chop
+dey heads off, like some people kin. It makes me feel so--so--well,
+I kin see dat chicken nights so's I can't sleep. Mr. Dunlap, he's de
+richest man in dis town. Some people says dey's fo' thousan' people
+in dis town -- dis city. But Bill says dey ain't but 'bout thirty-three
+hund'd. And Bill he knows, cuz he's lived heah all his life, do' dey <hi>do</hi> say he won't
+never set de river on fire. I don't know how dey fin' out--<hi>I</hi> wouldn't like
+to count all dem people. Some folks says dis town would be considerable
+bigger if it wa'n't on accounts of so much lan' all roun' it dat ain't got
+no houses on it." [This in perfect seriousness--dense simplicity--no
+idea of a joke.] "I reckon you seed dat church as you come along up
+street. Dat's an awful big church--awful high steeple. An' it's all
+solid stone, excep' jes de top part--de steeple, I means--dat's wood.
+It falls off when de win' blows pooty hard, an' one time it stuck in a cow's
+back and busted de cow all to de mischief. It's gwine to kill somebody yit,
+dat steeple is. A man--big man, he was--bigger'n what Bill is--he tuck it
+up dere and fixed it again--an' he didn't look no bigger'n a boy, he was
+so high up. Dat steeple's awful high. If you look out de winder you
+kin see it." [I looked out, and was speechless with awe and admiration--which
+gratified Jimmy beyond expression. The wonderful steeple was some sixty
+or seventy feet high, and had a clock-face on it.] "You see dat arrer on top
+o' dat steeple? Well, sah, dat arrer is pooty nigh as big as dis do' [door].
+I seed it when dey pulled it outen de cow. It mus' be awful to stan' in dat steeple when
+de clock is strikin' -- dey say it is. Booms and jars so's you think the world's a
+comin' to an end. <hi>I</hi> wouldn't like to be up dere when de clock's a strikin'. Dat
+clock ain't just a <hi>striker</hi>, like dese common clocks. It's a <hi>bell</hi>--jist a
+reglar <hi>bell</hi>--and it's a buster. You can hear dat bell all over dis
+city. You ought to hear it boom, boom, boom, when dey's a fire. My
+sakes! Dey ain't got no bell like dat in Ragtown. <hi>I</hi> ben to Ragtown, and I
+ben mos' halfway to Dockery [thirty miles]. De bell in Ragtown's got
+so old now she don't make no soun' scacely."
+
+</p><p>[Enter the landlord--a kindly man, verging toward fifty. My small friend,
+without changing position, says]:
+
+</p><p>"Bill, didn't you say dat dey was only thirty-three hund'd people in dis
+city?"
+
+</p><p>"Yes, about thirty-three hundred is the population now."
+
+</p><p>"Well, some folks says dey's fo' thousan'."
+
+</p><p>"Yes, I know they do; but it isn't correct."
+
+</p><p>"Bill, I don't think this gen'lman kin eat a whole prairie
+chicken, but de <hi>tole</hi> me to fetch it all up."
+
+</p><p>"Yes, that's all right--he ordered it."
+
+</p><p>[Exit "Bill," leaving me comfortable; for I had been perishing to know who
+"Bill" was.]
+
+</p><p>"Bill, he's de oldest. And he's de bes', too. Dey's fo'teen
+in dis fam'ly--all boys an' gals. Bill he suppo'ts 'em
+all--an' he don' never complain--he's <hi>real</hi> good, Bill is.
+All dem brothers an' sisters o' his'n ain't no 'count--all
+ceptin' dat little teeny one dat fetched in dat milk.
+Dat's Kit, sah. She ain't only nine year ole. But she's
+de mos' lady-like one in de whole bilin'. You don't never
+see Kit a-rairin' an' a chargin' aroun' an' kickin' up her
+heels like de res' o' de gals in dis fam'ly does gen'ally.
+Dat was Nan dat you hearn a cuttin' dem shines on de pi-anah while
+ago. An' sometimes ef she don't rastle dat pi-anah when she gits
+started! <hi>Tab</hi> can't hole a candle to <hi>her</hi>, but Tab kin <hi>sing</hi>
+like de very nation. She's de only one in dis fam'ly dat can sing. You
+don't never hear a yelp outen Nan. Nan can't sing for shucks. I'd
+jes lieves hear a tom-cat dat's got scalded. Dey's fo'teen in
+dis fam'ly 'sides de ole man and de ole 'ooman--all brothers an'
+sisters. But some of 'em don't live heah--do' Bill he suppo'ts
+'em--lends 'em money, an' pays dey debts an' he'ps 'em along.
+I tell you Bill he's <hi>real</hi> good. Dey all gits drunk--all 'cep
+Bill. De ole man he gits drunk, too, same as de res' uv 'em.
+Bob, he don't git drunk much--jes' sloshes roun' de
+s'loons some, an' takes a dram sometimes. Bob he's
+next to Bill---bout forty year old. Dey's all married--all
+de fam'ly's married--cep' some of de gals. Dere's fo'teen.
+It's de biggest fam'ly in dese parts, dey say. Dere's
+Bill--Bill Nubbles--Nubbles is de name; Bill, an' Grig,
+an' Duke, an' Bob, an' Nan, an' Tab, an' Kit, an' Sol,
+an' Si, an' Phil, an' Puss, an'Jake, an' Sal--Sal she's
+married an' got chil'en as big as I is--an' Hoss Nubbles,
+he's de las'. Hoss is what dey mos' always calls him, but
+he's got another name dat I somehow disremember, it's so
+kind o' hard to git de hang of it." [Then, observing that
+I had been taking down the extraordinary list of
+nicknames for adults, he said]: "But in de mawnin'
+I can ask Bill what's Hoss's other name, an' den I'll
+come up an' tell you when I fetches yo' breakfast. An'
+maybe I done got some o' dem names mixed up, but Bill,
+he kin tell me. Dey's fo'teen."
+
+</p><p>By this time he was starting off with the waiter
+(and a pecuniary consideration for his sociability), and,
+as he went out, he paused a moment and said:
+
+</p><p>"Dad fetch it, somehow dat other name don't come.
+But, anyways, you jes read dem names over and see if dey's
+fo'teen." [I read the list from the flyleaf of Longfellow's <hi>New
+England Tragedies</hi>.] "Dat's right, sah. Dey's all down. I'll
+fetch up Hoss's other name in the mawnin', sah. Don't you
+be oneasy."
+
+</p><p>[Exit whistling "Listen to the Mocking Bird."]</p>
+
+
+
+</div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
+</text>
+</TEI.2>

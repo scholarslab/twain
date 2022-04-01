@@ -1,10 +1,10 @@
 <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//ELEMENTS TEI Lite XML ver. 1//EN"
                        "http://www.tei-c.org/Lite/DTD/teixlite.dtd" [
-<!ENTITY % ISOlat1 SYSTEM 'http://text.lib.virginia.edu/charent/iso-lat1.ent'> %ISOlat1; 
-<!ENTITY % ISOlat2 SYSTEM 'http://text.lib.virginia.edu/charent/iso-lat2.ent'> %ISOlat2; 
-<!ENTITY % ISOnum SYSTEM 'http://text.lib.virginia.edu/charent/iso-num.ent'> %ISOnum; 
-<!ENTITY % ISOpub SYSTEM 'http://text.lib.virginia.edu/charent/iso-pub.ent'> %ISOpub; 
-<!ENTITY % ISOtech SYSTEM "http://text.lib.virginia.edu/charent/iso-tech.ent"> %ISOtech; 
+<!ENTITY % ISOlat1 SYSTEM 'http://text.lib.virginia.edu/charent/iso-lat1.ent'> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM 'http://text.lib.virginia.edu/charent/iso-lat2.ent'> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM 'http://text.lib.virginia.edu/charent/iso-num.ent'> %ISOnum;
+<!ENTITY % ISOpub SYSTEM 'http://text.lib.virginia.edu/charent/iso-pub.ent'> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "http://text.lib.virginia.edu/charent/iso-tech.ent"> %ISOtech;
 
 <!ENTITY mtobita1 SYSTEM 'http://twain.lib.virginia.edu/sc_as_mt/mtobita1.jpg' NDATA jpeg>
 <!ENTITY mtobitb1 SYSTEM 'http://twain.lib.virginia.edu/sc_as_mt/mtobitb1.jpg' NDATA jpeg>
@@ -12,7 +12,7 @@
 <!ENTITY mtobitd1 SYSTEM 'http://twain.lib.virginia.edu/sc_as_mt/mtobitd1.jpg' NDATA jpeg>
 <!ENTITY mtobite1 SYSTEM 'http://twain.lib.virginia.edu/sc_as_mt/mtobite1.jpg' NDATA jpeg>
 <!ENTITY barrel SYSTEM 'http://twain.lib.virginia.edu/barrel.jpg' NDATA jpeg>
-]> 
+]>
 <TEI.2>
 <teiHeader>
 <fileDesc>
@@ -2922,6 +2922,7 @@ borrow his own phrase, "There is that about the sun that makes us forget its spo
 <lb/><!-- <a href="http://twain.lib.virginia.edu/sc_as_mt/obitmap.html"><img src="2obitmap.jpg"></a> -->
 </p>
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 </text>
-</TEI.2> 
+</TEI.2>

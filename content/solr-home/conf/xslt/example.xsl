@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<!-- 
+<!--
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
  * this work for additional information regarding copyright ownership.
@@ -17,7 +17,7 @@
  * limitations under the License.
  -->
 
-<!-- 
+<!--
   Simple transform of Solr query results to HTML
  -->
 <xsl:stylesheet version='1.0'
@@ -25,9 +25,9 @@
 >
 
   <xsl:output media-type="text/html"/>
-  
+
   <xsl:variable name="title" select="concat('Solr search results (',response/result/@numFound,' documents)')"/>
-  
+
   <xsl:template match='/'>
     <html>
       <head>
@@ -41,10 +41,11 @@
           use your own XSLT to get a nicer page
         </div>
         <xsl:apply-templates select="response/result/doc"/>
-      </body>
+      <!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
     </html>
   </xsl:template>
-  
+
   <xsl:template match="doc">
     <xsl:variable name="pos" select="position()"/>
     <div class="doc">
@@ -110,7 +111,7 @@
   </xsl:template>
 
   <xsl:template match="*"/>
-  
+
   <xsl:template name="css">
     <script>
       function toggle(id) {

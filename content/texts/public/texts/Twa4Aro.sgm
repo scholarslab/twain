@@ -29,11 +29,11 @@
 </resp>
 <name>
 </name>
-<resp>Creation of machine-readable version: 
+<resp>Creation of machine-readable version:
 </resp>
 <name>Steve Railton
 </name>
-<resp>Conversion to TEI.2-conformant markup: 
+<resp>Conversion to TEI.2-conformant markup:
 </resp>
 <name>M. Eleanor Culley, University of Virginia Library Electronic Text Center.
 </name>
@@ -100,7 +100,7 @@
 </pubPlace>
 <date>December 11, 1869
 </date>
-<idno type="callNo">Source copy consulted: 
+<idno type="callNo">Source copy consulted:
 </idno>
 </publicationStmt>
 <seriesStmt>
@@ -264,7 +264,7 @@ That was the only reply.</p>
 He "fetched her out," and they swung their hats and sent up three rousing cheers and a tiger; and
 they crowded around and gazed at her, and touched her dress, and listened to her voice with the
 look of men who listened to a memory rather than a present reality -- and then they collected
-twenty-five hundred dollars in gold and gave it to the man, and swung their hats again and gave 
+twenty-five hundred dollars in gold and gave it to the man, and swung their hats again and gave
 three more cheers, and went home satisfied.</p>
 
 </div2>
@@ -303,7 +303,7 @@ therefore we were glad to see her and to make her welcome.</p>
 <div2 type="section" n="5">
 <head>THE FAMOUS "CEMENT" MINE</head>
 <p>
-It was somewhere in the neighborhood of Mono Lake that the wonderful Whiteman cement mine 
+It was somewhere in the neighborhood of Mono Lake that the wonderful Whiteman cement mine
 was supposed to lie. Every now and then it would be reported that this mysterious Mr. W. had
 passed stealthily through Esmeralda at dead of night, and then we would have a wild excitement
 -- because he must be steering for his secret mine, and now was the time to follow him. In less
@@ -344,10 +344,11 @@ thirteen years. Some people believed he had found it, but most people believed h
 piece of cement as large as my fist which was said to have been given to W. by the young
 German, and it was of rather a seductive nature. Lumps of virgin gold were as thick in it as
 raisins in a slice of fruit cake. The privilege of working such a mine about one week would be
-sufficient for a man of reasonable desire.</p>  
+sufficient for a man of reasonable desire.</p>
 </div2>
 <byline>Mark Twain</byline>
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 </text>
 </TEI.2>

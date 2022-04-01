@@ -1,277 +1,277 @@
-<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
-<!NOTATION jpg SYSTEM "JPEG"> 
-<!ENTITY T670415a SYSTEM "T670415a.jpg" NDATA jpg> 
-<!ENTITY T670415b SYSTEM "T670415b.jpg" NDATA jpg> 
-<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
-<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
-<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
-<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
-<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
-]> 
-<TEI.2 id="Twa7d15"> 
-<teiHeader> 
-<fileDesc> 
-<titleStmt> 
-<title>Letter, Mark Twain, New York, to "Dear Folks" (Jane Clemens et al), 1867 Apr 15 [a machine-readable transcription] 
-</title>  
-<author>Twain, Mark, 1835-1910 
-</author>  
-<respStmt> 
-<resp>Creation of machine-readable version:  
-</resp>  
-<name>Stephen Railton 
-</name>  
-<resp>Creation of digital images:  
-</resp>  
-<name>Special Collections, University of Virginia Library 
-</name>  
-<resp>Conversion to TEI.2-conformant markup:  
-</resp>  
-<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro 
+<!DOCTYPE TEI.2 system 'teilite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY T670415a SYSTEM "T670415a.jpg" NDATA jpg>
+<!ENTITY T670415b SYSTEM "T670415b.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;
+]>
+<TEI.2 id="Twa7d15">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter, Mark Twain, New York, to "Dear Folks" (Jane Clemens et al), 1867 Apr 15 [a machine-readable transcription]
+</title>
+<author>Twain, Mark, 1835-1910
+</author>
+<respStmt>
+<resp>Creation of machine-readable version:
+</resp>
+<name>Stephen Railton
+</name>
+<resp>Creation of digital images:
+</resp>
+<name>Special Collections, University of Virginia Library
+</name>
+<resp>Conversion to TEI.2-conformant markup:
+</resp>
+<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro
 for the University of Virginia Library Electronic Text Center.
-</name>  
-</respStmt>  
-</titleStmt>  
-<extent>ca. 10 kilobytes  
-</extent>  
-<publicationStmt> 
-<publisher>University of Virginia Library. 
-</publisher>  
-<pubPlace>Charlottesville, Va. 
-</pubPlace>  
-<idno type="ETC">Modern English, Twa7d15</idno>  
-<availability> 
-<p>Publicly accessible 
-</p>  
-<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html 
-</p>  
-<p n="public">URL: http://twain.lib.virginia.edu/index2.html 
-</p>  
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 10 kilobytes
+</extent>
+<publicationStmt>
+<publisher>University of Virginia Library.
+</publisher>
+<pubPlace>Charlottesville, Va.
+</pubPlace>
+<idno type="ETC">Modern English, Twa7d15</idno>
+<availability>
+<p>Publicly accessible
+</p>
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html
+</p>
+<p n="public">URL: http://twain.lib.virginia.edu/index2.html
+</p>
 <p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
-</availability>  
-<date>1997 
-</date>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note>Images of the manuscript pages have been included. 
-</note>  
-<note> 
-</note>  
-</notesStmt>  
-<sourceDesc> 
-<biblFull> 
-<titleStmt> 
-<title>Mark Twain, New York, to "Dear Folks" (Jane Clemens et al), 1867 Apr 15 
-</title>  
-<title> 
-</title>  
-<author>Mark Twain, pseud. Samuel Langhorne Clemens 
-</author>  
-<respStmt> 
-<resp> 
-</resp>  
-<name> 
-</name>  
-</respStmt>  
-</titleStmt>  
-<editionStmt> 
-<p> 
-</p>  
-</editionStmt>  
-<extent> 
-</extent>  
-<publicationStmt> 
-<publisher> 
-</publisher>  
-<pubPlace> 
-</pubPlace>  
-<date> 
-</date>  
-<idno>Print copy consulted: Original manuscript in Special Collections, University of Virginia Library: Papers of Mark Twain 1862-1947, bulk 1872-1910; AL [1867] Apr 15 
-</idno>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note>This letter is included in the Papers of Mark Twain Collection in the Clifton W. Barrett Library of American Literature. 
-</note>  
-<note> 
-</note>  
-</notesStmt>  
-</biblFull>  
-</sourceDesc>  
-</fileDesc>  
-<encodingDesc> 
-<projectDesc> 
-<p>Prepared for the University of Virginia Library Electronic Text Center. 
-</p>  
-</projectDesc>  
-<editorialDecl> 
-<p>All quotation marks retained as data. 
-</p>  
-<p>The lineation of the manuscript has been preserved. 
-</p>  
-<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
-</p>  
-<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
-</p>  
-</editorialDecl>  
-<refsDecl> 
-<p> 
-</p>  
-</refsDecl>  
-<classDecl> 
-<taxonomy> 
-<bibl> 
-<title>Library of Congress Subject Headings 
-</title>  
-</bibl>  
-</taxonomy>  
-</classDecl>  
-</encodingDesc>  
-<profileDesc> 
-<creation> 
-<date>1867 
-</date>  
-</creation>  
-<langUsage> 
-<language id="en">English 
-</language>  
-</langUsage>  
-<textClass> 
-<keywords> 
-<term>prose; non-fiction 
-</term>  
-</keywords>  
-<keywords> 
-<term>LCSH 
-</term>  
-</keywords>  
-<keywords> 
-<term> 
-</term>  
-<term> 
-</term>  
-<term type="format">24 bit color; 300 dpi 
-</term>  
-</keywords>  
-</textClass>  
-</profileDesc>  
-<revisionDesc> 
-<change> 
-<date>June 1997 
-</date>  
-<respStmt> 
-<resp>corrector 
-</resp>  
-<name>Lisa Spiro, Electronic Text Center 
-</name>  
-</respStmt>  
-<item>Added TEI header and tags, converted files from HTML to TEI, and re-introduced original lineation.  
-</item>  
-</change>  
-</revisionDesc>  
-</teiHeader>  
- 
-<text id="Twa7d15T"> 
-<body> 
- <pb n="1" id="Tw6704151">  
-<div1 type="letter"> 
-<opener> 
-<seg> 
-<figure entity="T670415a"> 
-<figDesc>Papers of Mark Twain, AL (1867) April 15,  
-Mark Twain, New York, to "Dear Folks"; image of page one of the manuscript.  
-</figDesc> 
-</figure> 
-</seg> 
-<dateline><name type="place">New York,</name>  
-<date n="1867-04-15"><abbr expan="April">Apl.</abbr> 15</date> 
-</dateline> 
- 
-<salute>Dear Folks &mdash; </salute>  
-</opener> 
- 
-<p>I need not have hurried <lb> 
-here so fast, but I didn't know <lb> 
-<hi rend="underline">that</hi>.  All passages had to be <orig reg="secured">se- <lb> 
-cured</orig> &amp; the Twelve hundred &amp; fifty <lb> 
-dollars fare paid in to-day the <lb> 
-15th, for the Holy Land Excursion, <lb> 
-&amp; so I <hi rend="underline">had</hi> to be here I thought &mdash; <lb> 
-but the first man I met this <lb> 
-morning was the chief of the <lb> 
-Alta bureau with a check <lb> 
-for $1,250 in his hand &amp; a <orig reg="telegraphic">tele- <lb> 
-graphic</orig> dispatch from the <lb> 
-proprietors of the Alta <orig reg="saying">say- <lb> 
-ing</orig> "Ship Mark Twain in the <lb> 
-Holy Land Pleasure Excursion <lb> 
-&amp; pay his passage."  So we <lb> 
-just went down &amp; attended to the <lb> 
-matter.  We had to wait awhile, <lb> 
-because the chief manager was <lb> 
-not in &amp; we did not make <orig reg="ourselves">our- <lb> 
-selves</orig> known.  A newspaper <lb> 
-man came in <del>to get</del> & asked <lb> 
-how many names were booked <lb> 
-&amp; what notabilities were going, &amp; <lb> 
- 
- 
-   <pb n="2" id="Tw6704152">  
- 
-<figure entity="T670415b"> 
-<figDesc>Papers of Mark Twain, AL (1867) April 15,  
-Mark Twain, New York, to "Dear Folks"; image of page two of the manuscript. </figDesc> 
-</figure> 
- 
-a fellow (I don't know who he <lb> 
-was, but he seemed to be connected <lb> 
-with the concern,) said "<abbr expan="Lieutenant General">Lt. Gen.</abbr>  
-<orig reg="Sherman">Sher- <lb> 
-man</orig>, Henry Ward Beecher &amp; Mark <lb> 
-Twain are going, &amp; probably <abbr expan="General">Gen.</abbr> <lb> 
-Banks!"  I thought that was very good &mdash; an exceedingly good joke <add place="supralinear">for 
-a poor ignorant clerk.</add></p> 
- 
-<p>When my jolly old Captain <lb>  
-came in, we squared accounts &amp; <lb> 
-then went down to look at the <lb>  
-ship (steamer Quaker City.)  She is <lb> 
-a right stately looking vessel.</p> 
- 
-<p>My book will probably <lb> 
-be in the booksellers' hands in <lb> 
-about two weeks.  After that <lb> 
-I shall lecture.  Since I have <lb> 
-been gone, the boys have gotten <lb> 
-up a "call" on me, signed by about <lb> 
-200 Californians.</p> 
- 
-<p>Don't forget to remember me <lb> 
-to Essie, &amp; "Lou" &amp; all the folks at 1312, <lb> 
-&mdash; &amp; tell my pet, Annie, that I will write <lb> 
-her just as soon as the press of <lb> 
-business is over.  I will write Katie <lb> 
-Lampton, too.</p> 
- 
-<p>Send letters to Metropolitan <lb> 
-Hotel till further instructions.</p> 
- 
-<closer> 
-<salute><abbr expan="Yours affectionately">Yrs affctin</abbr></salute> 
-<signed>Sam.</signed> 
-<seg type="postscript">Scrap-book my letters in Alta.</seg> 
-</closer> 
-</div1> 
-   
-</body> 
-</text> 
-</TEI.2> 
- 
+</availability>
+<date>1997
+</date>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>Images of the manuscript pages have been included.
+</note>
+<note>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>Mark Twain, New York, to "Dear Folks" (Jane Clemens et al), 1867 Apr 15
+</title>
+<title>
+</title>
+<author>Mark Twain, pseud. Samuel Langhorne Clemens
+</author>
+<respStmt>
+<resp>
+</resp>
+<name>
+</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>
+</p>
+</editionStmt>
+<extent>
+</extent>
+<publicationStmt>
+<publisher>
+</publisher>
+<pubPlace>
+</pubPlace>
+<date>
+</date>
+<idno>Print copy consulted: Original manuscript in Special Collections, University of Virginia Library: Papers of Mark Twain 1862-1947, bulk 1872-1910; AL [1867] Apr 15
+</idno>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>This letter is included in the Papers of Mark Twain Collection in the Clifton W. Barrett Library of American Literature.
+</note>
+<note>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.
+</p>
+<p>The lineation of the manuscript has been preserved.
+</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.
+</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.
+</p>
+</editorialDecl>
+<refsDecl>
+<p>
+</p>
+</refsDecl>
+<classDecl>
+<taxonomy>
+<bibl>
+<title>Library of Congress Subject Headings
+</title>
+</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date>1867
+</date>
+</creation>
+<langUsage>
+<language id="en">English
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>prose; non-fiction
+</term>
+</keywords>
+<keywords>
+<term>LCSH
+</term>
+</keywords>
+<keywords>
+<term>
+</term>
+<term>
+</term>
+<term type="format">24 bit color; 300 dpi
+</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>June 1997
+</date>
+<respStmt>
+<resp>corrector
+</resp>
+<name>Lisa Spiro, Electronic Text Center
+</name>
+</respStmt>
+<item>Added TEI header and tags, converted files from HTML to TEI, and re-introduced original lineation.
+</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="Twa7d15T">
+<body>
+ <pb n="1" id="Tw6704151">
+<div1 type="letter">
+<opener>
+<seg>
+<figure entity="T670415a">
+<figDesc>Papers of Mark Twain, AL (1867) April 15,
+Mark Twain, New York, to "Dear Folks"; image of page one of the manuscript.
+</figDesc>
+</figure>
+</seg>
+<dateline><name type="place">New York,</name>
+<date n="1867-04-15"><abbr expan="April">Apl.</abbr> 15</date>
+</dateline>
+
+<salute>Dear Folks &mdash; </salute>
+</opener>
+
+<p>I need not have hurried <lb>
+here so fast, but I didn't know <lb>
+<hi rend="underline">that</hi>.  All passages had to be <orig reg="secured">se- <lb>
+cured</orig> &amp; the Twelve hundred &amp; fifty <lb>
+dollars fare paid in to-day the <lb>
+15th, for the Holy Land Excursion, <lb>
+&amp; so I <hi rend="underline">had</hi> to be here I thought &mdash; <lb>
+but the first man I met this <lb>
+morning was the chief of the <lb>
+Alta bureau with a check <lb>
+for $1,250 in his hand &amp; a <orig reg="telegraphic">tele- <lb>
+graphic</orig> dispatch from the <lb>
+proprietors of the Alta <orig reg="saying">say- <lb>
+ing</orig> "Ship Mark Twain in the <lb>
+Holy Land Pleasure Excursion <lb>
+&amp; pay his passage."  So we <lb>
+just went down &amp; attended to the <lb>
+matter.  We had to wait awhile, <lb>
+because the chief manager was <lb>
+not in &amp; we did not make <orig reg="ourselves">our- <lb>
+selves</orig> known.  A newspaper <lb>
+man came in <del>to get</del> & asked <lb>
+how many names were booked <lb>
+&amp; what notabilities were going, &amp; <lb>
+
+
+   <pb n="2" id="Tw6704152">
+
+<figure entity="T670415b">
+<figDesc>Papers of Mark Twain, AL (1867) April 15,
+Mark Twain, New York, to "Dear Folks"; image of page two of the manuscript. </figDesc>
+</figure>
+
+a fellow (I don't know who he <lb>
+was, but he seemed to be connected <lb>
+with the concern,) said "<abbr expan="Lieutenant General">Lt. Gen.</abbr>
+<orig reg="Sherman">Sher- <lb>
+man</orig>, Henry Ward Beecher &amp; Mark <lb>
+Twain are going, &amp; probably <abbr expan="General">Gen.</abbr> <lb>
+Banks!"  I thought that was very good &mdash; an exceedingly good joke <add place="supralinear">for
+a poor ignorant clerk.</add></p>
+
+<p>When my jolly old Captain <lb>
+came in, we squared accounts &amp; <lb>
+then went down to look at the <lb>
+ship (steamer Quaker City.)  She is <lb>
+a right stately looking vessel.</p>
+
+<p>My book will probably <lb>
+be in the booksellers' hands in <lb>
+about two weeks.  After that <lb>
+I shall lecture.  Since I have <lb>
+been gone, the boys have gotten <lb>
+up a "call" on me, signed by about <lb>
+200 Californians.</p>
+
+<p>Don't forget to remember me <lb>
+to Essie, &amp; "Lou" &amp; all the folks at 1312, <lb>
+&mdash; &amp; tell my pet, Annie, that I will write <lb>
+her just as soon as the press of <lb>
+business is over.  I will write Katie <lb>
+Lampton, too.</p>
+
+<p>Send letters to Metropolitan <lb>
+Hotel till further instructions.</p>
+
+<closer>
+<salute><abbr expan="Yours affectionately">Yrs affctin</abbr></salute>
+<signed>Sam.</signed>
+<seg type="postscript">Scrap-book my letters in Alta.</seg>
+</closer>
+</div1>
+
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
+</text>
+</TEI.2>

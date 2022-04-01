@@ -1,320 +1,319 @@
-<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
-<!NOTATION jpg SYSTEM "JPEG"> 
-<!ENTITY T860726a SYSTEM "T860726a.jpg" NDATA jpg> 
-<!ENTITY T860726b SYSTEM "T860726b.jpg" NDATA jpg> 
-<!ENTITY T860726c SYSTEM "T860726c.jpg" NDATA jpg> 
-<!ENTITY T860726d SYSTEM "T860726d.jpg" NDATA jpg> 
-<!ENTITY T860726e SYSTEM "T860726e.jpg" NDATA jpg> 
-<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
-<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
-<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
-<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
-<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
-]> 
-<TEI.2 id="Twa6g26"> 
-<teiHeader> 
-<fileDesc> 
-<titleStmt> 
-<title>Letter, Mark Twain to Edward Howard House, 1886 Jul 26 [a machine-readable transcription] 
-</title>  
-<author>Twain, Mark, 1835-1910 
-</author>  
-<respStmt> 
-<resp>Creation of machine-readable version:  
-</resp>  
-<name>Stephen Railton  
-</name>  
-<resp>Creation of digital images:  
-</resp>  
-<name>Special Collections, University of Virginia Library 
-</name>  
-<resp>Conversion to TEI.2-conformant markup:  
-</resp>  
-<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro 
+<!DOCTYPE TEI.2 system 'teilite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY T860726a SYSTEM "T860726a.jpg" NDATA jpg>
+<!ENTITY T860726b SYSTEM "T860726b.jpg" NDATA jpg>
+<!ENTITY T860726c SYSTEM "T860726c.jpg" NDATA jpg>
+<!ENTITY T860726d SYSTEM "T860726d.jpg" NDATA jpg>
+<!ENTITY T860726e SYSTEM "T860726e.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;
+]>
+<TEI.2 id="Twa6g26">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter, Mark Twain to Edward Howard House, 1886 Jul 26 [a machine-readable transcription]
+</title>
+<author>Twain, Mark, 1835-1910
+</author>
+<respStmt>
+<resp>Creation of machine-readable version:
+</resp>
+<name>Stephen Railton
+</name>
+<resp>Creation of digital images:
+</resp>
+<name>Special Collections, University of Virginia Library
+</name>
+<resp>Conversion to TEI.2-conformant markup:
+</resp>
+<name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro
 for the University of Virginia Library Electronic Text Center.
-</name>  
-</respStmt>  
-</titleStmt>  
-<extent>ca. 10 kilobytes  
-</extent>  
-<publicationStmt> 
-<publisher>University of Virginia Library. 
-</publisher>  
-<pubPlace>Charlottesville, Va. 
-</pubPlace>  
-<idno type="ETC">Modern English, Twa6g26</idno>  
-<availability> 
-<p>Publicly accessible 
-</p>  
-<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html 
-</p>  
-<p n="public">URL: http://twain.lib.virginia.edu/index2.html 
-</p>  
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 10 kilobytes
+</extent>
+<publicationStmt>
+<publisher>University of Virginia Library.
+</publisher>
+<pubPlace>Charlottesville, Va.
+</pubPlace>
+<idno type="ETC">Modern English, Twa6g26</idno>
+<availability>
+<p>Publicly accessible
+</p>
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengT.browse.html
+</p>
+<p n="public">URL: http://twain.lib.virginia.edu/index2.html
+</p>
 <p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
-</availability>  
-<date>1997 
-</date>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note>Images of the manuscript pages have been included.  
-</note>  
-<note> 
-</note>  
-</notesStmt>  
-<sourceDesc> 
-<biblFull> 
-<titleStmt> 
-<title>Mark Twain to Edward Howard House, 1886 Jul 26 
-</title>  
-<title> 
-</title>  
-<author>Mark Twain, pseud. Samuel Langhorne Clemens  
-</author>  
-<respStmt> 
-<resp> 
-</resp>  
-<name> 
-</name>  
-</respStmt>  
-</titleStmt>  
-<editionStmt> 
-<p> 
-</p>  
-</editionStmt>  
-<extent> 
-</extent>  
-<publicationStmt> 
-<publisher> 
-</publisher>  
-<pubPlace> 
-</pubPlace>  
-<date> 
-</date>  
-<idno>Print copy consulted: Original manuscript in Special Collections, University of Virginia Library: Papers of Mark Twain 1862-1946, bulk 1872-1910; 6314;  
-AL 1886 Jul 26 
-</idno>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note> 
-</note>  
-<note> 
-</note>  
-</notesStmt>  
-</biblFull>  
-</sourceDesc>  
-</fileDesc>  
-<encodingDesc> 
-<projectDesc> 
-<p>Prepared for the University of Virginia Library Electronic Text Center. 
-</p>  
-</projectDesc>  
-<editorialDecl> 
-<p>All quotation marks retained as data. 
-</p>  
-<p>The lineation of the manuscript has been preserved.  
-</p>  
-<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
-</p>  
-<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
-</p>  
-</editorialDecl>  
-<refsDecl> 
-<p> 
-</p>  
-</refsDecl>  
-<classDecl> 
-<taxonomy> 
-<bibl> 
-<title>Library of Congress Subject Headings 
-</title>  
-</bibl>  
-</taxonomy>  
-</classDecl>  
-</encodingDesc>  
-<profileDesc> 
-<creation> 
-<date>1886  
-</date>  
-</creation>  
-<langUsage> 
-<language id="en">English 
-</language>  
-</langUsage>  
-<textClass> 
-<keywords> 
-<term>prose; non-fiction 
-</term>  
-</keywords>  
-<keywords> 
-<term>LCSH 
-</term>  
-</keywords>  
-<keywords> 
-<term> 
-</term>  
-<term> 
-</term>  
-<term type="format">24 bit color; 300 dpi 
-</term>  
-</keywords>  
-</textClass>  
-</profileDesc>  
-<revisionDesc> 
-<change> 
-<date>June 1997 
-</date>  
-<respStmt> 
-<resp>corrector 
-</resp>  
-<name>Lisa Spiro, Electronic Text Center  
-</name>  
-</respStmt>  
-<item>Added TEI header and tags, converted files from HTML to TEI, and re-introduced original lineation. 
-</item>  
-</change>  
-</revisionDesc>  
-</teiHeader>  
- 
-<text id="Twa6g26T"> 
- 
-<front> 
-<div1 type="note"> 
-<p> 
-<figure entity="T860726e"> 
-<figDesc>Papers of Mark Twain, AL 1886 Jul 26, 
-Mark Twain to Edward Howard House; 
-image of page 5.  Annotation, apparently by a collector, identifying the manuscript as "Clemens, S. L.=July 26/88." 
-</figDesc> 
-</figure> 
-</p> 
+</availability>
+<date>1997
+</date>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>Images of the manuscript pages have been included.
+</note>
+<note>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>Mark Twain to Edward Howard House, 1886 Jul 26
+</title>
+<title>
+</title>
+<author>Mark Twain, pseud. Samuel Langhorne Clemens
+</author>
+<respStmt>
+<resp>
+</resp>
+<name>
+</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>
+</p>
+</editionStmt>
+<extent>
+</extent>
+<publicationStmt>
+<publisher>
+</publisher>
+<pubPlace>
+</pubPlace>
+<date>
+</date>
+<idno>Print copy consulted: Original manuscript in Special Collections, University of Virginia Library: Papers of Mark Twain 1862-1946, bulk 1872-1910; 6314;
+AL 1886 Jul 26
+</idno>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>
+</note>
+<note>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.
+</p>
+<p>The lineation of the manuscript has been preserved.
+</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.
+</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.
+</p>
+</editorialDecl>
+<refsDecl>
+<p>
+</p>
+</refsDecl>
+<classDecl>
+<taxonomy>
+<bibl>
+<title>Library of Congress Subject Headings
+</title>
+</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date>1886
+</date>
+</creation>
+<langUsage>
+<language id="en">English
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>prose; non-fiction
+</term>
+</keywords>
+<keywords>
+<term>LCSH
+</term>
+</keywords>
+<keywords>
+<term>
+</term>
+<term>
+</term>
+<term type="format">24 bit color; 300 dpi
+</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>June 1997
+</date>
+<respStmt>
+<resp>corrector
+</resp>
+<name>Lisa Spiro, Electronic Text Center
+</name>
+</respStmt>
+<item>Added TEI header and tags, converted files from HTML to TEI, and re-introduced original lineation.
+</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="Twa6g26T">
+
+<front>
+<div1 type="note">
+<p>
+<figure entity="T860726e">
+<figDesc>Papers of Mark Twain, AL 1886 Jul 26,
+Mark Twain to Edward Howard House;
+image of page 5.  Annotation, apparently by a collector, identifying the manuscript as "Clemens, S. L.=July 26/88."
+</figDesc>
+</figure>
+</p>
 </div1>
-</front> 
-<pb n="1" id="Tw8607261">  
-<body> 
-<div1 type="letter"> 
-<opener> 
-<seg> 
-<figure entity="T860726a"> 
-<figDesc>Papers of Mark Twain, AL 1886 Jul 26,  
-Mark Twain to Edward Howard House; 
-image of page one of the manuscript. 
-</figDesc> 
-</figure> 
-</seg> 
-<dateline> 
-<date n="1886-07-26">Jean's birth-day, July 26/86</date> 
-</dateline> 
-<salute>Dear House &mdash;</salute> 
-</opener> 
- 
-<p>I have come up to the <lb> 
-study to answer you.  Mrs. C. <lb> 
-& I had just read your  
-<add place="supralinear">(no, Koto's)</add> letter. <lb>  
-As I left, I said "What shall I <lb> 
-say for you?"</p>  
- 
-<p>"That I am on my knees."</p>  
- 
-<p>It doesn't wholly express <lb> 
-her shame &amp; sorrow &amp; <orig reg="humiliation">humili- <lb> 
-ation</orig> for forgetting to send those <lb> 
-measurements, but it helps. <lb> 
-Blamed if we don't forget <orig reg="everything"><hi rend="underline">every-</hi> <lb> 
-thing</orig>, it seems to me.  We <lb> 
-<hi rend="underline">live</hi> in shame; &amp; yet are not <lb> 
-hardened.  We feel as sharply <lb> 
- 
-   <pb n="2" id="Tw8607262">  
-<figure entity="T860726b"> 
-<figDesc>Papers of Mark Twain, AL 1886 Jul 26,  
-Mark Twain to Edward Howard House; 
-image of page two of the manuscript. 
-</figDesc> 
-</figure> 
- 
-&amp; blush as red as we used <lb> 
-to do in our earlier days <lb> 
-when we did remember <lb> 
-something now &amp; then. <lb> 
-Koto is a saint &mdash; but we <lb> 
-knew that before; &amp; don't <lb> 
-expect anything but <orig reg="saintliness">saint- <lb> 
-liness</orig> out of her; she is <lb> 
-built that way, &amp; it probably <lb> 
-comes in a manner easy <lb> 
-to her: but how is it <hi rend="underline">you</hi> <lb> 
-don't fly out?  Is the whole <lb> 
-family laying for canonization?</p>  
- 
-<p>Indeed it was a shame <lb> 
-&amp; a pity; but Mrs. Clemens <lb> 
-always has her hands so full <lb> 
-that I always think her <orig reg="excusable">excusa-</orig> <lb> 
- 
-   <pb n="3" id="Tw8607263">  
- 
-<figure entity="T860726c"> 
-<figDesc>Papers of Mark Twain, AL 1886 Jul 26,  
-Mark Twain to Edward Howard House; 
-image of page three of the manuscript. 
-</figDesc> 
-</figure> 
-<orig reg="excusable">ble</orig> when she forgets a thing. <lb> 
-She is the only one in the <lb> 
-tribe who ever does remember.</p>  
- 
-<p>We are hoping the dress <lb> 
-will get here in time, <orig reg="today">to-day</orig>.</p> 
-  
-<p>I didn't forget to send <lb> 
-that lingo-letter; I merely <lb> 
-misunderstood Mrs. Clemens; <lb> 
-I thought she had concluded <lb> 
-to send it herself.  I must <lb> 
-explain that "Tom" is a girl <lb> 
-&mdash; Daisy Warner &mdash; who plays <lb> 
-"Tom Canty" when the children <lb> 
-do the Prince-&amp;-Pauper <lb> 
-private theatricals.  Susy <lb> 
-is rather gushy, but I suppose <lb> 
- 
-   <pb n="4" id="Tw8607264">  
-<figure entity="T860726d"> 
-<figDesc>Papers of Mark Twain, AL 1886 Jul 26, 
-Mark Twain to Edward Howard House; 
-image of page four of the manuscript. 
-</figDesc> 
-</figure> 
- 
-it's the natural thing for 14- <lb> 
-year-olders.  They seem to run <lb> 
-a good deal to italics &amp; <lb> 
-double adjectives; &amp; even <lb> 
-then they appear to think they <lb>  
-have but coldly expressed <lb> 
-themselves.</p>  
- 
-<closer> 
-<salute>Here is love to you <lb> 
-both, from us all, & thanking <lb> 
-you for your fine leniency &mdash; </salute> 
-  
-<signed>SLC <add place="inline">Mark</add></signed> 
- 
-</closer> 
-</div1> 
-   
-</body> 
-</text> 
-</TEI.2> 
- 
- 
+</front>
+<pb n="1" id="Tw8607261">
+<body>
+<div1 type="letter">
+<opener>
+<seg>
+<figure entity="T860726a">
+<figDesc>Papers of Mark Twain, AL 1886 Jul 26,
+Mark Twain to Edward Howard House;
+image of page one of the manuscript.
+</figDesc>
+</figure>
+</seg>
+<dateline>
+<date n="1886-07-26">Jean's birth-day, July 26/86</date>
+</dateline>
+<salute>Dear House &mdash;</salute>
+</opener>
+
+<p>I have come up to the <lb>
+study to answer you.  Mrs. C. <lb>
+& I had just read your
+<add place="supralinear">(no, Koto's)</add> letter. <lb>
+As I left, I said "What shall I <lb>
+say for you?"</p>
+
+<p>"That I am on my knees."</p>
+
+<p>It doesn't wholly express <lb>
+her shame &amp; sorrow &amp; <orig reg="humiliation">humili- <lb>
+ation</orig> for forgetting to send those <lb>
+measurements, but it helps. <lb>
+Blamed if we don't forget <orig reg="everything"><hi rend="underline">every-</hi> <lb>
+thing</orig>, it seems to me.  We <lb>
+<hi rend="underline">live</hi> in shame; &amp; yet are not <lb>
+hardened.  We feel as sharply <lb>
+
+   <pb n="2" id="Tw8607262">
+<figure entity="T860726b">
+<figDesc>Papers of Mark Twain, AL 1886 Jul 26,
+Mark Twain to Edward Howard House;
+image of page two of the manuscript.
+</figDesc>
+</figure>
+
+&amp; blush as red as we used <lb>
+to do in our earlier days <lb>
+when we did remember <lb>
+something now &amp; then. <lb>
+Koto is a saint &mdash; but we <lb>
+knew that before; &amp; don't <lb>
+expect anything but <orig reg="saintliness">saint- <lb>
+liness</orig> out of her; she is <lb>
+built that way, &amp; it probably <lb>
+comes in a manner easy <lb>
+to her: but how is it <hi rend="underline">you</hi> <lb>
+don't fly out?  Is the whole <lb>
+family laying for canonization?</p>
+
+<p>Indeed it was a shame <lb>
+&amp; a pity; but Mrs. Clemens <lb>
+always has her hands so full <lb>
+that I always think her <orig reg="excusable">excusa-</orig> <lb>
+
+   <pb n="3" id="Tw8607263">
+
+<figure entity="T860726c">
+<figDesc>Papers of Mark Twain, AL 1886 Jul 26,
+Mark Twain to Edward Howard House;
+image of page three of the manuscript.
+</figDesc>
+</figure>
+<orig reg="excusable">ble</orig> when she forgets a thing. <lb>
+She is the only one in the <lb>
+tribe who ever does remember.</p>
+
+<p>We are hoping the dress <lb>
+will get here in time, <orig reg="today">to-day</orig>.</p>
+
+<p>I didn't forget to send <lb>
+that lingo-letter; I merely <lb>
+misunderstood Mrs. Clemens; <lb>
+I thought she had concluded <lb>
+to send it herself.  I must <lb>
+explain that "Tom" is a girl <lb>
+&mdash; Daisy Warner &mdash; who plays <lb>
+"Tom Canty" when the children <lb>
+do the Prince-&amp;-Pauper <lb>
+private theatricals.  Susy <lb>
+is rather gushy, but I suppose <lb>
+
+   <pb n="4" id="Tw8607264">
+<figure entity="T860726d">
+<figDesc>Papers of Mark Twain, AL 1886 Jul 26,
+Mark Twain to Edward Howard House;
+image of page four of the manuscript.
+</figDesc>
+</figure>
+
+it's the natural thing for 14- <lb>
+year-olders.  They seem to run <lb>
+a good deal to italics &amp; <lb>
+double adjectives; &amp; even <lb>
+then they appear to think they <lb>
+have but coldly expressed <lb>
+themselves.</p>
+
+<closer>
+<salute>Here is love to you <lb>
+both, from us all, & thanking <lb>
+you for your fine leniency &mdash; </salute>
+
+<signed>SLC <add place="inline">Mark</add></signed>
+
+</closer>
+</div1>
+
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
+</text>
+</TEI.2>

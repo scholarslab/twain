@@ -31,11 +31,11 @@
 </resp>
 <name>
 </name>
-<resp>Creation of machine-readable version: 
+<resp>Creation of machine-readable version:
 </resp>
 <name>Steve Railton
 </name>
-<resp>Conversion to TEI.2-conformant markup: 
+<resp>Conversion to TEI.2-conformant markup:
 </resp>
 <name>M. Eleanor Culley, University of Virginia Library Electronic Text Center.
 </name>
@@ -101,7 +101,7 @@
 </pubPlace>
 <date>December 18, 1869
 </date>
-<idno type="callNo">Source copy consulted: 
+<idno type="callNo">Source copy consulted:
 </idno>
 </publicationStmt>
 <seriesStmt>
@@ -302,7 +302,7 @@ picking and blasting instead of shoveling dirt on the hill side -- every body wa
 shaft instead of scraping the surface. Nothing would do Jim, but <hi>we</hi> must tackle the
 ledges, too, and so we did. We commenced putting down a shaft, and Tom Quartz he begin to
 wonder what in the Dickens it was all about. <hi>He</hi> hadn't ever seen any mining like that
-before, and he was all upset, as you may say he couldn't come to a right understanding of it no 
+before, and he was all upset, as you may say he couldn't come to a right understanding of it no
 way -- it was too many for <hi>him</hi>. He was down on it, too, you bet you-- he was down on it
 powerful -- and always appeared to consider it the cussedest foolishness out. But that cat, you
 know, he was always agin new fangled arrangements -- somehow he never could abide 'em. You
@@ -353,6 +353,7 @@ of his humble friend of other days will always be a vivid memory with me.</p>
 <byline>Mark Twain</byline>
 
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 </text>
 </TEI.2>

@@ -24,11 +24,11 @@
 </resp>
 <name>
 </name>
-<resp>Creation of machine-readable version: 
+<resp>Creation of machine-readable version:
 </resp>
 <name>Steve Railton
 </name>
-<resp>Conversion to TEI.2-conformant markup: 
+<resp>Conversion to TEI.2-conformant markup:
 </resp>
 <name>J. Nathaniel Goldsmith, University of Virginia Library Electronic Text Center.
 </name>
@@ -95,7 +95,7 @@
 </pubPlace>
 <date>
 </date>
-<idno type="callNo">Source copy consulted: 
+<idno type="callNo">Source copy consulted:
 </idno>
 </publicationStmt>
 <seriesStmt>
@@ -209,7 +209,7 @@ endorsement, they would copper it.  (That is a Californian poetical simile; when
 a statement there, they say copper it.)</p>
 
 <p>I want this Sunday School experiment of mine to be a success, now that I have got this
-opening, and so I offer the following splendid prizes to encourage an interest among the public. 
+opening, and so I offer the following splendid prizes to encourage an interest among the public.
 (One has got to turn everything into a lottery now-a-days, to make it popular.  However, there is
 no harm in it maybe, because even the church festivals have their little lottery arrangements, you
 know.)</p>
@@ -249,6 +249,7 @@ separate institution all by itself, and is not connected with any other circus.<
 </closer>
 
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 </text>
 </TEI.2>

@@ -1,365 +1,365 @@
-<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
- 
-<!NOTATION jpg SYSTEM "JPEG"> 
- 
-<!ENTITY TwaBad51 SYSTEM "TwaBad51.jpg" NDATA jpg> 
-<!ENTITY TwaBad52 SYSTEM "TwaBad52.jpg" NDATA jpg> 
-<!ENTITY TwaBad54 SYSTEM "TwaBad54.jpg" NDATA jpg> 
-<!ENTITY TwaBad55 SYSTEM "TwaBad55.jpg" NDATA jpg> 
- 
-<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
-<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
-<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
-<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
-<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
-]> 
- 
-<TEI.2 id="TwaBadl"> 
-<teiHeader> 
-<fileDesc> 
-<titleStmt> 
-<title>Story of the Bad Little Boy [a machine-readable transcription] 
-</title>  
-<author>Twain, Mark, 1835-1910 
-</author>  
-<respStmt> 
-<resp>Creation of machine-readable version:  
-</resp>  
-<name>Stephen Railton 
-</name>  
-<resp>Creation of digital images:  
-</resp>  
-<name>Christine Ruotolo, Electronic Text Center 
-</name>  
-<resp>Conversion to TEI.2-conformant markup:  
-</resp>  
-<name>University of Virginia Library Electronic Text Center. 
-</name>  
-</respStmt>  
-</titleStmt>  
-<extent>ca. 15 kilobytes  
-</extent>  
-<publicationStmt> 
-<publisher>University of Virginia Library. 
-</publisher>  
-<pubPlace>Charlottesville, Va. 
-</pubPlace>  
-<idno>Modern English, TwaBadl 
-</idno>  
-<availability> 
-<p>Publicly-accessible 
-</p>  
-<p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html 
-</p>  
-</availability>  
-<date>1997 
-</date>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p> 
-</seriesStmt>  
-<notesStmt> 
-<note>Illustrations have been included from the 1890 print version in <hi>Sketches, New and Old</hi>. 
-</note>  
-</notesStmt>  
-<sourceDesc> 
-<biblFull> 
-<titleStmt> 
-<title>Story of the Bad Little Boy 
-</title> 
-<title>Mark Twain's Sketches, New and Old. 
-</title>  
-<title level="m"> 
-</title>  
-<author>Mark Twain, pseud. Samuel Langhorne Clemens 
-</author>  
-<respStmt> 
-<resp> 
-</resp>  
-<name> 
-</name>  
-</respStmt>  
-</titleStmt>  
-<editionStmt> 
-<p> 
-</p>  
-</editionStmt>  
-<extent> 
-</extent>  
-<publicationStmt> 
-<publisher>The American Publishing Company 
-</publisher>  
-<pubPlace>Hartford, CT and Chicago, IL 
-</pubPlace>  
-<date>1875 
-</date>  
-<idno>Print copy consulted: Uva Library PS 1319 .A1 1890 
-</idno>  
-</publicationStmt>  
-<seriesStmt> 
-<p> 
-</p>  
-</seriesStmt>  
-<notesStmt> 
-<note> 
-</note> 
-</notesStmt>  
-</biblFull>  
-</sourceDesc>  
-</fileDesc>  
-<encodingDesc> 
-<projectDesc> 
-<p>Prepared for the University of Virginia Library Electronic Text Center. 
-</p>  
-</projectDesc>  
-<editorialDecl> 
-<p>All quotation marks retained as data. 
-</p>  
-<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line. 
-</p>  
-<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
-</p>  
-<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
-</p>  
-</editorialDecl>  
-<refsDecl> 
-<p> 
-</p>  
-</refsDecl>  
-<classDecl> 
-<taxonomy> 
-<bibl> 
-<title>Library of Congress Subject Headings 
-</title>  
-</bibl>  
-</taxonomy>  
-</classDecl>  
-</encodingDesc>  
-<profileDesc> 
-<creation> 
-<date>1865 
-</date>  
-</creation>  
-<langUsage> 
-<language>English 
-</language>  
-</langUsage>  
-<textClass> 
-<keywords> 
-<term>prose; fiction 
-</term>  
+<!DOCTYPE TEI.2 system 'teilite.dtd'[
+
+<!NOTATION jpg SYSTEM "JPEG">
+
+<!ENTITY TwaBad51 SYSTEM "TwaBad51.jpg" NDATA jpg>
+<!ENTITY TwaBad52 SYSTEM "TwaBad52.jpg" NDATA jpg>
+<!ENTITY TwaBad54 SYSTEM "TwaBad54.jpg" NDATA jpg>
+<!ENTITY TwaBad55 SYSTEM "TwaBad55.jpg" NDATA jpg>
+
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;
+]>
+
+<TEI.2 id="TwaBadl">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Story of the Bad Little Boy [a machine-readable transcription]
+</title>
+<author>Twain, Mark, 1835-1910
+</author>
+<respStmt>
+<resp>Creation of machine-readable version:
+</resp>
+<name>Stephen Railton
+</name>
+<resp>Creation of digital images:
+</resp>
+<name>Christine Ruotolo, Electronic Text Center
+</name>
+<resp>Conversion to TEI.2-conformant markup:
+</resp>
+<name>University of Virginia Library Electronic Text Center.
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes
+</extent>
+<publicationStmt>
+<publisher>University of Virginia Library.
+</publisher>
+<pubPlace>Charlottesville, Va.
+</pubPlace>
+<idno>Modern English, TwaBadl
+</idno>
+<availability>
+<p>Publicly-accessible
+</p>
+<p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html
+</p>
+</availability>
+<date>1997
+</date>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>Illustrations have been included from the 1890 print version in <hi>Sketches, New and Old</hi>.
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>Story of the Bad Little Boy
+</title>
+<title>Mark Twain's Sketches, New and Old.
+</title>
+<title level="m">
+</title>
+<author>Mark Twain, pseud. Samuel Langhorne Clemens
+</author>
+<respStmt>
+<resp>
+</resp>
+<name>
+</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>
+</p>
+</editionStmt>
+<extent>
+</extent>
+<publicationStmt>
+<publisher>The American Publishing Company
+</publisher>
+<pubPlace>Hartford, CT and Chicago, IL
+</pubPlace>
+<date>1875
+</date>
+<idno>Print copy consulted: Uva Library PS 1319 .A1 1890
+</idno>
+</publicationStmt>
+<seriesStmt>
+<p>
+</p>
+</seriesStmt>
+<notesStmt>
+<note>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.
+</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.
+</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.
+</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.
+</p>
+</editorialDecl>
+<refsDecl>
+<p>
+</p>
+</refsDecl>
+<classDecl>
+<taxonomy>
+<bibl>
+<title>Library of Congress Subject Headings
+</title>
+</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date>1865
+</date>
+</creation>
+<langUsage>
+<language>English
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>prose; fiction
+</term>
 <term>Young Readers</term>
-</keywords>  
-<keywords> 
-<term>LCSH 
-</term>  
-</keywords>  
-<keywords> 
-<term type="artist">True Williams 
-</term>  
-<term type="visual work">illustrations 
-</term>  
-<term type="format">24-bit; 400 dpi 
-</term>  
-</keywords>  
-</textClass>  
-</profileDesc>  
-<revisionDesc> 
-<change> 
-<date>May 1997 
-</date>  
-<respStmt> 
-<resp>corrector 
-</resp>  
-<name>Christine Ruotolo 
-</name>  
-</respStmt>  
-<item>Added TEI header and tags. 
-</item>  
-</change>  
-</revisionDesc>  
-</teiHeader>  
- 
-<text id="TwaBadlT"> 
- 
-<body> 
- 
- <pb n="51">  
- 
-<div1 type="story"> 
-<head> 
-Story of the Bad Little Boy. 
-</head> 
- 
-<p> 
-<figure entity="TwaBad51"> 
-<figDesc> 
-Black-and-white illustration of a boy in a tree, reaching for a piece of fruit. 
-A hat full of fruit and an anxious-looking dog are visible beneath the tree. 
-</figDesc> 
-</figure> 
-</p> 
- 
-<p>ONCE there was a bad little boy whose name was Jim--though, if you  
-will notice, you will find that bad little boys are nearly always called  
-James in your Sunday-school books.  It was strange, but still it was true  
-that this one was called Jim.</p> 
- 
-<p>He didn't have any sick mother either--a sick mother who was pious and 
-had the consumption, and would be glad to lie down in the grave and be 
-at rest but for the strong love she bore her boy, and the anxiety she  
-felt that the world might be harsh and cold towards him when she was gone. 
-Most bad boys in the Sunday-books are named James, and have sick mothers, 
-   <pb n="52">  
-who teach them to say, "Now, I lay me 
-down," etc., and sing them to sleep with sweet,  plaintive voices, 
-and then kiss them good-night, and kneel down by the bedside and  
-weep. But it was different with this fellow. He was named Jim, and 
-there wasn't anything  the matter with his mother -- no 
-consumption, nor anything of that kind. She was rather stout than 
-otherwise, and she was not pious; moreover, she was not anxious 
-on Jim's  account. She said if he were to break his neck it wouldn't 
-be much loss. She always spanked Jim to sleep, and she never 
-kissed him good-night; on the contrary, she boxed  his ears when 
-she was ready to leave him.</p> 
- 
-<p> 
-<figure entity="TwaBad52"> 
-<figDesc> 
-Black-and-white illustration of a boy standing on a chair in a 
-pantry, reaching for a large jar of jam. 
-</figDesc> 
-</figure> 
-</p> 
- 
-<p>Once this little bad boy stole the key of the pantry, and slipped 
-in  there and helped himself to some jam, and filled up the vessel 
-with tar so that his mother would never know the difference; but all 
-at once a terrible feeling didn't come over him, and something didn't 
-seem to whisper to him, "Is it right to disobey my  mother? Isn't in 
-sinful to do this?  Where do bad little boys go who gobble up their 
-good kind mother's  jam?" and then he didn't kneel down all alone 
-and promise never to be wicked any more, and rise up with a light, 
-happy heart, and go and tell his mother all about it and beg her  
-forgiveness, and be blessed by her with tears of pride and 
-thankfulness in her eyes. No; that is the way with all other bad boys 
-in the books; but it happened otherwise with this Jim, strangely 
-enough. He ate that jam, and said it was bully, in his sinful, vulgar 
-way;  and he put in the tar, and said that was bully also, and 
-laughed, and observed "that the old woman would get up and 
-snort" when she found it out; and when she did find it out, he 
-denied knowing anything about it, and she whipped him severely, 
-and he did the  crying himself.   
-   <pb n="53">  
-Everything about this boy was 
-curious -- everything turned out differently with him from the way 
-it does to the bad Jameses in the books.</p> 
- 
-<p>Once he climbed up in Farmer Acorn's apple-tree to steal 
-apples, and the limb didn't break, and he didn't fall and break his 
-arm, and get torn by the farmer's great dog, and then languish on a 
-sick bed for weeks, and repent and become good. Oh! no; he stole 
-as many apples as he wanted and came down all right; and he was 
-all ready for the dog too, and knocked him endways with a brick 
-when he came to tear him. It was very strange -- nothing like it ever 
-happened in those mild little books with marbled backs, and with 
-pictures in them of men with swallow-tailed coats and bell-crowned 
-hats, and pantaloons that are short in the legs, and women with the 
-waists of their dresses under their arms, and no hoops on. Nothing 
-like it in any of the Sunday-school books.</p> 
- 
-<p>Once he stole the teacher's pen-knife, and, when he was afraid 
-it would be found out and he would get whipped, he slipped it into 
-George Wilson's cap -- poor Widow Wilson's son, the moral boy, 
-the good little boy of the village, who always obeyed his mother, 
-and never told an untruth, and was fond of his lessons, and 
-infatuated with Sunday-school. And when the knife dropped from 
-the cap, and poor George hung his head and blushed, as if in 
-conscious guilt, and the grieved teacher charged the theft upon him, 
-and was just in the very act of bringing the switch down upon his 
-trembling shoulders, a white-haired, improbable justice of the peace 
-did not suddenly appear in their midst, and strike an attitude and 
-say, "Spare this noble boy -- there stands the cowering culprit! I 
-was passing the school-door at recess, and unseen myself, I saw the  
-theft committed!" And then Jim didn't get whaled, and the 
-venerable justice didn't read the tearful school a homily, and take 
-George by the hand and say such a boy deserved to be exalted, and 
-then tell him to come and make his home with him, and sweep out 
-the office, and make fires, and run errands, and chop wood, and 
-study law, and help his wife do household labors, and have all the 
-balance of the time to play, and get forty cents a month, and be 
-happy.  No; it would have happened that way in the books, but it 
-didn't happen that way to Jim. No meddling old clam of a justice 
-dropped in to make trouble, and so the model boy George got 
-thrashed, and Jim was glad of it.  Because, you know, Jim hated 
-   <pb n="54">  
-moral boys. Jim said he was "down on them milksops." Such was 
-the coarse language of this bad, neglected boy.</p> 
- 
-<p>But the strangest thing that ever happened to Jim was the time 
-he went boating on Sunday, and didn't get drowned, and that other 
-time that he got caught out in the storm when he was fishing on 
-Sunday, and didn't get struck by lightning. Why, you might look, 
-and look, and look, all through the Sunday-school books from now 
-till next Christmas, and you would never come across anything like 
-this. Oh no; you would find that all the bad boys who go boating on 
-Sunday invariably get drowned, and all the bad boys who get 
-caught out in storms, when they are fishing on Sunday, infallibly get 
-struck by lightning.  Boats with bad boys in them are always upset 
-on Sunday, and it always storms when bad boys go fishing on the 
-Sabbath.  How this Jim ever escaped is a mystery to me.</p> 
- 
-<p> 
-<figure entity="TwaBad54"> 
-<figDesc> 
-Black-and-white illustration a young boy stuffing a plug of tobacco 
-into an elephant's trunk, as a number of bystanders look on. 
-</figDesc> 
-</figure> 
-</p> 
- 
-<p>This Jim bore a charmed life -- that must have been the way of 
-it.  Nothing could hurt him.  He even gave the elephant in the 
-menagerie a plug of tobacco, and the elephant didn't knock the top 
-of his head off with his trunk.  He browsed around the cupboard 
-after essence of peppermint, and didn't make a mistake and drink 
-aqua fortis. He stole his father's gun and went hunting on the  
-Sabbath, and didn't shoot three or four of his fingers off. He struck 
-his little sister on the temple with his fist when he was angry, and 
-she didn't linger in pain through long summer days, and die with 
-sweet words of forgiveness upon her lips that  redoubled the 
-anguish of his breaking heart. No; she got over  it. He ran off and 
-went to sea at last, and didn't come back and find himself sad and 
-alone in the world, his loved ones sleeping in the quiet church-yard, 
-and the vine-embowered  
-   <pb n="55">  
-home of his boyhood tumbled down and 
-gone to decay. Ah! no; he came home as drunk as a piper, and got 
-into the station-house the first thing.</p> 
- 
-<p>And he grew up, and married, and raised a large family, and 
-brained them all with an axe one night, and got wealthy by all 
-manner of cheating and rascality; and now he is the infernalest 
-wickedest scoundrel in his native village, and is universally 
-respected, and belongs to the Legislature.</p> 
- 
-<p>So you see there never was a bad James in the Sunday-school 
-books that had such a streak of luck as this sinful Jim with the 
-charmed life.</p> 
- 
-<p> 
-<figure entity="TwaBad55"> 
-<figDesc> 
-Black-and-white illustration of a man standing beside a bar, holding a cup 
-in his right hand.  A bottle sits on the bar. 
-</figDesc> 
-</figure> 
-</p> 
- 
-   
-</div1> 
-</body> 
-</text> 
-</TEI.2> 
- 
+</keywords>
+<keywords>
+<term>LCSH
+</term>
+</keywords>
+<keywords>
+<term type="artist">True Williams
+</term>
+<term type="visual work">illustrations
+</term>
+<term type="format">24-bit; 400 dpi
+</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>May 1997
+</date>
+<respStmt>
+<resp>corrector
+</resp>
+<name>Christine Ruotolo
+</name>
+</respStmt>
+<item>Added TEI header and tags.
+</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="TwaBadlT">
+
+<body>
+
+ <pb n="51">
+
+<div1 type="story">
+<head>
+Story of the Bad Little Boy.
+</head>
+
+<p>
+<figure entity="TwaBad51">
+<figDesc>
+Black-and-white illustration of a boy in a tree, reaching for a piece of fruit.
+A hat full of fruit and an anxious-looking dog are visible beneath the tree.
+</figDesc>
+</figure>
+</p>
+
+<p>ONCE there was a bad little boy whose name was Jim--though, if you
+will notice, you will find that bad little boys are nearly always called
+James in your Sunday-school books.  It was strange, but still it was true
+that this one was called Jim.</p>
+
+<p>He didn't have any sick mother either--a sick mother who was pious and
+had the consumption, and would be glad to lie down in the grave and be
+at rest but for the strong love she bore her boy, and the anxiety she
+felt that the world might be harsh and cold towards him when she was gone.
+Most bad boys in the Sunday-books are named James, and have sick mothers,
+   <pb n="52">
+who teach them to say, "Now, I lay me
+down," etc., and sing them to sleep with sweet,  plaintive voices,
+and then kiss them good-night, and kneel down by the bedside and
+weep. But it was different with this fellow. He was named Jim, and
+there wasn't anything  the matter with his mother -- no
+consumption, nor anything of that kind. She was rather stout than
+otherwise, and she was not pious; moreover, she was not anxious
+on Jim's  account. She said if he were to break his neck it wouldn't
+be much loss. She always spanked Jim to sleep, and she never
+kissed him good-night; on the contrary, she boxed  his ears when
+she was ready to leave him.</p>
+
+<p>
+<figure entity="TwaBad52">
+<figDesc>
+Black-and-white illustration of a boy standing on a chair in a
+pantry, reaching for a large jar of jam.
+</figDesc>
+</figure>
+</p>
+
+<p>Once this little bad boy stole the key of the pantry, and slipped
+in  there and helped himself to some jam, and filled up the vessel
+with tar so that his mother would never know the difference; but all
+at once a terrible feeling didn't come over him, and something didn't
+seem to whisper to him, "Is it right to disobey my  mother? Isn't in
+sinful to do this?  Where do bad little boys go who gobble up their
+good kind mother's  jam?" and then he didn't kneel down all alone
+and promise never to be wicked any more, and rise up with a light,
+happy heart, and go and tell his mother all about it and beg her
+forgiveness, and be blessed by her with tears of pride and
+thankfulness in her eyes. No; that is the way with all other bad boys
+in the books; but it happened otherwise with this Jim, strangely
+enough. He ate that jam, and said it was bully, in his sinful, vulgar
+way;  and he put in the tar, and said that was bully also, and
+laughed, and observed "that the old woman would get up and
+snort" when she found it out; and when she did find it out, he
+denied knowing anything about it, and she whipped him severely,
+and he did the  crying himself.
+   <pb n="53">
+Everything about this boy was
+curious -- everything turned out differently with him from the way
+it does to the bad Jameses in the books.</p>
+
+<p>Once he climbed up in Farmer Acorn's apple-tree to steal
+apples, and the limb didn't break, and he didn't fall and break his
+arm, and get torn by the farmer's great dog, and then languish on a
+sick bed for weeks, and repent and become good. Oh! no; he stole
+as many apples as he wanted and came down all right; and he was
+all ready for the dog too, and knocked him endways with a brick
+when he came to tear him. It was very strange -- nothing like it ever
+happened in those mild little books with marbled backs, and with
+pictures in them of men with swallow-tailed coats and bell-crowned
+hats, and pantaloons that are short in the legs, and women with the
+waists of their dresses under their arms, and no hoops on. Nothing
+like it in any of the Sunday-school books.</p>
+
+<p>Once he stole the teacher's pen-knife, and, when he was afraid
+it would be found out and he would get whipped, he slipped it into
+George Wilson's cap -- poor Widow Wilson's son, the moral boy,
+the good little boy of the village, who always obeyed his mother,
+and never told an untruth, and was fond of his lessons, and
+infatuated with Sunday-school. And when the knife dropped from
+the cap, and poor George hung his head and blushed, as if in
+conscious guilt, and the grieved teacher charged the theft upon him,
+and was just in the very act of bringing the switch down upon his
+trembling shoulders, a white-haired, improbable justice of the peace
+did not suddenly appear in their midst, and strike an attitude and
+say, "Spare this noble boy -- there stands the cowering culprit! I
+was passing the school-door at recess, and unseen myself, I saw the
+theft committed!" And then Jim didn't get whaled, and the
+venerable justice didn't read the tearful school a homily, and take
+George by the hand and say such a boy deserved to be exalted, and
+then tell him to come and make his home with him, and sweep out
+the office, and make fires, and run errands, and chop wood, and
+study law, and help his wife do household labors, and have all the
+balance of the time to play, and get forty cents a month, and be
+happy.  No; it would have happened that way in the books, but it
+didn't happen that way to Jim. No meddling old clam of a justice
+dropped in to make trouble, and so the model boy George got
+thrashed, and Jim was glad of it.  Because, you know, Jim hated
+   <pb n="54">
+moral boys. Jim said he was "down on them milksops." Such was
+the coarse language of this bad, neglected boy.</p>
+
+<p>But the strangest thing that ever happened to Jim was the time
+he went boating on Sunday, and didn't get drowned, and that other
+time that he got caught out in the storm when he was fishing on
+Sunday, and didn't get struck by lightning. Why, you might look,
+and look, and look, all through the Sunday-school books from now
+till next Christmas, and you would never come across anything like
+this. Oh no; you would find that all the bad boys who go boating on
+Sunday invariably get drowned, and all the bad boys who get
+caught out in storms, when they are fishing on Sunday, infallibly get
+struck by lightning.  Boats with bad boys in them are always upset
+on Sunday, and it always storms when bad boys go fishing on the
+Sabbath.  How this Jim ever escaped is a mystery to me.</p>
+
+<p>
+<figure entity="TwaBad54">
+<figDesc>
+Black-and-white illustration a young boy stuffing a plug of tobacco
+into an elephant's trunk, as a number of bystanders look on.
+</figDesc>
+</figure>
+</p>
+
+<p>This Jim bore a charmed life -- that must have been the way of
+it.  Nothing could hurt him.  He even gave the elephant in the
+menagerie a plug of tobacco, and the elephant didn't knock the top
+of his head off with his trunk.  He browsed around the cupboard
+after essence of peppermint, and didn't make a mistake and drink
+aqua fortis. He stole his father's gun and went hunting on the
+Sabbath, and didn't shoot three or four of his fingers off. He struck
+his little sister on the temple with his fist when he was angry, and
+she didn't linger in pain through long summer days, and die with
+sweet words of forgiveness upon her lips that  redoubled the
+anguish of his breaking heart. No; she got over  it. He ran off and
+went to sea at last, and didn't come back and find himself sad and
+alone in the world, his loved ones sleeping in the quiet church-yard,
+and the vine-embowered
+   <pb n="55">
+home of his boyhood tumbled down and
+gone to decay. Ah! no; he came home as drunk as a piper, and got
+into the station-house the first thing.</p>
+
+<p>And he grew up, and married, and raised a large family, and
+brained them all with an axe one night, and got wealthy by all
+manner of cheating and rascality; and now he is the infernalest
+wickedest scoundrel in his native village, and is universally
+respected, and belongs to the Legislature.</p>
+
+<p>So you see there never was a bad James in the Sunday-school
+books that had such a streak of luck as this sinful Jim with the
+charmed life.</p>
+
+<p>
+<figure entity="TwaBad55">
+<figDesc>
+Black-and-white illustration of a man standing beside a bar, holding a cup
+in his right hand.  A bottle sits on the bar.
+</figDesc>
+</figure>
+</p>
+
+
+</div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
+</text>
+</TEI.2>

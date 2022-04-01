@@ -31,11 +31,11 @@
 </resp>
 <name>
 </name>
-<resp>Creation of machine-readable version: 
+<resp>Creation of machine-readable version:
 </resp>
 <name>Steve Railton
 </name>
-<resp>Conversion to TEI.2-conformant markup: 
+<resp>Conversion to TEI.2-conformant markup:
 </resp>
 <name>M. Eleanor Culley, University of Virginia Library Electronic Text Center.
 </name>
@@ -102,7 +102,7 @@
 </pubPlace>
 <date>January 8, 1870
 </date>
-<idno type="callNo">Source copy consulted: 
+<idno type="callNo">Source copy consulted:
 </idno>
 </publicationStmt>
 <seriesStmt>
@@ -322,7 +322,7 @@ two together producing some $40,000,000 annually in gold and silver. White Pine 
 to the usual number of suddenly created nabobs, but three years hence nearly every one of them
 will be scratching for wages again. Petroleum bred a few of these butterflies for the eastern
 market. They don't live long in Nevada. I was worth half a million dollars myself, once, for ten
-days -- and now I am prowling around the lecture field and the field of journalism, instructing 
+days -- and now I am prowling around the lecture field and the field of journalism, instructing
 the public for a subsistence. I was just as happy as the other butterflies, and no wiser -- except
 that I am sincerely glad that my supernatural stupidity lost me my great windfall before it had a
 chance to make a more inspired ass of me than I was before. I am satisfied that I do not know
@@ -339,6 +339,7 @@ of this newspaper article. </p>
 </div2>
 <byline>Mark Twain</byline>
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 </text>
 </TEI.2>

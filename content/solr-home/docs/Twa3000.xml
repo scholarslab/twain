@@ -4,28 +4,28 @@
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
 <!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
-<!ENTITY Twa3fco SYSTEM "uva-lib:492313" NDATA uvaHighRes> 
-<!ENTITY Twa3spi SYSTEM "uva-lib:492314" NDATA uvaHighRes> 
-<!ENTITY Twa3bco SYSTEM "uva-lib:492315" NDATA uvaHighRes> 
-<!ENTITY Twa3fro SYSTEM "uva-lib:492316" NDATA uvaHighRes> 
-<!ENTITY Twa3tpg SYSTEM "uva-lib:492317" NDATA uvaHighRes> 
-<!ENTITY Twa3066 SYSTEM "uva-lib:492318" NDATA uvaHighRes> 
-<!ENTITY Twa3171 SYSTEM "uva-lib:492319" NDATA uvaHighRes> 
-<!ENTITY Twa3172 SYSTEM "uva-lib:492320" NDATA uvaHighRes> 
-<!ENTITY Twa3175 SYSTEM "uva-lib:492321" NDATA uvaHighRes> 
-<!ENTITY Twa3176 SYSTEM "uva-lib:492322" NDATA uvaHighRes> 
-<!ENTITY Twa3177 SYSTEM "uva-lib:492323" NDATA uvaHighRes> 
-<!ENTITY Twa3178 SYSTEM "uva-lib:492324" NDATA uvaHighRes> 
-<!ENTITY Twa3179 SYSTEM "uva-lib:492325" NDATA uvaHighRes> 
-<!ENTITY Twa3181 SYSTEM "uva-lib:492326" NDATA uvaHighRes> 
-<!ENTITY Twa3182 SYSTEM "uva-lib:492327" NDATA uvaHighRes> 
-<!ENTITY Twa3183 SYSTEM "uva-lib:492328" NDATA uvaHighRes> 
-<!ENTITY Twa3198 SYSTEM "uva-lib:492329" NDATA uvaHighRes> 
-<!ENTITY Twa3231 SYSTEM "uva-lib:492330" NDATA uvaHighRes> 
-<!ENTITY Twa3265 SYSTEM "uva-lib:492331" NDATA uvaHighRes> 
-<!ENTITY Twa3286 SYSTEM "uva-lib:492332" NDATA uvaHighRes> 
-<!ENTITY Twa3311 SYSTEM "uva-lib:492333" NDATA uvaHighRes> 
-]> 
+<!ENTITY Twa3fco SYSTEM "uva-lib:492313" NDATA uvaHighRes>
+<!ENTITY Twa3spi SYSTEM "uva-lib:492314" NDATA uvaHighRes>
+<!ENTITY Twa3bco SYSTEM "uva-lib:492315" NDATA uvaHighRes>
+<!ENTITY Twa3fro SYSTEM "uva-lib:492316" NDATA uvaHighRes>
+<!ENTITY Twa3tpg SYSTEM "uva-lib:492317" NDATA uvaHighRes>
+<!ENTITY Twa3066 SYSTEM "uva-lib:492318" NDATA uvaHighRes>
+<!ENTITY Twa3171 SYSTEM "uva-lib:492319" NDATA uvaHighRes>
+<!ENTITY Twa3172 SYSTEM "uva-lib:492320" NDATA uvaHighRes>
+<!ENTITY Twa3175 SYSTEM "uva-lib:492321" NDATA uvaHighRes>
+<!ENTITY Twa3176 SYSTEM "uva-lib:492322" NDATA uvaHighRes>
+<!ENTITY Twa3177 SYSTEM "uva-lib:492323" NDATA uvaHighRes>
+<!ENTITY Twa3178 SYSTEM "uva-lib:492324" NDATA uvaHighRes>
+<!ENTITY Twa3179 SYSTEM "uva-lib:492325" NDATA uvaHighRes>
+<!ENTITY Twa3181 SYSTEM "uva-lib:492326" NDATA uvaHighRes>
+<!ENTITY Twa3182 SYSTEM "uva-lib:492327" NDATA uvaHighRes>
+<!ENTITY Twa3183 SYSTEM "uva-lib:492328" NDATA uvaHighRes>
+<!ENTITY Twa3198 SYSTEM "uva-lib:492329" NDATA uvaHighRes>
+<!ENTITY Twa3231 SYSTEM "uva-lib:492330" NDATA uvaHighRes>
+<!ENTITY Twa3265 SYSTEM "uva-lib:492331" NDATA uvaHighRes>
+<!ENTITY Twa3286 SYSTEM "uva-lib:492332" NDATA uvaHighRes>
+<!ENTITY Twa3311 SYSTEM "uva-lib:492333" NDATA uvaHighRes>
+]>
 <TEI.2 id="Twa3000">
     <teiHeader type="migrated" creator="Etext">
         <fileDesc>
@@ -8730,6 +8730,7 @@
                     </p>
                 </div2>
             </div1>
-        </body>
+        <!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
     </text>
 </TEI.2>

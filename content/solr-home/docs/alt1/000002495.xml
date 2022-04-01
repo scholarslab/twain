@@ -11712,6 +11712,7 @@ history of "Those Extraordinary Twins."</p>
 <figure id="f689" rend="inline" entity="DSSR_000002495_0436"/>
 </div2>
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 <back id="t1-back">
 <div1 type="part" id="d46">
@@ -11751,7 +11752,7 @@ he knows now how the other kind do it.</p>
  <pb entity="DSSR_000002495_0440"/>
  <pb entity="DSSR_000002495_0441"/>
  <pb entity="DSSR_000002495_0442"/>
- 
+
 </div1>
 </back>
 </text>

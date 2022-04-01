@@ -4,19 +4,19 @@
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
 <!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
-<!ENTITY TwaMysC SYSTEM "uva-lib:492367" NDATA uvaHighRes> 
-<!ENTITY TwaMysS SYSTEM "uva-lib:492368" NDATA uvaHighRes> 
-<!ENTITY TwaMysP SYSTEM "uva-lib:492369" NDATA uvaHighRes> 
-<!ENTITY TwaMys1 SYSTEM "uva-lib:492370" NDATA uvaHighRes> 
-<!ENTITY TwaMys2 SYSTEM "uva-lib:492371" NDATA uvaHighRes> 
-<!ENTITY TwaMys2 SYSTEM "uva-lib:492372" NDATA uvaHighRes> 
-<!ENTITY TwaMys3 SYSTEM "uva-lib:492373" NDATA uvaHighRes> 
-<!ENTITY TwaMys4 SYSTEM "uva-lib:492374" NDATA uvaHighRes> 
-<!ENTITY TwaMys5 SYSTEM "uva-lib:492375" NDATA uvaHighRes> 
-<!ENTITY TwaMys6 SYSTEM "uva-lib:492376" NDATA uvaHighRes> 
-<!ENTITY TwaMys7 SYSTEM "uva-lib:492377" NDATA uvaHighRes> 
-<!ENTITY TwaMysT SYSTEM "uva-lib:492378" NDATA uvaHighRes> 
-]>  
+<!ENTITY TwaMysC SYSTEM "uva-lib:492367" NDATA uvaHighRes>
+<!ENTITY TwaMysS SYSTEM "uva-lib:492368" NDATA uvaHighRes>
+<!ENTITY TwaMysP SYSTEM "uva-lib:492369" NDATA uvaHighRes>
+<!ENTITY TwaMys1 SYSTEM "uva-lib:492370" NDATA uvaHighRes>
+<!ENTITY TwaMys2 SYSTEM "uva-lib:492371" NDATA uvaHighRes>
+<!ENTITY TwaMys2 SYSTEM "uva-lib:492372" NDATA uvaHighRes>
+<!ENTITY TwaMys3 SYSTEM "uva-lib:492373" NDATA uvaHighRes>
+<!ENTITY TwaMys4 SYSTEM "uva-lib:492374" NDATA uvaHighRes>
+<!ENTITY TwaMys5 SYSTEM "uva-lib:492375" NDATA uvaHighRes>
+<!ENTITY TwaMys6 SYSTEM "uva-lib:492376" NDATA uvaHighRes>
+<!ENTITY TwaMys7 SYSTEM "uva-lib:492377" NDATA uvaHighRes>
+<!ENTITY TwaMysT SYSTEM "uva-lib:492378" NDATA uvaHighRes>
+]>
 <TEI.2 id="TwaMyst">
  <teiHeader type="migrated" creator="Etext">
   <fileDesc>
@@ -2683,6 +2683,7 @@
     <p> He vanished, and left me appalled; for I knew, and realized, that all he had said was true.
     </p>
    </div1>
-  </body>
+  <!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
+</body>
  </text>
 </TEI.2>

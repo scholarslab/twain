@@ -24,11 +24,11 @@
 </resp>
 <name>
 </name>
-<resp>Creation of machine-readable version: 
+<resp>Creation of machine-readable version:
 </resp>
 <name>Steve Railton
 </name>
-<resp>Conversion to TEI.2-conformant markup: 
+<resp>Conversion to TEI.2-conformant markup:
 </resp>
 <name>J. Nathaniel Goldsmith, University of Virginia Library Electronic Text Center.
 </name>
@@ -95,7 +95,7 @@
 </pubPlace>
 <date>
 </date>
-<idno type="callNo">Source copy consulted: 
+<idno type="callNo">Source copy consulted:
 </idno>
 </publicationStmt>
 <seriesStmt>
@@ -201,7 +201,7 @@ a rolling stone gathers no moss.  And a rolling Smith never gathers any moss.  T
 in anybody's gathering moss, John, because it isn't worth any more in the market than sawdust is,
 and hardly as much -- but then, if we want to get along pleasantly with the world, we must respect
 the world's little whims and caprices; and you know that the world has a foolish prejudice in favor
-of a man's gathering moss.  So you had better locate, John, and go to gathering some.  It is no 
+of a man's gathering moss.  So you had better locate, John, and go to gathering some.  It is no
 credit to you, John Smith, that you are always sure to turn up wherever a man goes.  It may be --
 no, it cannot be possible -- that there are two John Smiths.  The idea is absurd.</p>
 
@@ -221,6 +221,7 @@ acre of ground, and your Smith family is a large one, John.</p>
 </closer>
 
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 </text>
 </TEI.2>

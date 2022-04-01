@@ -28,11 +28,11 @@
 </resp>
 <name>
 </name>
-<resp>Creation of machine-readable version: 
+<resp>Creation of machine-readable version:
 </resp>
 <name>Steve Railton
 </name>
-<resp>Conversion to TEI.2-conformant markup: 
+<resp>Conversion to TEI.2-conformant markup:
 </resp>
 <name>M. Eleanor Culley, University of Virginia Library Electronic Text Center.
 </name>
@@ -99,7 +99,7 @@
 </pubPlace>
 <date>November 13, 1869
 </date>
-<idno type="callNo">Source copy consulted: 
+<idno type="callNo">Source copy consulted:
 </idno>
 </publicationStmt>
 <seriesStmt>
@@ -321,7 +321,7 @@ together, and it is not likely that the world will ever see its like again. For,
 assemblage of 200,000 <hi>young</hi> men -- not simpering, dainty, kid-gloved weaklings, but
 stalwart, muscular, dauntless young braves, brimful of push and energy, and royally endowed
 with every attribute that goes to make up a peerless and magnificent manhood -- the very pick
-and choice of the world's glorious ones. No women, no children, no gray and stooping veterans, -- 
+and choice of the world's glorious ones. No women, no children, no gray and stooping veterans, --
  none but erect, bright-eyed, quickmoving, strong-handed young giants -- the strangest
 population, the finest population, the most gallant host that ever trooped down the startled
 solitudes of an unpeopled land. And where are they now?  Scattered to the ends of the earth -- or
@@ -343,6 +343,7 @@ all over."  </p>
 <byline>Mark Twain</byline>
 
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 </text>
 </TEI.2>

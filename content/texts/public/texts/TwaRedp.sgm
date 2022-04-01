@@ -24,11 +24,11 @@
 </resp>
 <name>
 </name>
-<resp>Creation of machine-readable version: 
+<resp>Creation of machine-readable version:
 </resp>
 <name>Steve Railton
 </name>
-<resp>Conversion to TEI.2-conformant markup: 
+<resp>Conversion to TEI.2-conformant markup:
 </resp>
 <name>J. Nathaniel Goldsmith, University of Virginia Library Electronic Text Center.
 </name>
@@ -95,7 +95,7 @@
 </pubPlace>
 <date>20 April 1872
 </date>
-<idno type="callNo">Source copy consulted: 
+<idno type="callNo">Source copy consulted:
 </idno>
 </publicationStmt>
 <seriesStmt>
@@ -181,12 +181,12 @@
 Elmira, 20 April 1872</head>
 
 <div1 type="letter">
-<opener> 
+<opener>
 <seg>
 <figure entity="TwaR001">
 </figure>
 </seg>
-<dateline> 
+<dateline>
 <date n="20 April">Elmira, Apl. 20.</date>
 </dateline>
 <salute>Dear Red --</salute>
@@ -209,6 +209,7 @@ Elmira, 20 April 1872</head>
 
 <p>I order a copy to be sent to you a couple of weeks ago.  If it has</p>
 </div1>
+<!-- Matomo --> <script> var _paq = window._paq = window._paq || []; /* tracker methods like "setCustomDimension" should be called before "trackPageView" */ _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="https://analytics.lib.virginia.edu/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '46']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); </script> <!-- End Matomo Code -->
 </body>
 </text>
 </TEI.2>
