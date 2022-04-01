@@ -19,7 +19,7 @@ services:
             - "traefik.frontend.rule=Host:twain.lib.virginia.edu"
 
     twain_solr:
-        image: solr:7
+        image: solr:8.11.1
         container_name: twain_solr
         restart: always
         volumes:
